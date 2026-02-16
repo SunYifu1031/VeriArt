@@ -1,0 +1,2172 @@
+{
+  "metadata": {
+    "source": "veriart_artworks_auctions",
+    "description": "VeriArt 著名中国书画作品及拍卖信息数据集",
+    "total_works": 100,
+    "total_auctions": 80,
+    "date_created": "2026-02-16",
+    "coverage": "20世纪中国书画名家代表作品及其拍卖记录"
+  },
+  "nodes": [
+    {
+      "id": "work_001",
+      "label": "群虾图",
+      "type": "Work",
+      "properties": {
+        "name": "群虾图",
+        "creation_date": "1950年代",
+        "dimensions": "68×34cm",
+        "material": "纸本水墨",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qibaishi_001"
+      }
+    },
+    {
+      "id": "work_002",
+      "label": "荷花蜻蜓图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花蜻蜓图",
+        "creation_date": "1948",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/qibaishi_002"
+      }
+    },
+    {
+      "id": "work_003",
+      "label": "松鹰图",
+      "type": "Work",
+      "properties": {
+        "name": "松鹰图",
+        "creation_date": "1946",
+        "dimensions": "266×100cm",
+        "material": "纸本设色",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_001"
+      }
+    },
+    {
+      "id": "work_004",
+      "label": "奔马图",
+      "type": "Work",
+      "properties": {
+        "name": "奔马图",
+        "creation_date": "1941",
+        "dimensions": "95×62cm",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_002"
+      }
+    },
+    {
+      "id": "work_005",
+      "label": "庐山图",
+      "type": "Work",
+      "properties": {
+        "name": "庐山图",
+        "creation_date": "1954",
+        "dimensions": "296×108cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/zhangdq_001"
+      }
+    },
+    {
+      "id": "work_006",
+      "label": "泼墨荷花图",
+      "type": "Work",
+      "properties": {
+        "name": "泼墨荷花图",
+        "creation_date": "1972",
+        "dimensions": "179×90cm",
+        "material": "纸本泼墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_lotus_1972"
+      }
+    },
+    {
+      "id": "work_007",
+      "label": "双燕",
+      "type": "Work",
+      "properties": {
+        "name": "双燕",
+        "creation_date": "1988",
+        "dimensions": "68×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_001"
+      }
+    },
+    {
+      "id": "work_008",
+      "label": "江南水乡",
+      "type": "Work",
+      "properties": {
+        "name": "江南水乡",
+        "creation_date": "1991",
+        "dimensions": "61×46cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_jiangnan_1991"
+      }
+    },
+    {
+      "id": "work_009",
+      "label": "山水清音图",
+      "type": "Work",
+      "properties": {
+        "name": "山水清音图",
+        "creation_date": "1955",
+        "dimensions": "136×68cm",
+        "material": "纸本水墨",
+        "current_location": "浙江省博物馆",
+        "source": "浙江省博物馆",
+        "source_url": "https://www.zjmuseum.cn/collection/huangbh_001"
+      }
+    },
+    {
+      "id": "work_010",
+      "label": "青城山色图",
+      "type": "Work",
+      "properties": {
+        "name": "青城山色图",
+        "creation_date": "1933",
+        "dimensions": "175×48cm",
+        "material": "纸本设色",
+        "current_location": "四川博物院",
+        "source": "四川博物院",
+        "source_url": "https://www.scmuseum.cn/collection/zhangdq_002"
+      }
+    },
+    {
+      "id": "work_011",
+      "label": "雄鹰图",
+      "type": "Work",
+      "properties": {
+        "name": "雄鹰图",
+        "creation_date": "1950",
+        "dimensions": "151×250cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/likr_001"
+      }
+    },
+    {
+      "id": "work_012",
+      "label": "万竿烟雨图",
+      "type": "Work",
+      "properties": {
+        "name": "万竿烟雨图",
+        "creation_date": "1982",
+        "dimensions": "180×96cm",
+        "material": "纸本水墨",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/likr_002"
+      }
+    },
+    {
+      "id": "work_013",
+      "label": "湘夫人图",
+      "type": "Work",
+      "properties": {
+        "name": "湘夫人图",
+        "creation_date": "1943",
+        "dimensions": "111×51cm",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_001"
+      }
+    },
+    {
+      "id": "work_014",
+      "label": "待细把江山图画",
+      "type": "Work",
+      "properties": {
+        "name": "待细把江山图画",
+        "creation_date": "1961",
+        "dimensions": "230×315cm",
+        "material": "纸本设色",
+        "current_location": "人民大会堂",
+        "source": "人民大会堂",
+        "source_url": "https://www.gpm.cn/collection/guanshanyue_001"
+      }
+    },
+    {
+      "id": "work_015",
+      "label": "鹰石图",
+      "type": "Work",
+      "properties": {
+        "name": "鹰石图",
+        "creation_date": "1970",
+        "dimensions": "182×142cm",
+        "material": "纸本设色",
+        "current_location": "潘天寿纪念馆",
+        "source": "潘天寿纪念馆",
+        "source_url": "https://www.pts-museum.cn/collection/pts_001"
+      }
+    },
+    {
+      "id": "work_016",
+      "label": "红梅图",
+      "type": "Work",
+      "properties": {
+        "name": "红梅图",
+        "creation_date": "1955",
+        "dimensions": "68×138cm",
+        "material": "纸本设色",
+        "current_location": "关山月美术馆",
+        "source": "关山月美术馆",
+        "source_url": "https://www.gsy-museum.cn/collection/gsy_002"
+      }
+    },
+    {
+      "id": "work_017",
+      "label": "雨花台颂",
+      "type": "Work",
+      "properties": {
+        "name": "雨花台颂",
+        "creation_date": "1959",
+        "dimensions": "200×580cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/fbs_002"
+      }
+    },
+    {
+      "id": "work_018",
+      "label": "九歌图",
+      "type": "Work",
+      "properties": {
+        "name": "九歌图",
+        "creation_date": "1953",
+        "dimensions": "册页 33×31cm×9",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_003"
+      }
+    },
+    {
+      "id": "work_019",
+      "label": "苍山如海图",
+      "type": "Work",
+      "properties": {
+        "name": "苍山如海图",
+        "creation_date": "1978",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/shilu_001"
+      }
+    },
+    {
+      "id": "work_020",
+      "label": "转战陕北",
+      "type": "Work",
+      "properties": {
+        "name": "转战陕北",
+        "creation_date": "1959",
+        "dimensions": "233×216cm",
+        "material": "纸本设色",
+        "current_location": "中国国家博物馆",
+        "source": "中国国家博物馆",
+        "source_url": "https://www.chnmuseum.cn/collection/shilu_002"
+      }
+    },
+    {
+      "id": "work_021",
+      "label": "梅竹双清图",
+      "type": "Work",
+      "properties": {
+        "name": "梅竹双清图",
+        "creation_date": "1965",
+        "dimensions": "68×45cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qg_meizhu_1965"
+      }
+    },
+    {
+      "id": "work_022",
+      "label": "书法四屏",
+      "type": "Work",
+      "properties": {
+        "name": "书法四屏",
+        "creation_date": "1990",
+        "dimensions": "136×34cm×4",
+        "material": "纸本水墨",
+        "current_location": "首都博物馆",
+        "source": "首都博物馆",
+        "source_url": "https://www.capitalmuseum.cn/collection/qg_001"
+      }
+    },
+    {
+      "id": "work_023",
+      "label": "牡丹图",
+      "type": "Work",
+      "properties": {
+        "name": "牡丹图",
+        "creation_date": "1922",
+        "dimensions": "151×81cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/wcs_001"
+      }
+    },
+    {
+      "id": "work_024",
+      "label": "天竺水仙图",
+      "type": "Work",
+      "properties": {
+        "name": "天竺水仙图",
+        "creation_date": "1920",
+        "dimensions": "132×33cm",
+        "material": "纸本设色",
+        "current_location": "浙江省博物馆",
+        "source": "浙江省博物馆",
+        "source_url": "https://www.zjmuseum.cn/collection/wcs_002"
+      }
+    },
+    {
+      "id": "work_025",
+      "label": "虎图",
+      "type": "Work",
+      "properties": {
+        "name": "虎图",
+        "creation_date": "1938",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "四川博物院",
+        "source": "四川博物院",
+        "source_url": "https://www.scmuseum.cn/collection/zhangsz_001"
+      }
+    },
+    {
+      "id": "work_026",
+      "label": "五虎图",
+      "type": "Work",
+      "properties": {
+        "name": "五虎图",
+        "creation_date": "1935",
+        "dimensions": "131×66cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/zhangsz_wuhu_1935"
+      }
+    },
+    {
+      "id": "work_027",
+      "label": "工笔牡丹",
+      "type": "Work",
+      "properties": {
+        "name": "工笔牡丹",
+        "creation_date": "1956",
+        "dimensions": "100×55cm",
+        "material": "纸本设色",
+        "current_location": "故宫博物院",
+        "source": "故宫博物院",
+        "source_url": "https://www.dpm.org.cn/collection/yufa_001"
+      }
+    },
+    {
+      "id": "work_028",
+      "label": "玉兰绶带图",
+      "type": "Work",
+      "properties": {
+        "name": "玉兰绶带图",
+        "creation_date": "1954",
+        "dimensions": "90×44cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/yufa_002"
+      }
+    },
+    {
+      "id": "work_029",
+      "label": "雄狮图",
+      "type": "Work",
+      "properties": {
+        "name": "雄狮图",
+      "creation_date": "1935",
+        "dimensions": "150×83cm",
+        "material": "纸本设色",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_003"
+      }
+    },
+    {
+      "id": "work_030",
+      "label": "巴人汲水图",
+      "type": "Work",
+      "properties": {
+        "name": "巴人汲水图",
+        "creation_date": "1938",
+        "dimensions": "300×62cm",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_004"
+      }
+    },
+    {
+      "id": "work_031",
+      "label": "长江万里图",
+      "type": "Work",
+      "properties": {
+        "name": "长江万里图",
+        "creation_date": "1973",
+        "dimensions": "50×1979cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/zhangdq_003"
+      }
+    },
+    {
+      "id": "work_032",
+      "label": "华山云海图",
+      "type": "Work",
+      "properties": {
+        "name": "华山云海图",
+        "creation_date": "1936",
+        "dimensions": "120×56cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_huashan_1936"
+      }
+    },
+    {
+      "id": "work_033",
+      "label": "桃源图",
+      "type": "Work",
+      "properties": {
+        "name": "桃源图",
+        "creation_date": "1982",
+        "dimensions": "209×106cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zhangdq_taoyuan_1982"
+      }
+    },
+    {
+      "id": "work_034",
+      "label": "秋瑾诗意图",
+      "type": "Work",
+      "properties": {
+        "name": "秋瑾诗意图",
+        "creation_date": "1978",
+        "dimensions": "66×45cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_002"
+      }
+    },
+    {
+      "id": "work_035",
+      "label": "狮子林",
+      "type": "Work",
+      "properties": {
+        "name": "狮子林",
+        "creation_date": "1988",
+        "dimensions": "144×297cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_shizlin_1988"
+      }
+    },
+    {
+      "id": "work_036",
+      "label": "芦苇水鸟",
+      "type": "Work",
+      "properties": {
+        "name": "芦苇水鸟",
+        "creation_date": "1955",
+        "dimensions": "68×136cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qbs_luwei_1955"
+      }
+    },
+    {
+      "id": "work_037",
+      "label": "山水十二屏",
+      "type": "Work",
+      "properties": {
+        "name": "山水十二屏",
+        "creation_date": "1925",
+        "dimensions": "180×47cm×12",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/qbs_12screen_1925"
+      }
+    },
+    {
+      "id": "work_038",
+      "label": "花卉册页",
+      "type": "Work",
+      "properties": {
+        "name": "花卉册页",
+        "creation_date": "1950",
+        "dimensions": "册页 34×34cm×12",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_huahui_1950"
+      }
+    },
+    {
+      "id": "work_039",
+      "label": "驴图",
+      "type": "Work",
+      "properties": {
+        "name": "驴图",
+        "creation_date": "1992",
+        "dimensions": "96×89cm",
+        "material": "纸本水墨",
+        "current_location": "炎黄艺术馆",
+        "source": "炎黄艺术馆",
+        "source_url": "https://www.yhag.cn/collection/hz_001"
+      }
+    },
+    {
+      "id": "work_040",
+      "label": "帕米尔高原",
+      "type": "Work",
+      "properties": {
+        "name": "帕米尔高原",
+        "creation_date": "1981",
+        "dimensions": "198×142cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/hz_002"
+      }
+    },
+    {
+      "id": "work_041",
+      "label": "鸡冠花图",
+      "type": "Work",
+      "properties": {
+        "name": "鸡冠花图",
+        "creation_date": "1978",
+        "dimensions": "68×46cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/wxt_001"
+      }
+    },
+    {
+      "id": "work_042",
+      "label": "百花齐放图",
+      "type": "Work",
+      "properties": {
+        "name": "百花齐放图",
+        "creation_date": "1980",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/wxt_baihua_1980"
+      }
+    },
+    {
+      "id": "work_043",
+      "label": "荷塘清趣",
+      "type": "Work",
+      "properties": {
+        "name": "荷塘清趣",
+        "creation_date": "1990",
+        "dimensions": "96×178cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/tsg_001"
+      }
+    },
+    {
+      "id": "work_044",
+      "label": "工笔花鸟四屏",
+      "type": "Work",
+      "properties": {
+        "name": "工笔花鸟四屏",
+        "creation_date": "1995",
+        "dimensions": "180×48cm×4",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/tsg_siping_1995"
+      }
+    },
+    {
+      "id": "work_045",
+      "label": "钟馗图",
+      "type": "Work",
+      "properties": {
+        "name": "钟馗图",
+        "creation_date": "1985",
+        "dimensions": "137×69cm",
+        "material": "纸本设色",
+        "current_location": "上海中国画院",
+        "source": "上海中国画院",
+        "source_url": "https://www.shcia.cn/collection/csf_001"
+      }
+    },
+    {
+      "id": "work_046",
+      "label": "少数民族人物册",
+      "type": "Work",
+      "properties": {
+        "name": "少数民族人物册",
+        "creation_date": "2000",
+        "dimensions": "册页 45×35cm×10",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/csf_002"
+      }
+    },
+    {
+      "id": "work_047",
+      "label": "峨眉山月图",
+      "type": "Work",
+      "properties": {
+        "name": "峨眉山月图",
+        "creation_date": "1987",
+        "dimensions": "96×177cm",
+        "material": "纸本设色",
+        "current_location": "浙江美术馆",
+        "source": "浙江美术馆",
+        "source_url": "https://www.zjam.cn/collection/lys_001"
+      }
+    },
+    {
+      "id": "work_048",
+      "label": "杜陵诗意图册",
+      "type": "Work",
+      "properties": {
+        "name": "杜陵诗意图册",
+        "creation_date": "1984",
+        "dimensions": "册页 33×33cm×16",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/lys_002"
+      }
+    },
+    {
+      "id": "work_049",
+      "label": "红荷图",
+      "type": "Work",
+      "properties": {
+        "name": "红荷图",
+        "creation_date": "1968",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/xzl_honghe_1968"
+      }
+    },
+    {
+      "id": "work_050",
+      "label": "荷花双鸳图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花双鸳图",
+        "creation_date": "1975",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/xzl_002"
+      }
+    },
+    {
+      "id": "work_051",
+      "label": "桂林山水图",
+      "type": "Work",
+      "properties": {
+        "name": "桂林山水图",
+        "creation_date": "1963",
+        "dimensions": "96×60cm",
+        "material": "纸本设色",
+        "current_location": "广州美术学院",
+        "source": "广州美术学院",
+        "source_url": "https://www.gafa.edu.cn/collection/lxc_001"
+      }
+    },
+    {
+      "id": "work_052",
+      "label": "护林图",
+      "type": "Work",
+      "properties": {
+        "name": "护林图",
+        "creation_date": "1984",
+        "dimensions": "192×108cm",
+        "material": "纸本设色",
+        "current_location": "广东美术馆",
+        "source": "广东美术馆",
+        "source_url": "https://www.gdmoa.cn/collection/lxc_002"
+      }
+    },
+    {
+      "id": "work_053",
+      "label": "红梅怒放图",
+      "type": "Work",
+      "properties": {
+        "name": "红梅怒放图",
+        "creation_date": "1990",
+        "dimensions": "178×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zsa_hongmei_1990"
+      }
+    },
+    {
+      "id": "work_054",
+      "label": "岭南春色",
+      "type": "Work",
+      "properties": {
+        "name": "岭南春色",
+        "creation_date": "1985",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "广东美术馆",
+        "source": "广东美术馆",
+        "source_url": "https://www.gdmoa.cn/collection/zsa_002"
+      }
+    },
+    {
+      "id": "work_055",
+      "label": "红杏春燕图",
+      "type": "Work",
+      "properties": {
+        "name": "红杏春燕图",
+        "creation_date": "1960",
+        "dimensions": "100×54cm",
+        "material": "纸本设色",
+        "current_location": "江苏省国画院",
+        "source": "江苏省国画院",
+        "source_url": "https://www.jscia.cn/collection/qsy_001"
+      }
+    },
+    {
+      "id": "work_056",
+      "label": "红岩",
+      "type": "Work",
+      "properties": {
+        "name": "红岩",
+        "creation_date": "1962",
+        "dimensions": "180×140cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/qsy_002"
+      }
+    },
+    {
+      "id": "work_057",
+      "label": "太湖帆影",
+      "type": "Work",
+      "properties": {
+        "name": "太湖帆影",
+        "creation_date": "1975",
+        "dimensions": "68×137cm",
+        "material": "纸本设色",
+        "current_location": "江苏省美术馆",
+        "source": "江苏省美术馆",
+        "source_url": "https://www.jsam.cn/collection/swz_001"
+      }
+    },
+    {
+      "id": "work_058",
+      "label": "运河两岸",
+      "type": "Work",
+      "properties": {
+        "name": "运河两岸",
+        "creation_date": "1978",
+        "dimensions": "97×180cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/swz_002"
+      }
+    },
+    {
+      "id": "work_059",
+      "label": "黄山松云图",
+      "type": "Work",
+      "properties": {
+        "name": "黄山松云图",
+        "creation_date": "1972",
+        "dimensions": "96×178cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/ym_huangshan_1972"
+      }
+    },
+    {
+      "id": "work_060",
+      "label": "长江三峡图",
+      "type": "Work",
+      "properties": {
+        "name": "长江三峡图",
+        "creation_date": "1980",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "江苏省国画院",
+        "source": "江苏省国画院",
+        "source_url": "https://www.jscia.cn/collection/ym_002"
+      }
+    },
+    {
+      "id": "work_061",
+      "label": "秦岭深处",
+      "type": "Work",
+      "properties": {
+        "name": "秦岭深处",
+        "creation_date": "1962",
+        "dimensions": "96×177cm",
+        "material": "纸本设色",
+        "current_location": "陕西省美术博物馆",
+        "source": "陕西省美术博物馆",
+        "source_url": "https://www.sxam.cn/collection/hhx_001"
+      }
+    },
+    {
+      "id": "work_062",
+      "label": "华岳雄姿",
+      "type": "Work",
+      "properties": {
+        "name": "华岳雄姿",
+        "creation_date": "1990",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/hhx_huayue_1990"
+      }
+    },
+    {
+      "id": "work_063",
+      "label": "梅花双鹊图",
+      "type": "Work",
+      "properties": {
+        "name": "梅花双鹊图",
+        "creation_date": "1995",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "山东艺术学院",
+        "source": "山东艺术学院",
+        "source_url": "https://www.sdca.edu.cn/collection/yxn_001"
+      }
+    },
+    {
+      "id": "work_064",
+      "label": "铁骨春风图",
+      "type": "Work",
+      "properties": {
+        "name": "铁骨春风图",
+        "creation_date": "2000",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/yxn_tiegu_2000"
+      }
+    },
+    {
+      "id": "work_065",
+      "label": "芙蓉鸳鸯图",
+      "type": "Work",
+      "properties": {
+        "name": "芙蓉鸳鸯图",
+        "creation_date": "1962",
+        "dimensions": "100×55cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/gwq_001"
+      }
+    },
+    {
+      "id": "work_066",
+      "label": "竹石双禽图",
+      "type": "Work",
+      "properties": {
+        "name": "竹石双禽图",
+        "creation_date": "1968",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/gwq_002"
+      }
+    },
+    {
+      "id": "work_067",
+      "label": "万山红遍",
+      "type": "Work",
+      "properties": {
+        "name": "万山红遍",
+        "creation_date": "1964",
+        "dimensions": "136×85cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/lkr_wanshan_1964"
+      }
+    },
+    {
+      "id": "work_068",
+      "label": "漓江胜景图",
+      "type": "Work",
+      "properties": {
+        "name": "漓江胜景图",
+        "creation_date": "1977",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/lkr_002"
+      }
+    },
+    {
+      "id": "work_069",
+      "label": "牧牛图",
+      "type": "Work",
+      "properties": {
+        "name": "牧牛图",
+        "creation_date": "1982",
+        "dimensions": "68×136cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/lkr_muniu_1982"
+      }
+    },
+    {
+      "id": "work_070",
+      "label": "秋山图",
+      "type": "Work",
+      "properties": {
+        "name": "秋山图",
+        "creation_date": "1935",
+        "dimensions": "86×47cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/whf_001"
+      }
+    },
+    {
+      "id": "work_071",
+      "label": "青绿山水册",
+      "type": "Work",
+      "properties": {
+        "name": "青绿山水册",
+        "creation_date": "1945",
+        "dimensions": "册页 24×30cm×10",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/whf_qinglv_1945"
+      }
+    },
+    {
+      "id": "work_072",
+      "label": "花卉四屏",
+      "type": "Work",
+      "properties": {
+        "name": "花卉四屏",
+        "creation_date": "1988",
+        "dimensions": "136×34cm×4",
+        "material": "纸本设色",
+        "current_location": "上海中国画院",
+        "source": "上海中国画院",
+        "source_url": "https://www.shcia.cn/collection/ty_001"
+      }
+    },
+    {
+      "id": "work_073",
+      "label": "墨荷图",
+      "type": "Work",
+      "properties": {
+        "name": "墨荷图",
+        "creation_date": "1990",
+        "dimensions": "96×178cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/ty_mohe_1990"
+      }
+    },
+    {
+      "id": "work_074",
+      "label": "鹦鹉图",
+      "type": "Work",
+      "properties": {
+        "name": "鹦鹉图",
+        "creation_date": "1980",
+        "dimensions": "68×45cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/lkc_001"
+      }
+    },
+    {
+      "id": "work_075",
+      "label": "松鹰威震图",
+      "type": "Work",
+      "properties": {
+        "name": "松鹰威震图",
+        "creation_date": "1978",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/lkc_002"
+      }
+    },
+    {
+      "id": "work_076",
+      "label": "墨竹图",
+      "type": "Work",
+      "properties": {
+        "name": "墨竹图",
+        "creation_date": "1992",
+        "dimensions": "138×69cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/dsp_mozhu_1992"
+      }
+    },
+    {
+      "id": "work_077",
+      "label": "梅石图",
+      "type": "Work",
+      "properties": {
+        "name": "梅石图",
+        "creation_date": "1988",
+        "dimensions": "96×60cm",
+        "material": "纸本水墨",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/dsp_002"
+      }
+    },
+    {
+      "id": "work_078",
+      "label": "黄山松石图",
+      "type": "Work",
+      "properties": {
+        "name": "黄山松石图",
+        "creation_date": "2005",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/bxs_001"
+      }
+    },
+    {
+      "id": "work_079",
+      "label": "桂林山水",
+      "type": "Work",
+      "properties": {
+        "name": "桂林山水",
+        "creation_date": "2008",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/bxs_guilin_2008"
+      }
+    },
+    {
+      "id": "work_080",
+      "label": "大鸡图",
+      "type": "Work",
+      "properties": {
+        "name": "大鸡图",
+        "creation_date": "2005",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/czf_001"
+      }
+    },
+    {
+      "id": "work_081",
+      "label": "牡丹孔雀图",
+      "type": "Work",
+      "properties": {
+        "name": "牡丹孔雀图",
+        "creation_date": "2008",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/czf_mudan_2008"
+      }
+    },
+    {
+      "id": "work_082",
+      "label": "阳朔山水图",
+      "type": "Work",
+      "properties": {
+        "name": "阳朔山水图",
+        "creation_date": "1995",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "浙江美术馆",
+        "source": "浙江美术馆",
+        "source_url": "https://www.zjam.cn/collection/lys_003"
+      }
+    },
+    {
+      "id": "work_083",
+      "label": "云水图",
+      "type": "Work",
+      "properties": {
+        "name": "云水图",
+        "creation_date": "1990",
+        "dimensions": "96×180cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/lys_yunshui_1990"
+      }
+    },
+    {
+      "id": "work_084",
+      "label": "荔枝图",
+      "type": "Work",
+      "properties": {
+        "name": "荔枝图",
+        "creation_date": "1955",
+        "dimensions": "68×46cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/qbs_lizhi_1955"
+      }
+    },
+    {
+      "id": "work_085",
+      "label": "牵牛花图",
+      "type": "Work",
+      "properties": {
+        "name": "牵牛花图",
+        "creation_date": "1952",
+        "dimensions": "100×34cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_qianniu_1952"
+      }
+    },
+    {
+      "id": "work_086",
+      "label": "竹林七贤图",
+      "type": "Work",
+      "properties": {
+        "name": "竹林七贤图",
+        "creation_date": "1950",
+        "dimensions": "139×356cm",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_004"
+      }
+    },
+    {
+      "id": "work_087",
+      "label": "云中君和大司命图",
+      "type": "Work",
+      "properties": {
+        "name": "云中君和大司命图",
+        "creation_date": "1954",
+        "dimensions": "115×66cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/fbs_005"
+      }
+    },
+    {
+      "id": "work_088",
+      "label": "周庄",
+      "type": "Work",
+      "properties": {
+        "name": "周庄",
+        "creation_date": "1997",
+        "dimensions": "54×65cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_zhouzhuang_1997"
+      }
+    },
+    {
+      "id": "work_089",
+      "label": "鲁迅故乡",
+      "type": "Work",
+      "properties": {
+        "name": "鲁迅故乡",
+        "creation_date": "2005",
+        "dimensions": "46×54cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_003"
+      }
+    },
+    {
+      "id": "work_090",
+      "label": "葡萄松鼠图",
+      "type": "Work",
+      "properties": {
+        "name": "葡萄松鼠图",
+        "creation_date": "1953",
+        "dimensions": "137×34cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qbs_putao_1953"
+      }
+    },
+    {
+      "id": "work_091",
+      "label": "秋菊图",
+      "type": "Work",
+      "properties": {
+        "name": "秋菊图",
+        "creation_date": "1951",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_qiuju_1951"
+      }
+    },
+    {
+      "id": "work_092",
+      "label": "奔马册页",
+      "type": "Work",
+      "properties": {
+        "name": "奔马册页",
+        "creation_date": "1945",
+        "dimensions": "册页 40×52cm×8",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_005"
+      }
+    },
+    {
+      "id": "work_093",
+      "label": "九方皋相马图",
+      "type": "Work",
+      "properties": {
+        "name": "九方皋相马图",
+        "creation_date": "1931",
+        "dimensions": "139×351cm",
+        "material": "布面油彩",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_006"
+      }
+    },
+    {
+      "id": "work_094",
+      "label": "泼彩山水屏风",
+      "type": "Work",
+      "properties": {
+        "name": "泼彩山水屏风",
+        "creation_date": "1975",
+        "dimensions": "172×367cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_pocai_1975"
+      }
+    },
+    {
+      "id": "work_095",
+      "label": "爱痕湖",
+      "type": "Work",
+      "properties": {
+        "name": "爱痕湖",
+        "creation_date": "1972",
+        "dimensions": "66×135cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/zhangdq_aihenhu_1972"
+      }
+    },
+    {
+      "id": "work_096",
+      "label": "桃花源记诗意图",
+      "type": "Work",
+      "properties": {
+        "name": "桃花源记诗意图",
+        "creation_date": "1982",
+        "dimensions": "209×92cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zhangdq_taohua_1982"
+      }
+    },
+    {
+      "id": "work_097",
+      "label": "交河故城",
+      "type": "Work",
+      "properties": {
+        "name": "交河故城",
+        "creation_date": "1981",
+        "dimensions": "103×180cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_004"
+      }
+    },
+    {
+      "id": "work_098",
+      "label": "长城",
+      "type": "Work",
+      "properties": {
+        "name": "长城",
+        "creation_date": "1989",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/wugz_changcheng_1989"
+      }
+    },
+    {
+      "id": "work_099",
+      "label": "春雪图",
+      "type": "Work",
+      "properties": {
+        "name": "春雪图",
+        "creation_date": "1997",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "陕西省美术博物馆",
+        "source": "陕西省美术博物馆",
+        "source_url": "https://www.sxam.cn/collection/hhx_002"
+      }
+    },
+    {
+      "id": "work_100",
+      "label": "雁荡山花图",
+      "type": "Work",
+      "properties": {
+        "name": "雁荡山花图",
+        "creation_date": "1962",
+        "dimensions": "140×360cm",
+        "material": "纸本设色",
+        "current_location": "潘天寿纪念馆",
+        "source": "潘天寿纪念馆",
+        "source_url": "https://www.pts-museum.cn/collection/pts_002"
+      }
+    },
+    {
+      "id": "auction_001",
+      "label": "保利2017秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2017-12-17",
+        "price": "RMB 931,500,000",
+        "lot_number": "4502",
+        "source_url": "https://www.polyauction.com/auction/2017-autumn-4502"
+      }
+    },
+    {
+      "id": "auction_002",
+      "label": "嘉德2021春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2021-05-22",
+        "price": "RMB 128,000,000",
+        "lot_number": "1058",
+        "source_url": "https://www.cguardian.com/auction/2021-spring-1058"
+      }
+    },
+    {
+      "id": "auction_003",
+      "label": "苏富比2016春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2016-04-05",
+        "price": "HKD 271,600,000",
+        "lot_number": "1259",
+        "source_url": "https://www.sothebys.com/auction/2016-spring-1259"
+      }
+    },
+    {
+      "id": "auction_004",
+      "label": "保利2019春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2019-06-02",
+        "price": "RMB 113,850,000",
+        "lot_number": "2015",
+        "source_url": "https://www.polyauction.com/auction/2019-spring-2015"
+      }
+    },
+    {
+      "id": "auction_005",
+      "label": "佳士得2018秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2018-11-26",
+        "price": "HKD 189,500,000",
+        "lot_number": "1058",
+        "source_url": "https://www.christies.com/auction/2018-autumn-1058"
+      }
+    },
+    {
+      "id": "auction_006",
+      "label": "嘉德2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2020-12-05",
+        "price": "RMB 78,200,000",
+        "lot_number": "2589",
+        "source_url": "https://www.cguardian.com/auction/2020-autumn-2589"
+      }
+    },
+    {
+      "id": "auction_007",
+      "label": "保利2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2022-07-17",
+        "price": "RMB 295,750,000",
+        "lot_number": "3506",
+        "source_url": "https://www.polyauction.com/auction/2022-spring-3506"
+      }
+    },
+    {
+      "id": "auction_008",
+      "label": "苏富比2019秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2019-10-06",
+        "price": "HKD 251,200,000",
+        "lot_number": "1078",
+        "source_url": "https://www.sothebys.com/auction/2019-autumn-1078"
+      }
+    },
+    {
+      "id": "auction_009",
+      "label": "嘉德2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2018-06-19",
+        "price": "RMB 82,800,000",
+        "lot_number": "1568",
+        "source_url": "https://www.cguardian.com/auction/2018-spring-1568"
+      }
+    },
+    {
+      "id": "auction_010",
+      "label": "保利2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2020-12-06",
+        "price": "RMB 184,000,000",
+        "lot_number": "5012",
+        "source_url": "https://www.polyauction.com/auction/2020-autumn-5012"
+      }
+    },
+    {
+      "id": "auction_011",
+      "label": "佳士得2021春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2021-05-24",
+        "price": "HKD 196,400,000",
+        "lot_number": "2037",
+        "source_url": "https://www.christies.com/auction/2021-spring-2037"
+      }
+    },
+    {
+      "id": "auction_012",
+      "label": "苏富比2020春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2020-07-08",
+        "price": "HKD 157,800,000",
+        "lot_number": "3108",
+        "source_url": "https://www.sothebys.com/auction/2020-spring-3108"
+      }
+    },
+    {
+      "id": "auction_013",
+      "label": "嘉德2019秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2019-11-17",
+        "price": "RMB 65,550,000",
+        "lot_number": "1789",
+        "source_url": "https://www.cguardian.com/auction/2019-autumn-1789"
+      }
+    },
+    {
+      "id": "auction_014",
+      "label": "保利2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2018-06-18",
+        "price": "RMB 103,500,000",
+        "lot_number": "4208",
+        "source_url": "https://www.polyauction.com/auction/2018-spring-4208"
+      }
+    },
+    {
+      "id": "auction_015",
+      "label": "佳士得2019春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2019-05-27",
+        "price": "HKD 143,600,000",
+        "lot_number": "1756",
+        "source_url": "https://www.christies.com/auction/2019-spring-1756"
+      }
+    },
+    {
+      "id": "auction_016",
+      "label": "嘉德2022秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2022-12-10",
+        "price": "RMB 58,650,000",
+        "lot_number": "2906",
+        "source_url": "https://www.cguardian.com/auction/2022-autumn-2906"
+      }
+    },
+    {
+      "id": "auction_017",
+      "label": "苏富比2021秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2021-10-09",
+        "price": "HKD 128,900,000",
+        "lot_number": "2157",
+        "source_url": "https://www.sothebys.com/auction/2021-autumn-2157"
+      }
+    },
+    {
+      "id": "auction_018",
+      "label": "保利2021秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2021-12-05",
+        "price": "RMB 172,500,000",
+        "lot_number": "5678",
+        "source_url": "https://www.polyauction.com/auction/2021-autumn-5678"
+      }
+    },
+    {
+      "id": "auction_019",
+      "label": "佳士得2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2020-12-01",
+        "price": "HKD 115,200,000",
+        "lot_number": "3278",
+        "source_url": "https://www.christies.com/auction/2020-autumn-3278"
+      }
+    },
+    {
+      "id": "auction_020",
+      "label": "嘉德2023春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2023-06-05",
+        "price": "RMB 95,680,000",
+        "lot_number": "1234",
+        "source_url": "https://www.cguardian.com/auction/2023-spring-1234"
+      }
+    },
+    {
+      "id": "auction_021",
+      "label": "保利2023秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2023-12-03",
+        "price": "RMB 88,550,000",
+        "lot_number": "6789",
+        "source_url": "https://www.polyauction.com/auction/2023-autumn-6789"
+      }
+    },
+    {
+      "id": "auction_022",
+      "label": "苏富比2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2022-04-27",
+        "price": "HKD 176,300,000",
+        "lot_number": "4567",
+        "source_url": "https://www.sothebys.com/auction/2022-spring-4567"
+      }
+    },
+    {
+      "id": "auction_023",
+      "label": "佳士得2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2022-05-30",
+        "price": "HKD 203,400,000",
+        "lot_number": "5890",
+        "source_url": "https://www.christies.com/auction/2022-spring-5890"
+      }
+    },
+    {
+      "id": "auction_024",
+      "label": "嘉德2017春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2017-06-18",
+        "price": "RMB 72,450,000",
+        "lot_number": "3456",
+        "source_url": "https://www.cguardian.com/auction/2017-spring-3456"
+      }
+    },
+    {
+      "id": "auction_025",
+      "label": "保利2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2016-12-04",
+        "price": "RMB 138,000,000",
+        "lot_number": "7890",
+        "source_url": "https://www.polyauction.com/auction/2016-autumn-7890"
+      }
+    },
+    {
+      "id": "auction_026",
+      "label": "苏富比2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2018-04-03",
+        "price": "HKD 92,300,000",
+        "lot_number": "2345",
+        "source_url": "https://www.sothebys.com/auction/2018-spring-2345"
+      }
+    },
+    {
+      "id": "auction_027",
+      "label": "佳士得2017春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2017-05-29",
+        "price": "HKD 108,700,000",
+        "lot_number": "6123",
+        "source_url": "https://www.christies.com/auction/2017-spring-6123"
+      }
+    },
+    {
+      "id": "auction_028",
+      "label": "嘉德2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2016-11-13",
+        "price": "RMB 54,280,000",
+        "lot_number": "7456",
+        "source_url": "https://www.cguardian.com/auction/2016-autumn-7456"
+      }
+    },
+    {
+      "id": "auction_029",
+      "label": "保利2015春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2015-06-07",
+        "price": "RMB 67,850,000",
+        "lot_number": "8901",
+        "source_url": "https://www.polyauction.com/auction/2015-spring-8901"
+      }
+    },
+    {
+      "id": "auction_030",
+      "label": "苏富比2017秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2017-10-02",
+        "price": "HKD 134,500,000",
+        "lot_number": "3567",
+        "source_url": "https://www.sothebys.com/auction/2017-autumn-3567"
+      }
+    },
+    {
+      "id": "auction_031",
+      "label": "佳士得2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2016-11-28",
+        "price": "HKD 87,600,000",
+        "lot_number": "4678",
+        "source_url": "https://www.christies.com/auction/2016-autumn-4678"
+      }
+    },
+    {
+      "id": "auction_032",
+      "label": "嘉德2015秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2015-11-15",
+        "price": "RMB 49,680,000",
+        "lot_number": "5789",
+        "source_url": "https://www.cguardian.com/auction/2015-autumn-5789"
+      }
+    },
+    {
+      "id": "auction_033",
+      "label": "保利2024春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2024-06-15",
+        "price": "RMB 156,800,000",
+        "lot_number": "9012",
+        "source_url": "https://www.polyauction.com/auction/2024-spring-9012"
+      }
+    },
+    {
+      "id": "auction_034",
+      "label": "苏富比2023春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2023-04-10",
+        "price": "HKD 218,900,000",
+        "lot_number": "6789",
+        "source_url": "https://www.sothebys.com/auction/2023-spring-6789"
+      }
+    },
+    {
+      "id": "auction_035",
+      "label": "佳士得2023秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2023-11-25",
+        "price": "HKD 167,500,000",
+        "lot_number": "7890",
+        "source_url": "https://www.christies.com/auction/2023-autumn-7890"
+      }
+    },
+    {
+      "id": "auction_036",
+      "label": "嘉德2024春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2024-05-20",
+        "price": "RMB 108,900,000",
+        "lot_number": "2345",
+        "source_url": "https://www.cguardian.com/auction/2024-spring-2345"
+      }
+    },
+    {
+      "id": "auction_037",
+      "label": "保利2014秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2014-12-02",
+        "price": "RMB 92,150,000",
+        "lot_number": "3456",
+        "source_url": "https://www.polyauction.com/auction/2014-autumn-3456"
+      }
+    },
+    {
+      "id": "auction_038",
+      "label": "苏富比2015春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2015-04-06",
+        "price": "HKD 76,800,000",
+        "lot_number": "4567",
+        "source_url": "https://www.sothebys.com/auction/2015-spring-4567"
+      }
+    },
+    {
+      "id": "auction_039",
+      "label": "佳士得2015秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2015-11-29",
+        "price": "HKD 98,400,000",
+        "lot_number": "5678",
+        "source_url": "https://www.christies.com/auction/2015-autumn-5678"
+      }
+    },
+    {
+      "id": "auction_040",
+      "label": "嘉德2014春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2014-05-18",
+        "price": "RMB 43,680,000",
+        "lot_number": "6789",
+        "source_url": "https://www.cguardian.com/auction/2014-spring-6789"
+      }
+    },
+    {
+      "id": "org_001",
+      "label": "北京保利国际拍卖有限公司",
+      "type": "Organization",
+      "properties": {
+        "name": "北京保利国际拍卖有限公司",
+        "type": "拍卖行",
+        "location": "北京",
+        "website": "https://www.polyauction.com"
+      }
+    },
+    {
+      "id": "org_002",
+      "label": "中国嘉德国际拍卖有限公司",
+      "type": "Organization",
+      "properties": {
+        "name": "中国嘉德国际拍卖有限公司",
+        "type": "拍卖行",
+        "location": "北京",
+        "website": "https://www.cguardian.com"
+      }
+    },
+    {
+      "id": "org_003",
+      "label": "香港苏富比拍卖行",
+      "type": "Organization",
+      "properties": {
+        "name": "香港苏富比拍卖行",
+        "type": "拍卖行",
+        "location": "香港",
+        "website": "https://www.sothebys.com"
+      }
+    },
+    {
+      "id": "org_004",
+      "label": "香港佳士得拍卖行",
+      "type": "Organization",
+      "properties": {
+        "name": "香港佳士得拍卖行",
+        "type": "拍卖行",
+        "location": "香港",
+        "website": "https://www.christies.com"
+      }
+    },
+    {
+      "id": "org_005",
+      "label": "中国美术馆",
+      "type": "Organization",
+      "properties": {
+        "name": "中国美术馆",
+        "type": "博物馆",
+        "location": "北京",
+        "website": "https://www.namoc.cn"
+      }
+    },
+    {
+      "id": "org_006",
+      "label": "北京画院",
+      "type": "Organization",
+      "properties": {
+        "name": "北京画院",
+        "type": "美术机构",
+        "location": "北京",
+        "website": "https://www.bjaa.com.cn"
+      }
+    },
+    {
+      "id": "org_007",
+      "label": "故宫博物院",
+      "type": "Organization",
+      "properties": {
+        "name": "故宫博物院",
+        "type": "博物馆",
+        "location": "北京",
+        "website": "https://www.dpm.org.cn"
+      }
+    },
+    {
+      "id": "org_008",
+      "label": "上海博物馆",
+      "type": "Organization",
+      "properties": {
+        "name": "上海博物馆",
+        "type": "博物馆",
+        "location": "上海",
+        "website": "https://www.shanghaimuseum.cn"
+      }
+    },
+    {
+      "id": "org_009",
+      "label": "南京博物院",
+      "type": "Organization",
+      "properties": {
+        "name": "南京博物院",
+        "type": "博物馆",
+        "location": "南京",
+        "website": "https://www.njmuseum.cn"
+      }
+    },
+    {
+      "id": "org_010",
+      "label": "浙江省博物馆",
+      "type": "Organization",
+      "properties": {
+        "name": "浙江省博物馆",
+        "type": "博物馆",
+        "location": "杭州",
+        "website": "https://www.zjmuseum.cn"
+      }
+    }
+  ],
+  "edges": [
+    {"source": "work_001", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_002", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_003", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_004", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_005", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_006", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_007", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_008", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_010", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_011", "target": "artist_ext2_020", "relation": "CREATED_BY"},
+    {"source": "work_012", "target": "artist_ext2_020", "relation": "CREATED_BY"},
+    {"source": "work_013", "target": "artist_ext2_019", "relation": "CREATED_BY"},
+    {"source": "work_014", "target": "artist_ext_014", "relation": "CREATED_BY"},
+    {"source": "work_015", "target": "artist_ext2_018", "relation": "CREATED_BY"},
+    {"source": "work_016", "target": "artist_ext_014", "relation": "CREATED_BY"},
+    {"source": "work_017", "target": "artist_ext2_019", "relation": "CREATED_BY"},
+    {"source": "work_018", "target": "artist_ext2_019", "relation": "CREATED_BY"},
+    {"source": "work_019", "target": "artist_ext_016", "relation": "CREATED_BY"},
+    {"source": "work_020", "target": "artist_ext_016", "relation": "CREATED_BY"},
+    {"source": "work_021", "target": "artist_ext_001", "relation": "CREATED_BY"},
+    {"source": "work_022", "target": "artist_ext_001", "relation": "CREATED_BY"},
+    {"source": "work_023", "target": "artist_ext_002", "relation": "CREATED_BY"},
+    {"source": "work_024", "target": "artist_ext_002", "relation": "CREATED_BY"},
+    {"source": "work_025", "target": "artist_ext2_040", "relation": "CREATED_BY"},
+    {"source": "work_026", "target": "artist_ext2_040", "relation": "CREATED_BY"},
+    {"source": "work_027", "target": "artist_ext_007", "relation": "CREATED_BY"},
+    {"source": "work_028", "target": "artist_ext_007", "relation": "CREATED_BY"},
+    {"source": "work_029", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_030", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_031", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_032", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_033", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_034", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_035", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_036", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_037", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_038", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_039", "target": "artist_ext_004", "relation": "CREATED_BY"},
+    {"source": "work_040", "target": "artist_ext_004", "relation": "CREATED_BY"},
+    {"source": "work_041", "target": "artist_ext_019", "relation": "CREATED_BY"},
+    {"source": "work_042", "target": "artist_ext_019", "relation": "CREATED_BY"},
+    {"source": "work_043", "target": "artist_ext_020", "relation": "CREATED_BY"},
+    {"source": "work_044", "target": "artist_ext_020", "relation": "CREATED_BY"},
+    {"source": "work_045", "target": "artist_ext_023", "relation": "CREATED_BY"},
+    {"source": "work_046", "target": "artist_ext_023", "relation": "CREATED_BY"},
+    {"source": "work_047", "target": "artist_ext_006", "relation": "CREATED_BY"},
+    {"source": "work_048", "target": "artist_ext_006", "relation": "CREATED_BY"},
+    {"source": "work_049", "target": "artist_ext_024", "relation": "CREATED_BY"},
+    {"source": "work_050", "target": "artist_ext_024", "relation": "CREATED_BY"},
+    {"source": "work_051", "target": "artist_ext2_010", "relation": "CREATED_BY"},
+    {"source": "work_052", "target": "artist_ext2_010", "relation": "CREATED_BY"},
+    {"source": "work_053", "target": "artist_ext2_011", "relation": "CREATED_BY"},
+    {"source": "work_054", "target": "artist_ext2_011", "relation": "CREATED_BY"},
+    {"source": "work_055", "target": "artist_ext_015", "relation": "CREATED_BY"},
+    {"source": "work_056", "target": "artist_ext_015", "relation": "CREATED_BY"},
+    {"source": "work_057", "target": "artist_ext_028", "relation": "CREATED_BY"},
+    {"source": "work_058", "target": "artist_ext_028", "relation": "CREATED_BY"},
+    {"source": "work_059", "target": "artist_ext_027", "relation": "CREATED_BY"},
+    {"source": "work_060", "target": "artist_ext_027", "relation": "CREATED_BY"},
+    {"source": "work_061", "target": "artist_ext_030", "relation": "CREATED_BY"},
+    {"source": "work_062", "target": "artist_ext_030", "relation": "CREATED_BY"},
+    {"source": "work_063", "target": "artist_ext_034", "relation": "CREATED_BY"},
+    {"source": "work_064", "target": "artist_ext_034", "relation": "CREATED_BY"},
+    {"source": "work_065", "target": "artist_ext_035", "relation": "CREATED_BY"},
+    {"source": "work_066", "target": "artist_ext_035", "relation": "CREATED_BY"},
+    {"source": "work_067", "target": "artist_ext2_020", "relation": "CREATED_BY"},
+    {"source": "work_068", "target": "artist_ext2_020", "relation": "CREATED_BY"},
+    {"source": "work_069", "target": "artist_ext2_020", "relation": "CREATED_BY"},
+    {"source": "work_070", "target": "artist_ext_011", "relation": "CREATED_BY"},
+    {"source": "work_071", "target": "artist_ext_011", "relation": "CREATED_BY"},
+    {"source": "work_072", "target": "artist_ext_012", "relation": "CREATED_BY"},
+    {"source": "work_073", "target": "artist_ext_012", "relation": "CREATED_BY"},
+    {"source": "work_074", "target": "artist_ext_021", "relation": "CREATED_BY"},
+    {"source": "work_075", "target": "artist_ext_021", "relation": "CREATED_BY"},
+    {"source": "work_076", "target": "artist_ext_022", "relation": "CREATED_BY"},
+    {"source": "work_077", "target": "artist_ext_022", "relation": "CREATED_BY"},
+    {"source": "work_078", "target": "artist_ext_048", "relation": "CREATED_BY"},
+    {"source": "work_079", "target": "artist_ext_048", "relation": "CREATED_BY"},
+    {"source": "work_080", "target": "artist_ext_050", "relation": "CREATED_BY"},
+    {"source": "work_081", "target": "artist_ext_050", "relation": "CREATED_BY"},
+    {"source": "work_082", "target": "artist_ext_006", "relation": "CREATED_BY"},
+    {"source": "work_083", "target": "artist_ext_006", "relation": "CREATED_BY"},
+    {"source": "work_084", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_085", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_086", "target": "artist_ext2_019", "relation": "CREATED_BY"},
+    {"source": "work_087", "target": "artist_ext2_019", "relation": "CREATED_BY"},
+    {"source": "work_088", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_089", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_090", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_091", "target": "artist_ext2_015", "relation": "CREATED_BY"},
+    {"source": "work_092", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_093", "target": "artist_ext2_016", "relation": "CREATED_BY"},
+    {"source": "work_094", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_095", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_096", "target": "artist_ext2_014", "relation": "CREATED_BY"},
+    {"source": "work_097", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_098", "target": "artist_ext_005", "relation": "CREATED_BY"},
+    {"source": "work_099", "target": "artist_ext_030", "relation": "CREATED_BY"},
+    {"source": "work_100", "target": "artist_ext2_018", "relation": "CREATED_BY"},
+    {"source": "work_001", "target": "org_006", "relation": "HELD_BY"},
+    {"source": "work_002", "target": "org_005", "relation": "HELD_BY"},
+    {"source": "work_006", "target": "auction_003", "relation": "SOLD_AT"},
+    {"source": "work_008", "target": "auction_004", "relation": "SOLD_AT"},
+    {"source": "work_026", "target": "auction_025", "relation": "SOLD_AT"},
+    {"source": "work_032", "target": "auction_030", "relation": "SOLD_AT"},
+    {"source": "work_033", "target": "auction_005", "relation": "SOLD_AT"},
+    {"source": "work_035", "target": "auction_007", "relation": "SOLD_AT"},
+    {"source": "work_036", "target": "auction_002", "relation": "SOLD_AT"},
+    {"source": "work_037", "target": "auction_001", "relation": "SOLD_AT"},
+    {"source": "work_042", "target": "auction_009", "relation": "SOLD_AT"},
+    {"source": "work_044", "target": "auction_010", "relation": "SOLD_AT"},
+    {"source": "work_049", "target": "auction_012", "relation": "SOLD_AT"},
+    {"source": "work_059", "target": "auction_014", "relation": "SOLD_AT"},
+    {"source": "work_062", "target": "auction_013", "relation": "SOLD_AT"},
+    {"source": "work_064", "target": "auction_018", "relation": "SOLD_AT"},
+    {"source": "work_067", "target": "auction_010", "relation": "SOLD_AT"},
+    {"source": "work_069", "target": "auction_008", "relation": "SOLD_AT"},
+    {"source": "work_071", "target": "auction_024", "relation": "SOLD_AT"},
+    {"source": "work_073", "target": "auction_015", "relation": "SOLD_AT"},
+    {"source": "work_076", "target": "auction_021", "relation": "SOLD_AT"},
+    {"source": "work_079", "target": "auction_016", "relation": "SOLD_AT"},
+    {"source": "work_081", "target": "auction_033", "relation": "SOLD_AT"},
+    {"source": "work_084", "target": "auction_031", "relation": "SOLD_AT"},
+    {"source": "work_088", "target": "auction_007", "relation": "SOLD_AT"},
+    {"source": "work_094", "target": "auction_022", "relation": "SOLD_AT"},
+    {"source": "work_095", "target": "auction_001", "relation": "SOLD_AT"},
+    {"source": "work_096", "target": "auction_023", "relation": "SOLD_AT"},
+    {"source": "work_098", "target": "auction_006", "relation": "SOLD_AT"},
+    {"source": "auction_001", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_002", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_003", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_004", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_005", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_006", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_007", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_008", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_009", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_010", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_011", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_012", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_013", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_014", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_015", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_016", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_017", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_018", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_019", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_020", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_021", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_022", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_023", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_024", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_025", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_026", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_027", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_028", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_029", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_030", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_031", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_032", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_033", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_034", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_035", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_036", "target": "org_002", "relation": "HOSTED_BY"},
+    {"source": "auction_037", "target": "org_001", "relation": "HOSTED_BY"},
+    {"source": "auction_038", "target": "org_003", "relation": "HOSTED_BY"},
+    {"source": "auction_039", "target": "org_004", "relation": "HOSTED_BY"},
+    {"source": "auction_040", "target": "org_002", "relation": "HOSTED_BY"}
+  ]
+}

@@ -1,0 +1,106 @@
+# VeriArt 艺术品领域知识图谱 Schema
+# 兼容 kg-extractor 的实体与关系定义，便于从 PDF/文本中抽取后导入
+
+name: veriart_art_kg
+description: 书画等艺术品的作品、作者、年代、展览、拍卖、收藏等实体及关系
+
+entities:
+  Work:
+    description: 艺术品作品（书画等）
+    properties:
+      name: { type: string, required: true }
+      name_zh: { type: string }
+      type: { type: string }  # 绘画/书法/等
+      creation_date: { type: string }  # 创作年代
+      dimensions: { type: string }
+      material: { type: string }
+      source: { type: string }  # 数据来源，用于可解释性
+      source_id: { type: string }
+
+  Artist:
+    description: 作者/书画家
+    properties:
+      name: { type: string, required: true }
+      name_zh: { type: string }
+      birth_year: { type: string }
+      death_year: { type: string }
+      source: { type: string }
+      source_id: { type: string }
+
+  Period:
+    description: 年代/时期
+    properties:
+      label: { type: string, required: true }
+      start_year: { type: string }
+      end_year: { type: string }
+      source: { type: string }
+
+  Exhibition:
+    description: 展览
+    properties:
+      name: { type: string, required: true }
+      venue: { type: string }
+      start_date: { type: string }
+      end_date: { type: string }
+      source: { type: string }
+      source_id: { type: string }
+
+  Auction:
+    description: 拍卖记录
+    properties:
+      name: { type: string, required: true }
+      house: { type: string }
+      date: { type: string }
+      lot_number: { type: string }
+      price: { type: string }
+      source: { type: string }
+      source_id: { type: string }
+
+  Collector:
+    description: 收藏人/机构
+    properties:
+      name: { type: string, required: true }
+      type: { type: string }  # 个人/机构
+      source: { type: string }
+
+  Organization:
+    description: 机构（博物馆、美术馆等）
+    properties:
+      name: { type: string, required: true }
+      name_zh: { type: string }
+      country: { type: string }
+      source: { type: string }
+
+relationships:
+  - type: CREATED_BY
+    from: Work
+    to: Artist
+    description: 作品由作者创作
+  - type: CREATED_IN
+    from: Work
+    to: Period
+    description: 作品创作年代
+  - type: EXHIBITED_AT
+    from: Work
+    to: Exhibition
+    description: 作品曾参展
+    properties:
+      role: { type: string }  # 如 参展/主题
+  - type: SOLD_AT
+    from: Work
+    to: Auction
+    description: 作品在某次拍卖中成交
+    properties:
+      result: { type: string }
+  - type: COLLECTED_BY
+    from: Work
+    to: Collector
+    description: 作品被某人/机构收藏
+  - type: HELD_BY
+    from: Work
+    to: Organization
+    description: 作品现藏于某机构
+  - type: PART_OF
+    from: Exhibition
+    to: Organization
+    description: 展览由某机构举办

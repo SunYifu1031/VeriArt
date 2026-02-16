@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(curl:*)",
+      "Bash(pip install:*)",
+      "Bash(pkill:*)",
+      "Bash(uvicorn:*)",
+      "Bash(npm run dev:*)",
+      "Bash(gh repo view:*)",
+      "Bash(cat:*)",
+      "Bash(brew install:*)",
+      "Bash(cloudflared tunnel:*)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "WebFetch(domain:www.namoc.cn)",
+      "WebFetch(domain:www.sjmrsh.com)",
+      "Bash(ls:*)",
+      "Bash(git init:*)",
+      "Bash(/Users/yifusun/Documents/personal/Projects/VeriArt/README.md:*)",
+      "Bash(/Users/yifusun/Documents/personal/Projects/VeriArt/backend/railway.json:*)",
+      "Bash(/Users/yifusun/Documents/personal/Projects/VeriArt/frontend/vercel.json:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}

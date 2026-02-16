@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "source": "veriart_seed",
+    "description": "VeriArt 种子数据：少量书画作品与关联实体，用于演示与可解释问答",
+    "total_entities": 8,
+    "total_relationships": 8
+  },
+  "nodes": [
+    {
+      "id": "work_1",
+      "label": "清明上河图",
+      "type": "Work",
+      "properties": {
+        "name": "清明上河图",
+        "name_zh": "清明上河图",
+        "type": "绘画",
+        "creation_date": "北宋",
+        "dimensions": "24.8cm × 528.7cm",
+        "material": "绢本设色",
+        "source": "故宫博物院藏品总目",
+        "source_id": "dpm_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_1",
+      "label": "张择端",
+      "type": "Artist",
+      "properties": {
+        "name": "张择端",
+        "birth_year": "约1085",
+        "death_year": "约1145",
+        "source": "故宫博物院",
+        "source_id": "dpm_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_1",
+      "label": "北宋",
+      "type": "Period",
+      "properties": {
+        "label": "北宋",
+        "start_year": "960",
+        "end_year": "1127",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_1",
+      "label": "故宫博物院",
+      "type": "Organization",
+      "properties": {
+        "name": "故宫博物院",
+        "name_zh": "故宫博物院",
+        "country": "中国",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_2",
+      "label": "兰亭序",
+      "type": "Work",
+      "properties": {
+        "name": "兰亭序",
+        "name_zh": "兰亭序",
+        "type": "书法",
+        "creation_date": "东晋永和九年",
+        "material": "纸本",
+        "source": "故宫博物院/著录",
+        "source_id": "dpm_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_2",
+      "label": "王羲之",
+      "type": "Artist",
+      "properties": {
+        "name": "王羲之",
+        "birth_year": "303",
+        "death_year": "361",
+        "source": "故宫博物院/著录",
+        "source_id": "dpm_artist_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_2",
+      "label": "东晋",
+      "type": "Period",
+      "properties": {
+        "label": "东晋",
+        "start_year": "317",
+        "end_year": "420",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "exhibition_1",
+      "label": "故宫博物院藏历代人物画展",
+      "type": "Exhibition",
+      "properties": {
+        "name": "故宫博物院藏历代人物画展",
+        "venue": "故宫博物院",
+        "start_date": "2021-05-01",
+        "end_date": "2021-08-31",
+        "source": "故宫博物院官网",
+        "source_id": "dpm_exh_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    }
+  ],
+  "edges": [
+    { "source": "work_1", "target": "artist_1", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_1", "target": "period_1", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_1", "target": "org_1", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_1", "target": "exhibition_1", "relation": "EXHIBITED_AT", "properties": { "role": "参展" }, "source_page": null, "confidence": 1.0 },
+    { "source": "work_2", "target": "artist_2", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_2", "target": "period_2", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_2", "target": "org_1", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "exhibition_1", "target": "org_1", "relation": "PART_OF", "properties": {}, "source_page": null, "confidence": 1.0 }
+  ]
+}

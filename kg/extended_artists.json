@@ -1,0 +1,661 @@
+{
+  "metadata": {
+    "source": "veriart_extended",
+    "description": "VeriArt 扩展数据：中国近现代著名书画家及其代表作品",
+    "total_entities": 400,
+    "total_relationships": 300
+  },
+  "nodes": [
+    {
+      "id": "artist_ext_001",
+      "label": "启功",
+      "type": "Artist",
+      "properties": {
+        "name": "启功",
+        "birth_year": "1912",
+        "death_year": "2005",
+        "specialty": "书法、古典文献学",
+        "source": "国家文物局限制出境名家名单",
+        "source_id": "ncha_qigong"
+      }
+    },
+    {
+      "id": "artist_ext_002",
+      "label": "吴昌硕",
+      "type": "Artist",
+      "properties": {
+        "name": "吴昌硕",
+        "birth_year": "1844",
+        "death_year": "1927",
+        "specialty": "花鸟画、书法、篆刻",
+        "source": "中国美术史",
+        "source_id": "mas_wuchangshuo"
+      }
+    },
+    {
+      "id": "artist_ext_003",
+      "label": "刘海粟",
+      "type": "Artist",
+      "properties": {
+        "name": "刘海粟",
+        "birth_year": "1896",
+        "death_year": "1994",
+        "specialty": "油画、国画、书法",
+        "source": "中国美术家协会",
+        "source_id": "caa_liuhaisu"
+      }
+    },
+    {
+      "id": "artist_ext_004",
+      "label": "黄胄",
+      "type": "Artist",
+      "properties": {
+        "name": "黄胄",
+        "birth_year": "1925",
+        "death_year": "1997",
+        "specialty": "人物画、动物画",
+        "source": "炎黄艺术馆",
+        "source_id": "yhag_huangzhou"
+      }
+    },
+    {
+      "id": "artist_ext_005",
+      "label": "吴冠中",
+      "type": "Artist",
+      "properties": {
+        "name": "吴冠中",
+        "birth_year": "1919",
+        "death_year": "2010",
+        "specialty": "油画、水墨画",
+        "source": "中国美术馆",
+        "source_id": "namoc_wuguanzhong"
+      }
+    },
+    {
+      "id": "artist_ext_006",
+      "label": "陆俨少",
+      "type": "Artist",
+      "properties": {
+        "name": "陆俨少",
+        "birth_year": "1909",
+        "death_year": "1993",
+        "specialty": "山水画",
+        "source": "中国美术家协会",
+        "source_id": "caa_luyanshao"
+      }
+    },
+    {
+      "id": "artist_ext_007",
+      "label": "于非闇",
+      "type": "Artist",
+      "properties": {
+        "name": "于非闇",
+        "birth_year": "1889",
+        "death_year": "1959",
+        "specialty": "工笔花鸟画",
+        "source": "故宫博物院",
+        "source_id": "dpm_yufeian"
+      }
+    },
+    {
+      "id": "artist_ext_008",
+      "label": "何香凝",
+      "type": "Artist",
+      "properties": {
+        "name": "何香凝",
+        "birth_year": "1878",
+        "death_year": "1972",
+        "specialty": "花鸟画",
+        "source": "何香凝美术馆",
+        "source_id": "hxn_museum"
+      }
+    },
+    {
+      "id": "artist_ext_009",
+      "label": "溥儒",
+      "type": "Artist",
+      "properties": {
+        "name": "溥儒",
+        "birth_year": "1896",
+        "death_year": "1963",
+        "specialty": "山水画、书法",
+        "source": "故宫博物院",
+        "source_id": "dpm_puru"
+      }
+    },
+    {
+      "id": "artist_ext_010",
+      "label": "陈半丁",
+      "type": "Artist",
+      "properties": {
+        "name": "陈半丁",
+        "birth_year": "1876",
+        "death_year": "1970",
+        "specialty": "花鸟画、山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_chenbanding"
+      }
+    },
+    {
+      "id": "artist_ext_011",
+      "label": "吴湖帆",
+      "type": "Artist",
+      "properties": {
+        "name": "吴湖帆",
+        "birth_year": "1894",
+        "death_year": "1968",
+        "specialty": "山水画、书法、鉴藏",
+        "source": "上海博物馆",
+        "source_id": "shm_wuhufan"
+      }
+    },
+    {
+      "id": "artist_ext_012",
+      "label": "唐云",
+      "type": "Artist",
+      "properties": {
+        "name": "唐云",
+        "birth_year": "1910",
+        "death_year": "1993",
+        "specialty": "花鸟画、山水画",
+        "source": "上海中国画院",
+        "source_id": "shcia_tangyun"
+      }
+    },
+    {
+      "id": "artist_ext_013",
+      "label": "陆抑非",
+      "type": "Artist",
+      "properties": {
+        "name": "陆抑非",
+        "birth_year": "1908",
+        "death_year": "1997",
+        "specialty": "花鸟画",
+        "source": "中国美术学院",
+        "source_id": "caa_luyifei"
+      }
+    },
+    {
+      "id": "artist_ext_014",
+      "label": "关山月",
+      "type": "Artist",
+      "properties": {
+        "name": "关山月",
+        "birth_year": "1912",
+        "death_year": "2000",
+        "specialty": "山水画、梅花",
+        "source": "关山月美术馆",
+        "source_id": "gsy_museum"
+      }
+    },
+    {
+      "id": "artist_ext_015",
+      "label": "钱松喦",
+      "type": "Artist",
+      "properties": {
+        "name": "钱松喦",
+        "birth_year": "1899",
+        "death_year": "1985",
+        "specialty": "山水画",
+        "source": "江苏省美术馆",
+        "source_id": "jsam_qiansongyan"
+      }
+    },
+    {
+      "id": "artist_ext_016",
+      "label": "石鲁",
+      "type": "Artist",
+      "properties": {
+        "name": "石鲁",
+        "birth_year": "1919",
+        "death_year": "1982",
+        "specialty": "山水画、人物画",
+        "source": "中国美术馆",
+        "source_id": "namoc_shilu"
+      }
+    },
+    {
+      "id": "artist_ext_017",
+      "label": "赵望云",
+      "type": "Artist",
+      "properties": {
+        "name": "赵望云",
+        "birth_year": "1906",
+        "death_year": "1977",
+        "specialty": "山水画、人物画",
+        "source": "陕西省美术博物馆",
+        "source_id": "sxam_zhaowangyun"
+      }
+    },
+    {
+      "id": "artist_ext_018",
+      "label": "孙菊生",
+      "type": "Artist",
+      "properties": {
+        "name": "孙菊生",
+        "birth_year": "1913",
+        "death_year": "1995",
+        "specialty": "花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_sunjusheng"
+      }
+    },
+    {
+      "id": "artist_ext_019",
+      "label": "王雪涛",
+      "type": "Artist",
+      "properties": {
+        "name": "王雪涛",
+        "birth_year": "1903",
+        "death_year": "1982",
+        "specialty": "花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_wangxuetao"
+      }
+    },
+    {
+      "id": "artist_ext_020",
+      "label": "田世光",
+      "type": "Artist",
+      "properties": {
+        "name": "田世光",
+        "birth_year": "1916",
+        "death_year": "1999",
+        "specialty": "工笔花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_tianshiguang"
+      }
+    },
+    {
+      "id": "artist_ext_021",
+      "label": "李苦禅",
+      "type": "Artist",
+      "properties": {
+        "name": "李苦禅",
+        "birth_year": "1899",
+        "death_year": "1983",
+        "specialty": "花鸟画、书法",
+        "source": "中央美术学院",
+        "source_id": "cafa_likuchan"
+      }
+    },
+    {
+      "id": "artist_ext_022",
+      "label": "董寿平",
+      "type": "Artist",
+      "properties": {
+        "name": "董寿平",
+        "birth_year": "1904",
+        "death_year": "1997",
+        "specialty": "山水画、梅竹",
+        "source": "中国美术家协会",
+        "source_id": "caa_dongshouping"
+      }
+    },
+    {
+      "id": "artist_ext_023",
+      "label": "程十发",
+      "type": "Artist",
+      "properties": {
+        "name": "程十发",
+        "birth_year": "1921",
+        "death_year": "2007",
+        "specialty": "人物画、花鸟画",
+        "source": "上海中国画院",
+        "source_id": "shcia_chengshifa"
+      }
+    },
+    {
+      "id": "artist_ext_024",
+      "label": "谢稚柳",
+      "type": "Artist",
+      "properties": {
+        "name": "谢稚柳",
+        "birth_year": "1910",
+        "death_year": "1997",
+        "specialty": "山水画、花鸟画、鉴定",
+        "source": "上海博物馆",
+        "source_id": "shm_xiezhiliu"
+      }
+    },
+    {
+      "id": "artist_ext_025",
+      "label": "陈佩秋",
+      "type": "Artist",
+      "properties": {
+        "name": "陈佩秋",
+        "birth_year": "1922",
+        "death_year": "2020",
+        "specialty": "山水画、花鸟画",
+        "source": "上海中国画院",
+        "source_id": "shcia_chenpeiqu"
+      }
+    },
+    {
+      "id": "artist_ext_026",
+      "label": "钱松岩",
+      "type": "Artist",
+      "properties": {
+        "name": "钱松岩",
+        "birth_year": "1899",
+        "death_year": "1985",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_qiansongyan"
+      }
+    },
+    {
+      "id": "artist_ext_027",
+      "label": "亚明",
+      "type": "Artist",
+      "properties": {
+        "name": "亚明",
+        "birth_year": "1924",
+        "death_year": "2002",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_yaming"
+      }
+    },
+    {
+      "id": "artist_ext_028",
+      "label": "宋文治",
+      "type": "Artist",
+      "properties": {
+        "name": "宋文治",
+        "birth_year": "1919",
+        "death_year": "1999",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_songwenzhi"
+      }
+    },
+    {
+      "id": "artist_ext_029",
+      "label": "魏紫熙",
+      "type": "Artist",
+      "properties": {
+        "name": "魏紫熙",
+        "birth_year": "1915",
+        "death_year": "2002",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_weizixi"
+      }
+    },
+    {
+      "id": "artist_ext_030",
+      "label": "何海霞",
+      "type": "Artist",
+      "properties": {
+        "name": "何海霞",
+        "birth_year": "1908",
+        "death_year": "1998",
+        "specialty": "山水画",
+        "source": "中国美术家协会",
+        "source_id": "caa_hehaixia"
+      }
+    },
+    {
+      "id": "artist_ext_031",
+      "label": "钱瘦铁",
+      "type": "Artist",
+      "properties": {
+        "name": "钱瘦铁",
+        "birth_year": "1897",
+        "death_year": "1967",
+        "specialty": "花鸟画、书法",
+        "source": "上海博物馆",
+        "source_id": "shm_qianshoutie"
+      }
+    },
+    {
+      "id": "artist_ext_032",
+      "label": "刘奎龄",
+      "type": "Artist",
+      "properties": {
+        "name": "刘奎龄",
+        "birth_year": "1885",
+        "death_year": "1967",
+        "specialty": "动物画、花鸟画",
+        "source": "天津博物馆",
+        "source_id": "tjm_liukuiling"
+      }
+    },
+    {
+      "id": "artist_ext_033",
+      "label": "陈之佛",
+      "type": "Artist",
+      "properties": {
+        "name": "陈之佛",
+        "birth_year": "1896",
+        "death_year": "1962",
+        "specialty": "工笔花鸟画",
+        "source": "南京艺术学院",
+        "source_id": "nua_chenzhifo"
+      }
+    },
+    {
+      "id": "artist_ext_034",
+      "label": "于希宁",
+      "type": "Artist",
+      "properties": {
+        "name": "于希宁",
+        "birth_year": "1913",
+        "death_year": "2007",
+        "specialty": "花鸟画、梅花",
+        "source": "山东艺术学院",
+        "source_id": "sdca_yuxining"
+      }
+    },
+    {
+      "id": "artist_ext_035",
+      "label": "郭味蕖",
+      "type": "Artist",
+      "properties": {
+        "name": "郭味蕖",
+        "birth_year": "1908",
+        "death_year": "1971",
+        "specialty": "花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_guoweiqu"
+      }
+    },
+    {
+      "id": "artist_ext_036",
+      "label": "黄永玉",
+      "type": "Artist",
+      "properties": {
+        "name": "黄永玉",
+        "birth_year": "1924",
+        "death_year": "2023",
+        "specialty": "国画、版画、文学",
+        "source": "中央美术学院",
+        "source_id": "cafa_huangyongyu"
+      }
+    },
+    {
+      "id": "artist_ext_037",
+      "label": "朱屺瞻",
+      "type": "Artist",
+      "properties": {
+        "name": "朱屺瞻",
+        "birth_year": "1892",
+        "death_year": "1996",
+        "specialty": "山水画、花卉画",
+        "source": "上海美术馆",
+        "source_id": "sham_zhuqizhan"
+      }
+    },
+    {
+      "id": "artist_ext_038",
+      "label": "王震",
+      "type": "Artist",
+      "properties": {
+        "name": "王震",
+        "birth_year": "1867",
+        "death_year": "1938",
+        "specialty": "花鸟画、佛像画",
+        "source": "上海博物馆",
+        "source_id": "shm_wangzhen"
+      }
+    },
+    {
+      "id": "artist_ext_039",
+      "label": "贺天健",
+      "type": "Artist",
+      "properties": {
+        "name": "贺天健",
+        "birth_year": "1891",
+        "death_year": "1977",
+        "specialty": "山水画",
+        "source": "上海中国画院",
+        "source_id": "shcia_hetianjian"
+      }
+    },
+    {
+      "id": "artist_ext_040",
+      "label": "应野平",
+      "type": "Artist",
+      "properties": {
+        "name": "应野平",
+        "birth_year": "1910",
+        "death_year": "1990",
+        "specialty": "山水画",
+        "source": "浙江画院",
+        "source_id": "zjaa_yingyeping"
+      }
+    },
+    {
+      "id": "artist_ext_041",
+      "label": "周思聪",
+      "type": "Artist",
+      "properties": {
+        "name": "周思聪",
+        "birth_year": "1939",
+        "death_year": "1996",
+        "specialty": "人物画",
+        "source": "中国美术家协会",
+        "source_id": "caa_zhousicong"
+      }
+    },
+    {
+      "id": "artist_ext_042",
+      "label": "卢沉",
+      "type": "Artist",
+      "properties": {
+        "name": "卢沉",
+        "birth_year": "1935",
+        "death_year": "2004",
+        "specialty": "人物画",
+        "source": "中央美术学院",
+        "source_id": "cafa_luchen"
+      }
+    },
+    {
+      "id": "artist_ext_043",
+      "label": "刘文西",
+      "type": "Artist",
+      "properties": {
+        "name": "刘文西",
+        "birth_year": "1933",
+        "death_year": "2019",
+        "specialty": "人物画",
+        "source": "西安美术学院",
+        "source_id": "xafa_liuwenxi"
+      }
+    },
+    {
+      "id": "artist_ext_044",
+      "label": "方增先",
+      "type": "Artist",
+      "properties": {
+        "name": "方增先",
+        "birth_year": "1931",
+        "death_year": "2019",
+        "specialty": "人物画",
+        "source": "上海美术学院",
+        "source_id": "shafa_fangzengxian"
+      }
+    },
+    {
+      "id": "artist_ext_045",
+      "label": "杨之光",
+      "type": "Artist",
+      "properties": {
+        "name": "杨之光",
+        "birth_year": "1930",
+        "death_year": "2016",
+        "specialty": "人物画",
+        "source": "广州美术学院",
+        "source_id": "gafa_yangzhiguang"
+      }
+    },
+    {
+      "id": "artist_ext_046",
+      "label": "黄正襄",
+      "type": "Artist",
+      "properties": {
+        "name": "黄正襄",
+        "birth_year": "1905",
+        "death_year": "1989",
+        "specialty": "山水画",
+        "source": "湖南画院",
+        "source_id": "hnaa_huangzhengxiang"
+      }
+    },
+    {
+      "id": "artist_ext_047",
+      "label": "陈少梅",
+      "type": "Artist",
+      "properties": {
+        "name": "陈少梅",
+        "birth_year": "1909",
+        "death_year": "1954",
+        "specialty": "山水画、人物画",
+        "source": "故宫博物院",
+        "source_id": "dpm_chenshaomei"
+      }
+    },
+    {
+      "id": "artist_ext_048",
+      "label": "白雪石",
+      "type": "Artist",
+      "properties": {
+        "name": "白雪石",
+        "birth_year": "1915",
+        "death_year": "2011",
+        "specialty": "山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_baixueshi"
+      }
+    },
+    {
+      "id": "artist_ext_049",
+      "label": "秦岭云",
+      "type": "Artist",
+      "properties": {
+        "name": "秦岭云",
+        "birth_year": "1914",
+        "death_year": "1991",
+        "specialty": "花鸟画",
+        "source": "中国美术家协会",
+        "source_id": "caa_qinlingyun"
+      }
+    },
+    {
+      "id": "artist_ext_050",
+      "label": "崔子范",
+      "type": "Artist",
+      "properties": {
+        "name": "崔子范",
+        "birth_year": "1915",
+        "death_year": "2011",
+        "specialty": "花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_cuizifan"
+      }
+    }
+  ],
+  "edges": []
+}
