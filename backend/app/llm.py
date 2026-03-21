@@ -18,9 +18,13 @@ from app.config import (
 logger = logging.getLogger(__name__)
 
 
-async def generate_answer(system_prompt: str, user_message: str) -> str | None:
+async def generate_answer(
+    system_prompt: str,
+    user_message: str,
+    history: list[dict] | None = None,
+) -> str | None:
     """
-    根据系统提示与用户问题生成回答。
+    根据系统提示与用户问题生成回答，支持多轮对话历史。
     未配置或调用失败时返回 None，调用方可回退到模板回答。
     """
     if not is_llm_available() or not VERIART_LLM_API_KEY:
@@ -38,13 +42,17 @@ async def generate_answer(system_prompt: str, user_message: str) -> str | None:
         base_url=VERIART_LLM_BASE_URL or None,
         default_headers=default_headers if default_headers else None,
     )
+
+    messages: list[dict] = [{"role": "system", "content": system_prompt}]
+    # 插入历史对话（最多保留最近 10 轮以控制 token）
+    if history:
+        messages.extend(history[-20:])
+    messages.append({"role": "user", "content": user_message})
+
     try:
         resp = await client.chat.completions.create(
             model=VERIART_LLM_MODEL,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_message},
-            ],
+            messages=messages,  # type: ignore[arg-type]
             max_tokens=VERIART_LLM_MAX_TOKENS,
             timeout=VERIART_LLM_TIMEOUT,
         )

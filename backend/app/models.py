@@ -34,8 +34,14 @@ class Citation(BaseModel):
     excerpt: Optional[str] = None
 
 
+class ChatMessage(BaseModel):
+    role: Literal["user", "assistant"]
+    content: str
+
+
 class QARequest(BaseModel):
     query: str
+    history: list[ChatMessage] = []
 
 
 class QAResponse(BaseModel):
@@ -44,3 +50,11 @@ class QAResponse(BaseModel):
     subgraph: Optional[GraphPayload] = None
     answer_source: Optional[Literal["llm", "template"]] = None
     llm_model: Optional[str] = None
+
+
+class PaginatedResponse(BaseModel):
+    items: list[Any]
+    total: int
+    page: int
+    page_size: int
+    total_pages: int

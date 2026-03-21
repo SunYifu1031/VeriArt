@@ -37,3 +37,9 @@ Thumbs.db
 # Temp files
 /tmp/
 *.pid
+
+# Claude Code settings (may contain sensitive permissions)
+.claude/settings.local.json
+
+# Build artifacts
+frontend/tsconfig.tsbuildinfo

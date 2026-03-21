@@ -22,7 +22,30 @@
       "Bash(/Users/yifusun/Documents/personal/Projects/VeriArt/frontend/vercel.json:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(echo \"请在GitHub创建仓库后，复制以下命令到终端执行：\n\ngit remote add origin https://github.com/YOUR_USERNAME/VeriArt.git\ngit branch -M main  \ngit push -u origin main\n\n注意：将 YOUR_USERNAME 替换为你的GitHub用户名\")",
+      "Bash(echo \"\n现在你需要：\n\n1. 完成Railway后端部署，获得后端URL（例如：https://veriart-production.up.railway.app）\n\n2. 告诉我这个URL，我会帮你更新frontend/vercel.json中的API地址\n\n3. 然后重新提交代码并推送到GitHub\n\n4. 最后在Vercel部署前端\n\n是否已经完成Railway部署？如果完成了，请告诉我后端的Railway URL。\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)",
+      "Bash(brew:*)",
+      "Bash(gh auth login:*)",
+      "Bash(ipconfig getifaddr:*)",
+      "Bash(ipconfig:*)",
+      "Bash(npm install d3 @types/d3)",
+      "Bash(wc -l /Users/yifusun/Documents/personal/Projects/VeriArt/kg/*.json)",
+      "Bash(npm install react-router-dom)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(npm run build)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "Bash(mkdir -p backup)",
+      "Bash(mv *.json backup/)",
+      "Bash(mv backup/cleaned_kg.json .)",
+      "Bash(mv backup/validation_report.json .)",
+      "Bash(/Library/Frameworks/Python.framework/Versions/3.11/bin/uvicorn app.main:app --host 0.0.0.0 --port 8000)",
+      "Bash(grep -E \"\\(\\\\.env$|api[_-]?key|secret|password|token\\)\")"
     ]
   }
 }

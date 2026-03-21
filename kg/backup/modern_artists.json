@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "source": "veriart_modern_artists",
+    "description": "VeriArt 近现代书画家数据：20世纪中国著名书画家及代表作品",
+    "total_entities": 30,
+    "total_relationships": 30
+  },
+  "nodes": [
+    {
+      "id": "artist_qibaishi",
+      "label": "齐白石",
+      "type": "Artist",
+      "properties": {
+        "name": "齐白石",
+        "birth_year": "1864",
+        "death_year": "1957",
+        "style": "花鸟画、虾蟹画",
+        "school": "现代中国画",
+        "source": "中国美术馆/北京画院",
+        "source_id": "cmg_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_qibaishi_shrimp",
+      "label": "群虾图",
+      "type": "Work",
+      "properties": {
+        "name": "群虾图",
+        "name_zh": "群虾图",
+        "type": "绘画",
+        "creation_date": "20世纪40年代",
+        "material": "纸本水墨",
+        "dimensions": "约100cm × 35cm",
+        "source": "北京画院齐白石纪念馆",
+        "source_id": "bjaa_qbs_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_xubeihong",
+      "label": "徐悲鸿",
+      "type": "Artist",
+      "properties": {
+        "name": "徐悲鸿",
+        "birth_year": "1895",
+        "death_year": "1953",
+        "style": "写实主义、马画",
+        "school": "现代中国画",
+        "source": "徐悲鸿纪念馆",
+        "source_id": "xbh_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_xubeihong_horse",
+      "label": "奔马图",
+      "type": "Work",
+      "properties": {
+        "name": "奔马图",
+        "name_zh": "奔马图",
+        "type": "绘画",
+        "creation_date": "1941",
+        "material": "纸本水墨",
+        "dimensions": "约110cm × 50cm",
+        "source": "徐悲鸿纪念馆",
+        "source_id": "xbh_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_zhangdaqian",
+      "label": "张大千",
+      "type": "Artist",
+      "properties": {
+        "name": "张大千",
+        "birth_year": "1899",
+        "death_year": "1983",
+        "style": "泼墨泼彩、山水画",
+        "school": "现代中国画",
+        "source": "中国美术馆",
+        "source_id": "cmg_artist_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_zhangdaqian_lotus",
+      "label": "荷花图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花图",
+        "name_zh": "荷花图",
+        "type": "绘画",
+        "creation_date": "20世纪50年代",
+        "material": "纸本设色",
+        "dimensions": "约130cm × 65cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_huangbinhong",
+      "label": "黄宾虹",
+      "type": "Artist",
+      "properties": {
+        "name": "黄宾虹",
+        "birth_year": "1865",
+        "death_year": "1955",
+        "style": "山水画、积墨法",
+        "school": "新安画派",
+        "source": "浙江省博物馆",
+        "source_id": "zjmuseum_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_huangbinhong_mountain",
+      "label": "黄山汤口",
+      "type": "Work",
+      "properties": {
+        "name": "黄山汤口",
+        "name_zh": "黄山汤口",
+        "type": "绘画",
+        "creation_date": "1955",
+        "material": "纸本水墨",
+        "dimensions": "约180cm × 90cm",
+        "source": "浙江省博物馆",
+        "source_id": "zjmuseum_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_panheng",
+      "label": "潘天寿",
+      "type": "Artist",
+      "properties": {
+        "name": "潘天寿",
+        "birth_year": "1897",
+        "death_year": "1971",
+        "style": "花鸟画、指画",
+        "school": "现代中国画",
+        "source": "中国美术学院",
+        "source_id": "caa_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_panheng_eagle",
+      "label": "鹰石图",
+      "type": "Work",
+      "properties": {
+        "name": "鹰石图",
+        "name_zh": "鹰石图",
+        "type": "绘画",
+        "creation_date": "1962",
+        "material": "纸本设色",
+        "dimensions": "约150cm × 60cm",
+        "source": "潘天寿纪念馆",
+        "source_id": "pts_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_linfengmian",
+      "label": "林风眠",
+      "type": "Artist",
+      "properties": {
+        "name": "林风眠",
+        "birth_year": "1900",
+        "death_year": "1991",
+        "style": "中西融合、仕女画",
+        "school": "现代中国画",
+        "source": "中国美术馆",
+        "source_id": "cmg_artist_003"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_linfengmian_lady",
+      "label": "仕女图",
+      "type": "Work",
+      "properties": {
+        "name": "仕女图",
+        "name_zh": "仕女图",
+        "type": "绘画",
+        "creation_date": "20世纪60年代",
+        "material": "纸本设色",
+        "dimensions": "约66cm × 66cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_fubao石",
+      "label": "傅抱石",
+      "type": "Artist",
+      "properties": {
+        "name": "傅抱石",
+        "birth_year": "1904",
+        "death_year": "1965",
+        "style": "山水画、抱石皴",
+        "school": "新金陵画派",
+        "source": "南京博物院",
+        "source_id": "nanjingmuseum_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_fubaoshi_landscape",
+      "label": "江山如此多娇",
+      "type": "Work",
+      "properties": {
+        "name": "江山如此多娇",
+        "name_zh": "江山如此多娇",
+        "type": "绘画",
+        "creation_date": "1959",
+        "material": "纸本设色",
+        "dimensions": "约550cm × 900cm",
+        "creator_note": "与关山月合作",
+        "source": "人民大会堂藏",
+        "source_id": "rmdht_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_lishichan",
+      "label": "李可染",
+      "type": "Artist",
+      "properties": {
+        "name": "李可染",
+        "birth_year": "1907",
+        "death_year": "1989",
+        "style": "山水画、积墨重彩",
+        "school": "现代中国画",
+        "source": "中国美术馆",
+        "source_id": "cmg_artist_004"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_likeren_guilin",
+      "label": "漓江山水",
+      "type": "Work",
+      "properties": {
+        "name": "漓江山水",
+        "name_zh": "漓江山水",
+        "type": "绘画",
+        "creation_date": "20世纪70年代",
+        "material": "纸本水墨",
+        "dimensions": "约120cm × 60cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_003"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_modern",
+      "label": "近现代",
+      "type": "Period",
+      "properties": {
+        "label": "近现代",
+        "start_year": "1840",
+        "end_year": "2000",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_cmg",
+      "label": "中国美术馆",
+      "type": "Organization",
+      "properties": {
+        "name": "中国美术馆",
+        "name_zh": "中国美术馆",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_beijingaa",
+      "label": "北京画院",
+      "type": "Organization",
+      "properties": {
+        "name": "北京画院",
+        "name_zh": "北京画院",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_xbhmemorial",
+      "label": "徐悲鸿纪念馆",
+      "type": "Organization",
+      "properties": {
+        "name": "徐悲鸿纪念馆",
+        "name_zh": "徐悲鸿纪念馆",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    }
+  ],
+  "edges": [
+    { "source": "work_qibaishi_shrimp", "target": "artist_qibaishi", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_qibaishi_shrimp", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_qibaishi_shrimp", "target": "org_beijingaa", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_xubeihong_horse", "target": "artist_xubeihong", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_xubeihong_horse", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_xubeihong_horse", "target": "org_xbhmemorial", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_zhangdaqian_lotus", "target": "artist_zhangdaqian", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_zhangdaqian_lotus", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_zhangdaqian_lotus", "target": "org_cmg", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_huangbinhong_mountain", "target": "artist_huangbinhong", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_huangbinhong_mountain", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_panheng_eagle", "target": "artist_panheng", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_panheng_eagle", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_linfengmian_lady", "target": "artist_linfengmian", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_linfengmian_lady", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_linfengmian_lady", "target": "org_cmg", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_fubaoshi_landscape", "target": "artist_fubao石", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_fubaoshi_landscape", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+
+    { "source": "work_likeren_guilin", "target": "artist_lishichan", "relation": "CREATED_BY", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_likeren_guilin", "target": "period_modern", "relation": "CREATED_IN", "properties": {}, "source_page": null, "confidence": 1.0 },
+    { "source": "work_likeren_guilin", "target": "org_cmg", "relation": "HELD_BY", "properties": {}, "source_page": null, "confidence": 1.0 }
+  ]
+}

@@ -53,20 +53,31 @@ class KGStore:
     def get_full_graph(self) -> GraphPayload:
         return GraphPayload(nodes=self._nodes, edges=self._edges)
 
-    def search_nodes(self, q: str) -> list[Node]:
+    def search_nodes(self, q: str, page: int = 1, page_size: int = 20) -> tuple[list[Node], int]:
+        """搜索节点，支持分页。返回 (节点列表, 总数)"""
         q = (q or "").strip().lower()
         if not q:
-            return []
-        out: list[Node] = []
+            return [], 0
+
+        # 收集所有匹配的节点
+        all_matches: list[Node] = []
         for n in self._nodes:
             if q in n.label.lower():
-                out.append(n)
+                all_matches.append(n)
                 continue
             for v in (n.properties or {}).values():
                 if isinstance(v, str) and q in v.lower():
-                    out.append(n)
+                    all_matches.append(n)
                     break
-        return out
+
+        total = len(all_matches)
+
+        # 分页
+        start = (page - 1) * page_size
+        end = start + page_size
+        paginated = all_matches[start:end]
+
+        return paginated, total
 
     def get_node(self, node_id: str) -> Optional[Node]:
         return self._node_by_id.get(node_id)

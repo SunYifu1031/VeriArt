@@ -1,0 +1,5919 @@
+{
+  "nodes": [
+    {
+      "id": "artist_ext_001",
+      "label": "启功",
+      "type": "Artist",
+      "properties": {
+        "name": "启功",
+        "birth_year": "1912",
+        "death_year": "2005",
+        "specialty": "书法、古典文献学",
+        "source": "国家文物局限制出境名家名单",
+        "source_id": "ncha_qigong"
+      }
+    },
+    {
+      "id": "artist_ext_002",
+      "label": "吴昌硕",
+      "type": "Artist",
+      "properties": {
+        "name": "吴昌硕",
+        "birth_year": "1844",
+        "death_year": "1927",
+        "specialty": "花鸟画、书法、篆刻",
+        "source": "中国美术史",
+        "source_id": "mas_wuchangshuo"
+      }
+    },
+    {
+      "id": "artist_ext_003",
+      "label": "刘海粟",
+      "type": "Artist",
+      "properties": {
+        "name": "刘海粟",
+        "birth_year": "1896",
+        "death_year": "1994",
+        "specialty": "油画、国画、书法",
+        "source": "中国美术家协会",
+        "source_id": "caa_liuhaisu"
+      }
+    },
+    {
+      "id": "artist_ext_004",
+      "label": "黄胄",
+      "type": "Artist",
+      "properties": {
+        "name": "黄胄",
+        "birth_year": "1925",
+        "death_year": "1997",
+        "specialty": "人物画、动物画",
+        "source": "炎黄艺术馆",
+        "source_id": "yhag_huangzhou"
+      }
+    },
+    {
+      "id": "artist_吴冠中",
+      "label": "吴冠中",
+      "type": "Artist",
+      "properties": {
+        "name": "吴冠中",
+        "birth_year": "1919",
+        "death_year": "2010",
+        "specialty": "油画、水墨画",
+        "source": "中国美术馆",
+        "source_id": "namoc_wuguanzhong",
+        "style": "油画、水墨"
+      }
+    },
+    {
+      "id": "artist_ext_006",
+      "label": "陆俨少",
+      "type": "Artist",
+      "properties": {
+        "name": "陆俨少",
+        "birth_year": "1909",
+        "death_year": "1993",
+        "specialty": "山水画",
+        "source": "中国美术家协会",
+        "source_id": "caa_luyanshao"
+      }
+    },
+    {
+      "id": "artist_ext_007",
+      "label": "于非闇",
+      "type": "Artist",
+      "properties": {
+        "name": "于非闇",
+        "birth_year": "1889",
+        "death_year": "1959",
+        "specialty": "工笔花鸟画",
+        "source": "故宫博物院",
+        "source_id": "dpm_yufeian"
+      }
+    },
+    {
+      "id": "artist_ext_008",
+      "label": "何香凝",
+      "type": "Artist",
+      "properties": {
+        "name": "何香凝",
+        "birth_year": "1878",
+        "death_year": "1972",
+        "specialty": "花鸟画",
+        "source": "何香凝美术馆",
+        "source_id": "hxn_museum"
+      }
+    },
+    {
+      "id": "artist_ext_009",
+      "label": "溥儒",
+      "type": "Artist",
+      "properties": {
+        "name": "溥儒",
+        "birth_year": "1896",
+        "death_year": "1963",
+        "specialty": "山水画、书法",
+        "source": "故宫博物院",
+        "source_id": "dpm_puru"
+      }
+    },
+    {
+      "id": "artist_ext_010",
+      "label": "陈半丁",
+      "type": "Artist",
+      "properties": {
+        "name": "陈半丁",
+        "birth_year": "1876",
+        "death_year": "1970",
+        "specialty": "花鸟画、山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_chenbanding"
+      }
+    },
+    {
+      "id": "artist_ext_011",
+      "label": "吴湖帆",
+      "type": "Artist",
+      "properties": {
+        "name": "吴湖帆",
+        "birth_year": "1894",
+        "death_year": "1968",
+        "specialty": "山水画、书法、鉴藏",
+        "source": "上海博物馆",
+        "source_id": "shm_wuhufan"
+      }
+    },
+    {
+      "id": "artist_ext_012",
+      "label": "唐云",
+      "type": "Artist",
+      "properties": {
+        "name": "唐云",
+        "birth_year": "1910",
+        "death_year": "1993",
+        "specialty": "花鸟画、山水画",
+        "source": "上海中国画院",
+        "source_id": "shcia_tangyun"
+      }
+    },
+    {
+      "id": "artist_ext_013",
+      "label": "陆抑非",
+      "type": "Artist",
+      "properties": {
+        "name": "陆抑非",
+        "birth_year": "1908",
+        "death_year": "1997",
+        "specialty": "花鸟画",
+        "source": "中国美术学院",
+        "source_id": "caa_luyifei"
+      }
+    },
+    {
+      "id": "artist_ext_014",
+      "label": "关山月",
+      "type": "Artist",
+      "properties": {
+        "name": "关山月",
+        "birth_year": "1912",
+        "death_year": "2000",
+        "specialty": "山水画、梅花",
+        "source": "关山月美术馆",
+        "source_id": "gsy_museum"
+      }
+    },
+    {
+      "id": "artist_ext_015",
+      "label": "钱松喦",
+      "type": "Artist",
+      "properties": {
+        "name": "钱松喦",
+        "birth_year": "1899",
+        "death_year": "1985",
+        "specialty": "山水画",
+        "source": "江苏省美术馆",
+        "source_id": "jsam_qiansongyan"
+      }
+    },
+    {
+      "id": "artist_ext_016",
+      "label": "石鲁",
+      "type": "Artist",
+      "properties": {
+        "name": "石鲁",
+        "birth_year": "1919",
+        "death_year": "1982",
+        "specialty": "山水画、人物画",
+        "source": "中国美术馆",
+        "source_id": "namoc_shilu"
+      }
+    },
+    {
+      "id": "artist_ext_017",
+      "label": "赵望云",
+      "type": "Artist",
+      "properties": {
+        "name": "赵望云",
+        "birth_year": "1906",
+        "death_year": "1977",
+        "specialty": "山水画、人物画",
+        "source": "陕西省美术博物馆",
+        "source_id": "sxam_zhaowangyun"
+      }
+    },
+    {
+      "id": "artist_ext_018",
+      "label": "孙菊生",
+      "type": "Artist",
+      "properties": {
+        "name": "孙菊生",
+        "birth_year": "1913",
+        "death_year": "1995",
+        "specialty": "花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_sunjusheng"
+      }
+    },
+    {
+      "id": "artist_ext_019",
+      "label": "王雪涛",
+      "type": "Artist",
+      "properties": {
+        "name": "王雪涛",
+        "birth_year": "1903",
+        "death_year": "1982",
+        "specialty": "花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_wangxuetao"
+      }
+    },
+    {
+      "id": "artist_ext_020",
+      "label": "田世光",
+      "type": "Artist",
+      "properties": {
+        "name": "田世光",
+        "birth_year": "1916",
+        "death_year": "1999",
+        "specialty": "工笔花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_tianshiguang"
+      }
+    },
+    {
+      "id": "artist_ext_021",
+      "label": "李苦禅",
+      "type": "Artist",
+      "properties": {
+        "name": "李苦禅",
+        "birth_year": "1899",
+        "death_year": "1983",
+        "specialty": "花鸟画、书法",
+        "source": "中央美术学院",
+        "source_id": "cafa_likuchan"
+      }
+    },
+    {
+      "id": "artist_ext_022",
+      "label": "董寿平",
+      "type": "Artist",
+      "properties": {
+        "name": "董寿平",
+        "birth_year": "1904",
+        "death_year": "1997",
+        "specialty": "山水画、梅竹",
+        "source": "中国美术家协会",
+        "source_id": "caa_dongshouping"
+      }
+    },
+    {
+      "id": "artist_ext_023",
+      "label": "程十发",
+      "type": "Artist",
+      "properties": {
+        "name": "程十发",
+        "birth_year": "1921",
+        "death_year": "2007",
+        "specialty": "人物画、花鸟画",
+        "source": "上海中国画院",
+        "source_id": "shcia_chengshifa"
+      }
+    },
+    {
+      "id": "artist_ext_024",
+      "label": "谢稚柳",
+      "type": "Artist",
+      "properties": {
+        "name": "谢稚柳",
+        "birth_year": "1910",
+        "death_year": "1997",
+        "specialty": "山水画、花鸟画、鉴定",
+        "source": "上海博物馆",
+        "source_id": "shm_xiezhiliu"
+      }
+    },
+    {
+      "id": "artist_ext_025",
+      "label": "陈佩秋",
+      "type": "Artist",
+      "properties": {
+        "name": "陈佩秋",
+        "birth_year": "1922",
+        "death_year": "2020",
+        "specialty": "山水画、花鸟画",
+        "source": "上海中国画院",
+        "source_id": "shcia_chenpeiqu"
+      }
+    },
+    {
+      "id": "artist_ext_026",
+      "label": "钱松岩",
+      "type": "Artist",
+      "properties": {
+        "name": "钱松岩",
+        "birth_year": "1899",
+        "death_year": "1985",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_qiansongyan"
+      }
+    },
+    {
+      "id": "artist_ext_027",
+      "label": "亚明",
+      "type": "Artist",
+      "properties": {
+        "name": "亚明",
+        "birth_year": "1924",
+        "death_year": "2002",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_yaming"
+      }
+    },
+    {
+      "id": "artist_ext_028",
+      "label": "宋文治",
+      "type": "Artist",
+      "properties": {
+        "name": "宋文治",
+        "birth_year": "1919",
+        "death_year": "1999",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_songwenzhi"
+      }
+    },
+    {
+      "id": "artist_ext_029",
+      "label": "魏紫熙",
+      "type": "Artist",
+      "properties": {
+        "name": "魏紫熙",
+        "birth_year": "1915",
+        "death_year": "2002",
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_weizixi"
+      }
+    },
+    {
+      "id": "artist_ext_030",
+      "label": "何海霞",
+      "type": "Artist",
+      "properties": {
+        "name": "何海霞",
+        "birth_year": "1908",
+        "death_year": "1998",
+        "specialty": "山水画",
+        "source": "中国美术家协会",
+        "source_id": "caa_hehaixia"
+      }
+    },
+    {
+      "id": "artist_ext_031",
+      "label": "钱瘦铁",
+      "type": "Artist",
+      "properties": {
+        "name": "钱瘦铁",
+        "birth_year": "1897",
+        "death_year": "1967",
+        "specialty": "花鸟画、书法",
+        "source": "上海博物馆",
+        "source_id": "shm_qianshoutie"
+      }
+    },
+    {
+      "id": "artist_ext_032",
+      "label": "刘奎龄",
+      "type": "Artist",
+      "properties": {
+        "name": "刘奎龄",
+        "birth_year": "1885",
+        "death_year": "1967",
+        "specialty": "动物画、花鸟画",
+        "source": "天津博物馆",
+        "source_id": "tjm_liukuiling"
+      }
+    },
+    {
+      "id": "artist_ext_033",
+      "label": "陈之佛",
+      "type": "Artist",
+      "properties": {
+        "name": "陈之佛",
+        "birth_year": "1896",
+        "death_year": "1962",
+        "specialty": "工笔花鸟画",
+        "source": "南京艺术学院",
+        "source_id": "nua_chenzhifo"
+      }
+    },
+    {
+      "id": "artist_ext_034",
+      "label": "于希宁",
+      "type": "Artist",
+      "properties": {
+        "name": "于希宁",
+        "birth_year": "1913",
+        "death_year": "2007",
+        "specialty": "花鸟画、梅花",
+        "source": "山东艺术学院",
+        "source_id": "sdca_yuxining"
+      }
+    },
+    {
+      "id": "artist_ext_035",
+      "label": "郭味蕖",
+      "type": "Artist",
+      "properties": {
+        "name": "郭味蕖",
+        "birth_year": "1908",
+        "death_year": "1971",
+        "specialty": "花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_guoweiqu"
+      }
+    },
+    {
+      "id": "artist_ext_036",
+      "label": "黄永玉",
+      "type": "Artist",
+      "properties": {
+        "name": "黄永玉",
+        "birth_year": "1924",
+        "death_year": "2023",
+        "specialty": "国画、版画、文学",
+        "source": "中央美术学院",
+        "source_id": "cafa_huangyongyu"
+      }
+    },
+    {
+      "id": "artist_ext_037",
+      "label": "朱屺瞻",
+      "type": "Artist",
+      "properties": {
+        "name": "朱屺瞻",
+        "birth_year": "1892",
+        "death_year": "1996",
+        "specialty": "山水画、花卉画",
+        "source": "上海美术馆",
+        "source_id": "sham_zhuqizhan"
+      }
+    },
+    {
+      "id": "artist_ext_038",
+      "label": "王震",
+      "type": "Artist",
+      "properties": {
+        "name": "王震",
+        "birth_year": "1867",
+        "death_year": "1938",
+        "specialty": "花鸟画、佛像画",
+        "source": "上海博物馆",
+        "source_id": "shm_wangzhen"
+      }
+    },
+    {
+      "id": "artist_ext_039",
+      "label": "贺天健",
+      "type": "Artist",
+      "properties": {
+        "name": "贺天健",
+        "birth_year": "1891",
+        "death_year": "1977",
+        "specialty": "山水画",
+        "source": "上海中国画院",
+        "source_id": "shcia_hetianjian"
+      }
+    },
+    {
+      "id": "artist_ext_040",
+      "label": "应野平",
+      "type": "Artist",
+      "properties": {
+        "name": "应野平",
+        "birth_year": "1910",
+        "death_year": "1990",
+        "specialty": "山水画",
+        "source": "浙江画院",
+        "source_id": "zjaa_yingyeping"
+      }
+    },
+    {
+      "id": "artist_ext_041",
+      "label": "周思聪",
+      "type": "Artist",
+      "properties": {
+        "name": "周思聪",
+        "birth_year": "1939",
+        "death_year": "1996",
+        "specialty": "人物画",
+        "source": "中国美术家协会",
+        "source_id": "caa_zhousicong"
+      }
+    },
+    {
+      "id": "artist_ext_042",
+      "label": "卢沉",
+      "type": "Artist",
+      "properties": {
+        "name": "卢沉",
+        "birth_year": "1935",
+        "death_year": "2004",
+        "specialty": "人物画",
+        "source": "中央美术学院",
+        "source_id": "cafa_luchen"
+      }
+    },
+    {
+      "id": "artist_ext_043",
+      "label": "刘文西",
+      "type": "Artist",
+      "properties": {
+        "name": "刘文西",
+        "birth_year": "1933",
+        "death_year": "2019",
+        "specialty": "人物画",
+        "source": "西安美术学院",
+        "source_id": "xafa_liuwenxi"
+      }
+    },
+    {
+      "id": "artist_ext_044",
+      "label": "方增先",
+      "type": "Artist",
+      "properties": {
+        "name": "方增先",
+        "birth_year": "1931",
+        "death_year": "2019",
+        "specialty": "人物画",
+        "source": "上海美术学院",
+        "source_id": "shafa_fangzengxian"
+      }
+    },
+    {
+      "id": "artist_ext_045",
+      "label": "杨之光",
+      "type": "Artist",
+      "properties": {
+        "name": "杨之光",
+        "birth_year": "1930",
+        "death_year": "2016",
+        "specialty": "人物画",
+        "source": "广州美术学院",
+        "source_id": "gafa_yangzhiguang"
+      }
+    },
+    {
+      "id": "artist_ext_046",
+      "label": "黄正襄",
+      "type": "Artist",
+      "properties": {
+        "name": "黄正襄",
+        "birth_year": "1905",
+        "death_year": "1989",
+        "specialty": "山水画",
+        "source": "湖南画院",
+        "source_id": "hnaa_huangzhengxiang"
+      }
+    },
+    {
+      "id": "artist_ext_047",
+      "label": "陈少梅",
+      "type": "Artist",
+      "properties": {
+        "name": "陈少梅",
+        "birth_year": "1909",
+        "death_year": "1954",
+        "specialty": "山水画、人物画",
+        "source": "故宫博物院",
+        "source_id": "dpm_chenshaomei"
+      }
+    },
+    {
+      "id": "artist_ext_048",
+      "label": "白雪石",
+      "type": "Artist",
+      "properties": {
+        "name": "白雪石",
+        "birth_year": "1915",
+        "death_year": "2011",
+        "specialty": "山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_baixueshi"
+      }
+    },
+    {
+      "id": "artist_ext_049",
+      "label": "秦岭云",
+      "type": "Artist",
+      "properties": {
+        "name": "秦岭云",
+        "birth_year": "1914",
+        "death_year": "1991",
+        "specialty": "花鸟画",
+        "source": "中国美术家协会",
+        "source_id": "caa_qinlingyun"
+      }
+    },
+    {
+      "id": "artist_ext_050",
+      "label": "崔子范",
+      "type": "Artist",
+      "properties": {
+        "name": "崔子范",
+        "birth_year": "1915",
+        "death_year": "2011",
+        "specialty": "花鸟画",
+        "source": "中央美术学院",
+        "source_id": "cafa_cuizifan"
+      }
+    },
+    {
+      "id": "work_001",
+      "label": "群虾图",
+      "type": "Work",
+      "properties": {
+        "name": "群虾图",
+        "creation_date": "1950年代",
+        "dimensions": "68×34cm",
+        "material": "纸本水墨",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qibaishi_001",
+        "name_zh": "群虾图",
+        "type": "绘画",
+        "source_id": "bjaa_qbs_001"
+      }
+    },
+    {
+      "id": "work_002",
+      "label": "荷花蜻蜓图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花蜻蜓图",
+        "creation_date": "1948",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/qibaishi_002"
+      }
+    },
+    {
+      "id": "work_松鹰图_artist_齐白石",
+      "label": "松鹰图",
+      "type": "Work",
+      "properties": {
+        "name": "松鹰图",
+        "creation_date": "1946",
+        "dimensions": "266×100cm",
+        "material": "纸本设色",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_001",
+        "source_id": "work_松鹰图_artist_齐白石"
+      }
+    },
+    {
+      "id": "work_奔马图_artist_徐悲鸿",
+      "label": "奔马图",
+      "type": "Work",
+      "properties": {
+        "name": "奔马图",
+        "creation_date": "1941",
+        "dimensions": "95×62cm",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_002",
+        "source_id": "work_奔马图_artist_徐悲鸿",
+        "name_zh": "奔马图",
+        "type": "绘画"
+      }
+    },
+    {
+      "id": "work_庐山图_artist_张大千",
+      "label": "庐山图",
+      "type": "Work",
+      "properties": {
+        "name": "庐山图",
+        "creation_date": "1954",
+        "dimensions": "296×108cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/zhangdq_001",
+        "source_id": "work_庐山图_artist_张大千"
+      }
+    },
+    {
+      "id": "work_006",
+      "label": "泼墨荷花图",
+      "type": "Work",
+      "properties": {
+        "name": "泼墨荷花图",
+        "creation_date": "1972",
+        "dimensions": "179×90cm",
+        "material": "纸本泼墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_lotus_1972"
+      }
+    },
+    {
+      "id": "work_双燕_artist_吴冠中",
+      "label": "双燕",
+      "type": "Work",
+      "properties": {
+        "name": "双燕",
+        "creation_date": "1988",
+        "dimensions": "68×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_001",
+        "source_id": "work_双燕_artist_吴冠中"
+      }
+    },
+    {
+      "id": "work_008",
+      "label": "江南水乡",
+      "type": "Work",
+      "properties": {
+        "name": "江南水乡",
+        "creation_date": "1991",
+        "dimensions": "61×46cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_jiangnan_1991"
+      }
+    },
+    {
+      "id": "work_009",
+      "label": "山水清音图",
+      "type": "Work",
+      "properties": {
+        "name": "山水清音图",
+        "creation_date": "1955",
+        "dimensions": "136×68cm",
+        "material": "纸本水墨",
+        "current_location": "浙江省博物馆",
+        "source": "浙江省博物馆",
+        "source_url": "https://www.zjmuseum.cn/collection/huangbh_001"
+      }
+    },
+    {
+      "id": "work_010",
+      "label": "青城山色图",
+      "type": "Work",
+      "properties": {
+        "name": "青城山色图",
+        "creation_date": "1933",
+        "dimensions": "175×48cm",
+        "material": "纸本设色",
+        "current_location": "四川博物院",
+        "source": "四川博物院",
+        "source_url": "https://www.scmuseum.cn/collection/zhangdq_002"
+      }
+    },
+    {
+      "id": "work_011",
+      "label": "雄鹰图",
+      "type": "Work",
+      "properties": {
+        "name": "雄鹰图",
+        "creation_date": "1950",
+        "dimensions": "151×250cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/likr_001"
+      }
+    },
+    {
+      "id": "work_012",
+      "label": "万竿烟雨图",
+      "type": "Work",
+      "properties": {
+        "name": "万竿烟雨图",
+        "creation_date": "1982",
+        "dimensions": "180×96cm",
+        "material": "纸本水墨",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/likr_002"
+      }
+    },
+    {
+      "id": "work_013",
+      "label": "湘夫人图",
+      "type": "Work",
+      "properties": {
+        "name": "湘夫人图",
+        "creation_date": "1943",
+        "dimensions": "111×51cm",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_001"
+      }
+    },
+    {
+      "id": "work_014",
+      "label": "待细把江山图画",
+      "type": "Work",
+      "properties": {
+        "name": "待细把江山图画",
+        "creation_date": "1961",
+        "dimensions": "230×315cm",
+        "material": "纸本设色",
+        "current_location": "人民大会堂",
+        "source": "人民大会堂",
+        "source_url": "https://www.gpm.cn/collection/guanshanyue_001"
+      }
+    },
+    {
+      "id": "work_鹰石图_artist_潘天寿",
+      "label": "鹰石图",
+      "type": "Work",
+      "properties": {
+        "name": "鹰石图",
+        "creation_date": "1970",
+        "dimensions": "182×142cm",
+        "material": "纸本设色",
+        "current_location": "潘天寿纪念馆",
+        "source": "潘天寿纪念馆",
+        "source_url": "https://www.pts-museum.cn/collection/pts_001",
+        "source_id": "work_鹰石图_artist_潘天寿",
+        "name_zh": "鹰石图",
+        "type": "绘画"
+      }
+    },
+    {
+      "id": "work_016",
+      "label": "红梅图",
+      "type": "Work",
+      "properties": {
+        "name": "红梅图",
+        "creation_date": "1955",
+        "dimensions": "68×138cm",
+        "material": "纸本设色",
+        "current_location": "关山月美术馆",
+        "source": "关山月美术馆",
+        "source_url": "https://www.gsy-museum.cn/collection/gsy_002"
+      }
+    },
+    {
+      "id": "work_017",
+      "label": "雨花台颂",
+      "type": "Work",
+      "properties": {
+        "name": "雨花台颂",
+        "creation_date": "1959",
+        "dimensions": "200×580cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/fbs_002"
+      }
+    },
+    {
+      "id": "work_018",
+      "label": "九歌图",
+      "type": "Work",
+      "properties": {
+        "name": "九歌图",
+        "creation_date": "1953",
+        "dimensions": "册页 33×31cm×9",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_003"
+      }
+    },
+    {
+      "id": "work_019",
+      "label": "苍山如海图",
+      "type": "Work",
+      "properties": {
+        "name": "苍山如海图",
+        "creation_date": "1978",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/shilu_001"
+      }
+    },
+    {
+      "id": "work_020",
+      "label": "转战陕北",
+      "type": "Work",
+      "properties": {
+        "name": "转战陕北",
+        "creation_date": "1959",
+        "dimensions": "233×216cm",
+        "material": "纸本设色",
+        "current_location": "中国国家博物馆",
+        "source": "中国国家博物馆",
+        "source_url": "https://www.chnmuseum.cn/collection/shilu_002"
+      }
+    },
+    {
+      "id": "work_021",
+      "label": "梅竹双清图",
+      "type": "Work",
+      "properties": {
+        "name": "梅竹双清图",
+        "creation_date": "1965",
+        "dimensions": "68×45cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qg_meizhu_1965"
+      }
+    },
+    {
+      "id": "work_022",
+      "label": "书法四屏",
+      "type": "Work",
+      "properties": {
+        "name": "书法四屏",
+        "creation_date": "1990",
+        "dimensions": "136×34cm×4",
+        "material": "纸本水墨",
+        "current_location": "首都博物馆",
+        "source": "首都博物馆",
+        "source_url": "https://www.capitalmuseum.cn/collection/qg_001"
+      }
+    },
+    {
+      "id": "work_023",
+      "label": "牡丹图",
+      "type": "Work",
+      "properties": {
+        "name": "牡丹图",
+        "creation_date": "1922",
+        "dimensions": "151×81cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/wcs_001"
+      }
+    },
+    {
+      "id": "work_024",
+      "label": "天竺水仙图",
+      "type": "Work",
+      "properties": {
+        "name": "天竺水仙图",
+        "creation_date": "1920",
+        "dimensions": "132×33cm",
+        "material": "纸本设色",
+        "current_location": "浙江省博物馆",
+        "source": "浙江省博物馆",
+        "source_url": "https://www.zjmuseum.cn/collection/wcs_002"
+      }
+    },
+    {
+      "id": "work_025",
+      "label": "虎图",
+      "type": "Work",
+      "properties": {
+        "name": "虎图",
+        "creation_date": "1938",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "四川博物院",
+        "source": "四川博物院",
+        "source_url": "https://www.scmuseum.cn/collection/zhangsz_001"
+      }
+    },
+    {
+      "id": "work_026",
+      "label": "五虎图",
+      "type": "Work",
+      "properties": {
+        "name": "五虎图",
+        "creation_date": "1935",
+        "dimensions": "131×66cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/zhangsz_wuhu_1935"
+      }
+    },
+    {
+      "id": "work_027",
+      "label": "工笔牡丹",
+      "type": "Work",
+      "properties": {
+        "name": "工笔牡丹",
+        "creation_date": "1956",
+        "dimensions": "100×55cm",
+        "material": "纸本设色",
+        "current_location": "故宫博物院",
+        "source": "故宫博物院",
+        "source_url": "https://www.dpm.org.cn/collection/yufa_001"
+      }
+    },
+    {
+      "id": "work_028",
+      "label": "玉兰绶带图",
+      "type": "Work",
+      "properties": {
+        "name": "玉兰绶带图",
+        "creation_date": "1954",
+        "dimensions": "90×44cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/yufa_002"
+      }
+    },
+    {
+      "id": "work_029",
+      "label": "雄狮图",
+      "type": "Work",
+      "properties": {
+        "name": "雄狮图",
+        "creation_date": "1935",
+        "dimensions": "150×83cm",
+        "material": "纸本设色",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_003"
+      }
+    },
+    {
+      "id": "work_030",
+      "label": "巴人汲水图",
+      "type": "Work",
+      "properties": {
+        "name": "巴人汲水图",
+        "creation_date": "1938",
+        "dimensions": "300×62cm",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_004"
+      }
+    },
+    {
+      "id": "work_长江万里图_artist_张大千",
+      "label": "长江万里图",
+      "type": "Work",
+      "properties": {
+        "name": "长江万里图",
+        "creation_date": "1973",
+        "dimensions": "50×1979cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/zhangdq_003",
+        "source_id": "work_长江万里图_artist_张大千"
+      }
+    },
+    {
+      "id": "work_032",
+      "label": "华山云海图",
+      "type": "Work",
+      "properties": {
+        "name": "华山云海图",
+        "creation_date": "1936",
+        "dimensions": "120×56cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_huashan_1936"
+      }
+    },
+    {
+      "id": "work_033",
+      "label": "桃源图",
+      "type": "Work",
+      "properties": {
+        "name": "桃源图",
+        "creation_date": "1982",
+        "dimensions": "209×106cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zhangdq_taoyuan_1982"
+      }
+    },
+    {
+      "id": "work_034",
+      "label": "秋瑾诗意图",
+      "type": "Work",
+      "properties": {
+        "name": "秋瑾诗意图",
+        "creation_date": "1978",
+        "dimensions": "66×45cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_002"
+      }
+    },
+    {
+      "id": "work_狮子林_artist_吴冠中",
+      "label": "狮子林",
+      "type": "Work",
+      "properties": {
+        "name": "狮子林",
+        "creation_date": "1988",
+        "dimensions": "144×297cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_shizlin_1988",
+        "source_id": "work_狮子林_artist_吴冠中"
+      }
+    },
+    {
+      "id": "work_036",
+      "label": "芦苇水鸟",
+      "type": "Work",
+      "properties": {
+        "name": "芦苇水鸟",
+        "creation_date": "1955",
+        "dimensions": "68×136cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qbs_luwei_1955"
+      }
+    },
+    {
+      "id": "work_037",
+      "label": "山水十二屏",
+      "type": "Work",
+      "properties": {
+        "name": "山水十二屏",
+        "creation_date": "1925",
+        "dimensions": "180×47cm×12",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/qbs_12screen_1925"
+      }
+    },
+    {
+      "id": "work_038",
+      "label": "花卉册页",
+      "type": "Work",
+      "properties": {
+        "name": "花卉册页",
+        "creation_date": "1950",
+        "dimensions": "册页 34×34cm×12",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_huahui_1950"
+      }
+    },
+    {
+      "id": "work_039",
+      "label": "驴图",
+      "type": "Work",
+      "properties": {
+        "name": "驴图",
+        "creation_date": "1992",
+        "dimensions": "96×89cm",
+        "material": "纸本水墨",
+        "current_location": "炎黄艺术馆",
+        "source": "炎黄艺术馆",
+        "source_url": "https://www.yhag.cn/collection/hz_001"
+      }
+    },
+    {
+      "id": "work_040",
+      "label": "帕米尔高原",
+      "type": "Work",
+      "properties": {
+        "name": "帕米尔高原",
+        "creation_date": "1981",
+        "dimensions": "198×142cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/hz_002"
+      }
+    },
+    {
+      "id": "work_041",
+      "label": "鸡冠花图",
+      "type": "Work",
+      "properties": {
+        "name": "鸡冠花图",
+        "creation_date": "1978",
+        "dimensions": "68×46cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/wxt_001"
+      }
+    },
+    {
+      "id": "work_042",
+      "label": "百花齐放图",
+      "type": "Work",
+      "properties": {
+        "name": "百花齐放图",
+        "creation_date": "1980",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/wxt_baihua_1980"
+      }
+    },
+    {
+      "id": "work_043",
+      "label": "荷塘清趣",
+      "type": "Work",
+      "properties": {
+        "name": "荷塘清趣",
+        "creation_date": "1990",
+        "dimensions": "96×178cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/tsg_001"
+      }
+    },
+    {
+      "id": "work_044",
+      "label": "工笔花鸟四屏",
+      "type": "Work",
+      "properties": {
+        "name": "工笔花鸟四屏",
+        "creation_date": "1995",
+        "dimensions": "180×48cm×4",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/tsg_siping_1995"
+      }
+    },
+    {
+      "id": "work_045",
+      "label": "钟馗图",
+      "type": "Work",
+      "properties": {
+        "name": "钟馗图",
+        "creation_date": "1985",
+        "dimensions": "137×69cm",
+        "material": "纸本设色",
+        "current_location": "上海中国画院",
+        "source": "上海中国画院",
+        "source_url": "https://www.shcia.cn/collection/csf_001"
+      }
+    },
+    {
+      "id": "work_046",
+      "label": "少数民族人物册",
+      "type": "Work",
+      "properties": {
+        "name": "少数民族人物册",
+        "creation_date": "2000",
+        "dimensions": "册页 45×35cm×10",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/csf_002"
+      }
+    },
+    {
+      "id": "work_047",
+      "label": "峨眉山月图",
+      "type": "Work",
+      "properties": {
+        "name": "峨眉山月图",
+        "creation_date": "1987",
+        "dimensions": "96×177cm",
+        "material": "纸本设色",
+        "current_location": "浙江美术馆",
+        "source": "浙江美术馆",
+        "source_url": "https://www.zjam.cn/collection/lys_001"
+      }
+    },
+    {
+      "id": "work_048",
+      "label": "杜陵诗意图册",
+      "type": "Work",
+      "properties": {
+        "name": "杜陵诗意图册",
+        "creation_date": "1984",
+        "dimensions": "册页 33×33cm×16",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/lys_002"
+      }
+    },
+    {
+      "id": "work_049",
+      "label": "红荷图",
+      "type": "Work",
+      "properties": {
+        "name": "红荷图",
+        "creation_date": "1968",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/xzl_honghe_1968"
+      }
+    },
+    {
+      "id": "work_050",
+      "label": "荷花双鸳图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花双鸳图",
+        "creation_date": "1975",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/xzl_002"
+      }
+    },
+    {
+      "id": "work_051",
+      "label": "桂林山水图",
+      "type": "Work",
+      "properties": {
+        "name": "桂林山水图",
+        "creation_date": "1963",
+        "dimensions": "96×60cm",
+        "material": "纸本设色",
+        "current_location": "广州美术学院",
+        "source": "广州美术学院",
+        "source_url": "https://www.gafa.edu.cn/collection/lxc_001"
+      }
+    },
+    {
+      "id": "work_052",
+      "label": "护林图",
+      "type": "Work",
+      "properties": {
+        "name": "护林图",
+        "creation_date": "1984",
+        "dimensions": "192×108cm",
+        "material": "纸本设色",
+        "current_location": "广东美术馆",
+        "source": "广东美术馆",
+        "source_url": "https://www.gdmoa.cn/collection/lxc_002"
+      }
+    },
+    {
+      "id": "work_053",
+      "label": "红梅怒放图",
+      "type": "Work",
+      "properties": {
+        "name": "红梅怒放图",
+        "creation_date": "1990",
+        "dimensions": "178×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zsa_hongmei_1990"
+      }
+    },
+    {
+      "id": "work_054",
+      "label": "岭南春色",
+      "type": "Work",
+      "properties": {
+        "name": "岭南春色",
+        "creation_date": "1985",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "广东美术馆",
+        "source": "广东美术馆",
+        "source_url": "https://www.gdmoa.cn/collection/zsa_002"
+      }
+    },
+    {
+      "id": "work_055",
+      "label": "红杏春燕图",
+      "type": "Work",
+      "properties": {
+        "name": "红杏春燕图",
+        "creation_date": "1960",
+        "dimensions": "100×54cm",
+        "material": "纸本设色",
+        "current_location": "江苏省国画院",
+        "source": "江苏省国画院",
+        "source_url": "https://www.jscia.cn/collection/qsy_001"
+      }
+    },
+    {
+      "id": "work_056",
+      "label": "红岩",
+      "type": "Work",
+      "properties": {
+        "name": "红岩",
+        "creation_date": "1962",
+        "dimensions": "180×140cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/qsy_002"
+      }
+    },
+    {
+      "id": "work_057",
+      "label": "太湖帆影",
+      "type": "Work",
+      "properties": {
+        "name": "太湖帆影",
+        "creation_date": "1975",
+        "dimensions": "68×137cm",
+        "material": "纸本设色",
+        "current_location": "江苏省美术馆",
+        "source": "江苏省美术馆",
+        "source_url": "https://www.jsam.cn/collection/swz_001"
+      }
+    },
+    {
+      "id": "work_058",
+      "label": "运河两岸",
+      "type": "Work",
+      "properties": {
+        "name": "运河两岸",
+        "creation_date": "1978",
+        "dimensions": "97×180cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/swz_002"
+      }
+    },
+    {
+      "id": "work_059",
+      "label": "黄山松云图",
+      "type": "Work",
+      "properties": {
+        "name": "黄山松云图",
+        "creation_date": "1972",
+        "dimensions": "96×178cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/ym_huangshan_1972"
+      }
+    },
+    {
+      "id": "work_060",
+      "label": "长江三峡图",
+      "type": "Work",
+      "properties": {
+        "name": "长江三峡图",
+        "creation_date": "1980",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "江苏省国画院",
+        "source": "江苏省国画院",
+        "source_url": "https://www.jscia.cn/collection/ym_002"
+      }
+    },
+    {
+      "id": "work_061",
+      "label": "秦岭深处",
+      "type": "Work",
+      "properties": {
+        "name": "秦岭深处",
+        "creation_date": "1962",
+        "dimensions": "96×177cm",
+        "material": "纸本设色",
+        "current_location": "陕西省美术博物馆",
+        "source": "陕西省美术博物馆",
+        "source_url": "https://www.sxam.cn/collection/hhx_001"
+      }
+    },
+    {
+      "id": "work_062",
+      "label": "华岳雄姿",
+      "type": "Work",
+      "properties": {
+        "name": "华岳雄姿",
+        "creation_date": "1990",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/hhx_huayue_1990"
+      }
+    },
+    {
+      "id": "work_063",
+      "label": "梅花双鹊图",
+      "type": "Work",
+      "properties": {
+        "name": "梅花双鹊图",
+        "creation_date": "1995",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "山东艺术学院",
+        "source": "山东艺术学院",
+        "source_url": "https://www.sdca.edu.cn/collection/yxn_001"
+      }
+    },
+    {
+      "id": "work_064",
+      "label": "铁骨春风图",
+      "type": "Work",
+      "properties": {
+        "name": "铁骨春风图",
+        "creation_date": "2000",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/yxn_tiegu_2000"
+      }
+    },
+    {
+      "id": "work_065",
+      "label": "芙蓉鸳鸯图",
+      "type": "Work",
+      "properties": {
+        "name": "芙蓉鸳鸯图",
+        "creation_date": "1962",
+        "dimensions": "100×55cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/gwq_001"
+      }
+    },
+    {
+      "id": "work_066",
+      "label": "竹石双禽图",
+      "type": "Work",
+      "properties": {
+        "name": "竹石双禽图",
+        "creation_date": "1968",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/gwq_002"
+      }
+    },
+    {
+      "id": "work_万山红遍_artist_李可染",
+      "label": "万山红遍",
+      "type": "Work",
+      "properties": {
+        "name": "万山红遍",
+        "creation_date": "1964",
+        "dimensions": "136×85cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/lkr_wanshan_1964",
+        "source_id": "work_万山红遍_artist_李可染"
+      }
+    },
+    {
+      "id": "work_068",
+      "label": "漓江胜景图",
+      "type": "Work",
+      "properties": {
+        "name": "漓江胜景图",
+        "creation_date": "1977",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/lkr_002"
+      }
+    },
+    {
+      "id": "work_069",
+      "label": "牧牛图",
+      "type": "Work",
+      "properties": {
+        "name": "牧牛图",
+        "creation_date": "1982",
+        "dimensions": "68×136cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/lkr_muniu_1982"
+      }
+    },
+    {
+      "id": "work_070",
+      "label": "秋山图",
+      "type": "Work",
+      "properties": {
+        "name": "秋山图",
+        "creation_date": "1935",
+        "dimensions": "86×47cm",
+        "material": "纸本设色",
+        "current_location": "上海博物馆",
+        "source": "上海博物馆",
+        "source_url": "https://www.shanghaimuseum.cn/collection/whf_001"
+      }
+    },
+    {
+      "id": "work_071",
+      "label": "青绿山水册",
+      "type": "Work",
+      "properties": {
+        "name": "青绿山水册",
+        "creation_date": "1945",
+        "dimensions": "册页 24×30cm×10",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/whf_qinglv_1945"
+      }
+    },
+    {
+      "id": "work_072",
+      "label": "花卉四屏",
+      "type": "Work",
+      "properties": {
+        "name": "花卉四屏",
+        "creation_date": "1988",
+        "dimensions": "136×34cm×4",
+        "material": "纸本设色",
+        "current_location": "上海中国画院",
+        "source": "上海中国画院",
+        "source_url": "https://www.shcia.cn/collection/ty_001"
+      }
+    },
+    {
+      "id": "work_073",
+      "label": "墨荷图",
+      "type": "Work",
+      "properties": {
+        "name": "墨荷图",
+        "creation_date": "1990",
+        "dimensions": "96×178cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/ty_mohe_1990"
+      }
+    },
+    {
+      "id": "work_074",
+      "label": "鹦鹉图",
+      "type": "Work",
+      "properties": {
+        "name": "鹦鹉图",
+        "creation_date": "1980",
+        "dimensions": "68×45cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/lkc_001"
+      }
+    },
+    {
+      "id": "work_075",
+      "label": "松鹰威震图",
+      "type": "Work",
+      "properties": {
+        "name": "松鹰威震图",
+        "creation_date": "1978",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/lkc_002"
+      }
+    },
+    {
+      "id": "work_076",
+      "label": "墨竹图",
+      "type": "Work",
+      "properties": {
+        "name": "墨竹图",
+        "creation_date": "1992",
+        "dimensions": "138×69cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/dsp_mozhu_1992"
+      }
+    },
+    {
+      "id": "work_077",
+      "label": "梅石图",
+      "type": "Work",
+      "properties": {
+        "name": "梅石图",
+        "creation_date": "1988",
+        "dimensions": "96×60cm",
+        "material": "纸本水墨",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/dsp_002"
+      }
+    },
+    {
+      "id": "work_078",
+      "label": "黄山松石图",
+      "type": "Work",
+      "properties": {
+        "name": "黄山松石图",
+        "creation_date": "2005",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/bxs_001"
+      }
+    },
+    {
+      "id": "work_079",
+      "label": "桂林山水",
+      "type": "Work",
+      "properties": {
+        "name": "桂林山水",
+        "creation_date": "2008",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/bxs_guilin_2008"
+      }
+    },
+    {
+      "id": "work_080",
+      "label": "大鸡图",
+      "type": "Work",
+      "properties": {
+        "name": "大鸡图",
+        "creation_date": "2005",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "中央美术学院",
+        "source": "中央美术学院",
+        "source_url": "https://www.cafa.edu.cn/collection/czf_001"
+      }
+    },
+    {
+      "id": "work_081",
+      "label": "牡丹孔雀图",
+      "type": "Work",
+      "properties": {
+        "name": "牡丹孔雀图",
+        "creation_date": "2008",
+        "dimensions": "180×96cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/czf_mudan_2008"
+      }
+    },
+    {
+      "id": "work_082",
+      "label": "阳朔山水图",
+      "type": "Work",
+      "properties": {
+        "name": "阳朔山水图",
+        "creation_date": "1995",
+        "dimensions": "69×137cm",
+        "material": "纸本设色",
+        "current_location": "浙江美术馆",
+        "source": "浙江美术馆",
+        "source_url": "https://www.zjam.cn/collection/lys_003"
+      }
+    },
+    {
+      "id": "work_083",
+      "label": "云水图",
+      "type": "Work",
+      "properties": {
+        "name": "云水图",
+        "creation_date": "1990",
+        "dimensions": "96×180cm",
+        "material": "纸本水墨",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/lys_yunshui_1990"
+      }
+    },
+    {
+      "id": "work_084",
+      "label": "荔枝图",
+      "type": "Work",
+      "properties": {
+        "name": "荔枝图",
+        "creation_date": "1955",
+        "dimensions": "68×46cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/qbs_lizhi_1955"
+      }
+    },
+    {
+      "id": "work_085",
+      "label": "牵牛花图",
+      "type": "Work",
+      "properties": {
+        "name": "牵牛花图",
+        "creation_date": "1952",
+        "dimensions": "100×34cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_qianniu_1952"
+      }
+    },
+    {
+      "id": "work_086",
+      "label": "竹林七贤图",
+      "type": "Work",
+      "properties": {
+        "name": "竹林七贤图",
+        "creation_date": "1950",
+        "dimensions": "139×356cm",
+        "material": "纸本设色",
+        "current_location": "南京博物院",
+        "source": "南京博物院",
+        "source_url": "https://www.njmuseum.cn/collection/fbs_004"
+      }
+    },
+    {
+      "id": "work_087",
+      "label": "云中君和大司命图",
+      "type": "Work",
+      "properties": {
+        "name": "云中君和大司命图",
+        "creation_date": "1954",
+        "dimensions": "115×66cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/fbs_005"
+      }
+    },
+    {
+      "id": "work_088",
+      "label": "周庄",
+      "type": "Work",
+      "properties": {
+        "name": "周庄",
+        "creation_date": "1997",
+        "dimensions": "54×65cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/wugz_zhouzhuang_1997"
+      }
+    },
+    {
+      "id": "work_089",
+      "label": "鲁迅故乡",
+      "type": "Work",
+      "properties": {
+        "name": "鲁迅故乡",
+        "creation_date": "2005",
+        "dimensions": "46×54cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_003"
+      }
+    },
+    {
+      "id": "work_090",
+      "label": "葡萄松鼠图",
+      "type": "Work",
+      "properties": {
+        "name": "葡萄松鼠图",
+        "creation_date": "1953",
+        "dimensions": "137×34cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/qbs_putao_1953"
+      }
+    },
+    {
+      "id": "work_091",
+      "label": "秋菊图",
+      "type": "Work",
+      "properties": {
+        "name": "秋菊图",
+        "creation_date": "1951",
+        "dimensions": "102×34cm",
+        "material": "纸本设色",
+        "current_location": "北京画院",
+        "source": "北京画院",
+        "source_url": "https://www.bjaa.com.cn/collection/qbs_qiuju_1951"
+      }
+    },
+    {
+      "id": "work_092",
+      "label": "奔马册页",
+      "type": "Work",
+      "properties": {
+        "name": "奔马册页",
+        "creation_date": "1945",
+        "dimensions": "册页 40×52cm×8",
+        "material": "纸本水墨",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_005"
+      }
+    },
+    {
+      "id": "work_093",
+      "label": "九方皋相马图",
+      "type": "Work",
+      "properties": {
+        "name": "九方皋相马图",
+        "creation_date": "1931",
+        "dimensions": "139×351cm",
+        "material": "布面油彩",
+        "current_location": "徐悲鸿纪念馆",
+        "source": "徐悲鸿纪念馆",
+        "source_url": "https://www.xbhmuseum.cn/collection/xubh_006"
+      }
+    },
+    {
+      "id": "work_094",
+      "label": "泼彩山水屏风",
+      "type": "Work",
+      "properties": {
+        "name": "泼彩山水屏风",
+        "creation_date": "1975",
+        "dimensions": "172×367cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "苏富比拍卖",
+        "source_url": "https://www.sothebys.com/zhangdq_pocai_1975"
+      }
+    },
+    {
+      "id": "work_095",
+      "label": "爱痕湖",
+      "type": "Work",
+      "properties": {
+        "name": "爱痕湖",
+        "creation_date": "1972",
+        "dimensions": "66×135cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "保利拍卖",
+        "source_url": "https://www.polyauction.com/zhangdq_aihenhu_1972"
+      }
+    },
+    {
+      "id": "work_096",
+      "label": "桃花源记诗意图",
+      "type": "Work",
+      "properties": {
+        "name": "桃花源记诗意图",
+        "creation_date": "1982",
+        "dimensions": "209×92cm",
+        "material": "纸本泼彩",
+        "current_location": "私人收藏",
+        "source": "佳士得拍卖",
+        "source_url": "https://www.christies.com/zhangdq_taohua_1982"
+      }
+    },
+    {
+      "id": "work_097",
+      "label": "交河故城",
+      "type": "Work",
+      "properties": {
+        "name": "交河故城",
+        "creation_date": "1981",
+        "dimensions": "103×180cm",
+        "material": "纸本设色",
+        "current_location": "中国美术馆",
+        "source": "中国美术馆",
+        "source_url": "https://www.namoc.cn/collection/wugz_004"
+      }
+    },
+    {
+      "id": "work_098",
+      "label": "长城",
+      "type": "Work",
+      "properties": {
+        "name": "长城",
+        "creation_date": "1989",
+        "dimensions": "180×97cm",
+        "material": "纸本设色",
+        "current_location": "私人收藏",
+        "source": "嘉德拍卖",
+        "source_url": "https://www.cguardian.com/wugz_changcheng_1989"
+      }
+    },
+    {
+      "id": "work_099",
+      "label": "春雪图",
+      "type": "Work",
+      "properties": {
+        "name": "春雪图",
+        "creation_date": "1997",
+        "dimensions": "136×68cm",
+        "material": "纸本设色",
+        "current_location": "陕西省美术博物馆",
+        "source": "陕西省美术博物馆",
+        "source_url": "https://www.sxam.cn/collection/hhx_002"
+      }
+    },
+    {
+      "id": "work_100",
+      "label": "雁荡山花图",
+      "type": "Work",
+      "properties": {
+        "name": "雁荡山花图",
+        "creation_date": "1962",
+        "dimensions": "140×360cm",
+        "material": "纸本设色",
+        "current_location": "潘天寿纪念馆",
+        "source": "潘天寿纪念馆",
+        "source_url": "https://www.pts-museum.cn/collection/pts_002"
+      }
+    },
+    {
+      "id": "auction_001",
+      "label": "保利2017秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2017-12-17",
+        "price": "RMB 931,500,000",
+        "lot_number": "4502",
+        "source_url": "https://www.polyauction.com/auction/2017-autumn-4502"
+      }
+    },
+    {
+      "id": "auction_002",
+      "label": "嘉德2021春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2021-05-22",
+        "price": "RMB 128,000,000",
+        "lot_number": "1058",
+        "source_url": "https://www.cguardian.com/auction/2021-spring-1058"
+      }
+    },
+    {
+      "id": "auction_003",
+      "label": "苏富比2016春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2016-04-05",
+        "price": "HKD 271,600,000",
+        "lot_number": "1259",
+        "source_url": "https://www.sothebys.com/auction/2016-spring-1259"
+      }
+    },
+    {
+      "id": "auction_004",
+      "label": "保利2019春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2019-06-02",
+        "price": "RMB 113,850,000",
+        "lot_number": "2015",
+        "source_url": "https://www.polyauction.com/auction/2019-spring-2015"
+      }
+    },
+    {
+      "id": "auction_005",
+      "label": "佳士得2018秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2018-11-26",
+        "price": "HKD 189,500,000",
+        "lot_number": "1058",
+        "source_url": "https://www.christies.com/auction/2018-autumn-1058"
+      }
+    },
+    {
+      "id": "auction_006",
+      "label": "嘉德2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2020-12-05",
+        "price": "RMB 78,200,000",
+        "lot_number": "2589",
+        "source_url": "https://www.cguardian.com/auction/2020-autumn-2589"
+      }
+    },
+    {
+      "id": "auction_007",
+      "label": "保利2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2022-07-17",
+        "price": "RMB 295,750,000",
+        "lot_number": "3506",
+        "source_url": "https://www.polyauction.com/auction/2022-spring-3506"
+      }
+    },
+    {
+      "id": "auction_008",
+      "label": "苏富比2019秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2019-10-06",
+        "price": "HKD 251,200,000",
+        "lot_number": "1078",
+        "source_url": "https://www.sothebys.com/auction/2019-autumn-1078"
+      }
+    },
+    {
+      "id": "auction_009",
+      "label": "嘉德2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2018-06-19",
+        "price": "RMB 82,800,000",
+        "lot_number": "1568",
+        "source_url": "https://www.cguardian.com/auction/2018-spring-1568"
+      }
+    },
+    {
+      "id": "auction_010",
+      "label": "保利2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2020-12-06",
+        "price": "RMB 184,000,000",
+        "lot_number": "5012",
+        "source_url": "https://www.polyauction.com/auction/2020-autumn-5012"
+      }
+    },
+    {
+      "id": "auction_011",
+      "label": "佳士得2021春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2021-05-24",
+        "price": "HKD 196,400,000",
+        "lot_number": "2037",
+        "source_url": "https://www.christies.com/auction/2021-spring-2037"
+      }
+    },
+    {
+      "id": "auction_012",
+      "label": "苏富比2020春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2020-07-08",
+        "price": "HKD 157,800,000",
+        "lot_number": "3108",
+        "source_url": "https://www.sothebys.com/auction/2020-spring-3108"
+      }
+    },
+    {
+      "id": "auction_013",
+      "label": "嘉德2019秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2019-11-17",
+        "price": "RMB 65,550,000",
+        "lot_number": "1789",
+        "source_url": "https://www.cguardian.com/auction/2019-autumn-1789"
+      }
+    },
+    {
+      "id": "auction_014",
+      "label": "保利2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2018-06-18",
+        "price": "RMB 103,500,000",
+        "lot_number": "4208",
+        "source_url": "https://www.polyauction.com/auction/2018-spring-4208"
+      }
+    },
+    {
+      "id": "auction_015",
+      "label": "佳士得2019春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2019-05-27",
+        "price": "HKD 143,600,000",
+        "lot_number": "1756",
+        "source_url": "https://www.christies.com/auction/2019-spring-1756"
+      }
+    },
+    {
+      "id": "auction_016",
+      "label": "嘉德2022秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2022-12-10",
+        "price": "RMB 58,650,000",
+        "lot_number": "2906",
+        "source_url": "https://www.cguardian.com/auction/2022-autumn-2906"
+      }
+    },
+    {
+      "id": "auction_017",
+      "label": "苏富比2021秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2021-10-09",
+        "price": "HKD 128,900,000",
+        "lot_number": "2157",
+        "source_url": "https://www.sothebys.com/auction/2021-autumn-2157"
+      }
+    },
+    {
+      "id": "auction_018",
+      "label": "保利2021秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2021-12-05",
+        "price": "RMB 172,500,000",
+        "lot_number": "5678",
+        "source_url": "https://www.polyauction.com/auction/2021-autumn-5678"
+      }
+    },
+    {
+      "id": "auction_019",
+      "label": "佳士得2020秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2020-12-01",
+        "price": "HKD 115,200,000",
+        "lot_number": "3278",
+        "source_url": "https://www.christies.com/auction/2020-autumn-3278"
+      }
+    },
+    {
+      "id": "auction_020",
+      "label": "嘉德2023春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2023-06-05",
+        "price": "RMB 95,680,000",
+        "lot_number": "1234",
+        "source_url": "https://www.cguardian.com/auction/2023-spring-1234"
+      }
+    },
+    {
+      "id": "auction_021",
+      "label": "保利2023秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2023-12-03",
+        "price": "RMB 88,550,000",
+        "lot_number": "6789",
+        "source_url": "https://www.polyauction.com/auction/2023-autumn-6789"
+      }
+    },
+    {
+      "id": "auction_022",
+      "label": "苏富比2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2022-04-27",
+        "price": "HKD 176,300,000",
+        "lot_number": "4567",
+        "source_url": "https://www.sothebys.com/auction/2022-spring-4567"
+      }
+    },
+    {
+      "id": "auction_023",
+      "label": "佳士得2022春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2022-05-30",
+        "price": "HKD 203,400,000",
+        "lot_number": "5890",
+        "source_url": "https://www.christies.com/auction/2022-spring-5890"
+      }
+    },
+    {
+      "id": "auction_024",
+      "label": "嘉德2017春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2017-06-18",
+        "price": "RMB 72,450,000",
+        "lot_number": "3456",
+        "source_url": "https://www.cguardian.com/auction/2017-spring-3456"
+      }
+    },
+    {
+      "id": "auction_025",
+      "label": "保利2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2016-12-04",
+        "price": "RMB 138,000,000",
+        "lot_number": "7890",
+        "source_url": "https://www.polyauction.com/auction/2016-autumn-7890"
+      }
+    },
+    {
+      "id": "auction_026",
+      "label": "苏富比2018春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2018-04-03",
+        "price": "HKD 92,300,000",
+        "lot_number": "2345",
+        "source_url": "https://www.sothebys.com/auction/2018-spring-2345"
+      }
+    },
+    {
+      "id": "auction_027",
+      "label": "佳士得2017春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2017-05-29",
+        "price": "HKD 108,700,000",
+        "lot_number": "6123",
+        "source_url": "https://www.christies.com/auction/2017-spring-6123"
+      }
+    },
+    {
+      "id": "auction_028",
+      "label": "嘉德2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2016-11-13",
+        "price": "RMB 54,280,000",
+        "lot_number": "7456",
+        "source_url": "https://www.cguardian.com/auction/2016-autumn-7456"
+      }
+    },
+    {
+      "id": "auction_029",
+      "label": "保利2015春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2015-06-07",
+        "price": "RMB 67,850,000",
+        "lot_number": "8901",
+        "source_url": "https://www.polyauction.com/auction/2015-spring-8901"
+      }
+    },
+    {
+      "id": "auction_030",
+      "label": "苏富比2017秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2017-10-02",
+        "price": "HKD 134,500,000",
+        "lot_number": "3567",
+        "source_url": "https://www.sothebys.com/auction/2017-autumn-3567"
+      }
+    },
+    {
+      "id": "auction_031",
+      "label": "佳士得2016秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2016-11-28",
+        "price": "HKD 87,600,000",
+        "lot_number": "4678",
+        "source_url": "https://www.christies.com/auction/2016-autumn-4678"
+      }
+    },
+    {
+      "id": "auction_032",
+      "label": "嘉德2015秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2015-11-15",
+        "price": "RMB 49,680,000",
+        "lot_number": "5789",
+        "source_url": "https://www.cguardian.com/auction/2015-autumn-5789"
+      }
+    },
+    {
+      "id": "auction_033",
+      "label": "保利2024春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2024-06-15",
+        "price": "RMB 156,800,000",
+        "lot_number": "9012",
+        "source_url": "https://www.polyauction.com/auction/2024-spring-9012"
+      }
+    },
+    {
+      "id": "auction_034",
+      "label": "苏富比2023春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2023-04-10",
+        "price": "HKD 218,900,000",
+        "lot_number": "6789",
+        "source_url": "https://www.sothebys.com/auction/2023-spring-6789"
+      }
+    },
+    {
+      "id": "auction_035",
+      "label": "佳士得2023秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2023-11-25",
+        "price": "HKD 167,500,000",
+        "lot_number": "7890",
+        "source_url": "https://www.christies.com/auction/2023-autumn-7890"
+      }
+    },
+    {
+      "id": "auction_036",
+      "label": "嘉德2024春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2024-05-20",
+        "price": "RMB 108,900,000",
+        "lot_number": "2345",
+        "source_url": "https://www.cguardian.com/auction/2024-spring-2345"
+      }
+    },
+    {
+      "id": "auction_037",
+      "label": "保利2014秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "北京保利国际拍卖有限公司",
+        "date": "2014-12-02",
+        "price": "RMB 92,150,000",
+        "lot_number": "3456",
+        "source_url": "https://www.polyauction.com/auction/2014-autumn-3456"
+      }
+    },
+    {
+      "id": "auction_038",
+      "label": "苏富比2015春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港苏富比拍卖行",
+        "date": "2015-04-06",
+        "price": "HKD 76,800,000",
+        "lot_number": "4567",
+        "source_url": "https://www.sothebys.com/auction/2015-spring-4567"
+      }
+    },
+    {
+      "id": "auction_039",
+      "label": "佳士得2015秋拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "香港佳士得拍卖行",
+        "date": "2015-11-29",
+        "price": "HKD 98,400,000",
+        "lot_number": "5678",
+        "source_url": "https://www.christies.com/auction/2015-autumn-5678"
+      }
+    },
+    {
+      "id": "auction_040",
+      "label": "嘉德2014春拍",
+      "type": "Auction",
+      "properties": {
+        "auction_house": "中国嘉德国际拍卖有限公司",
+        "date": "2014-05-18",
+        "price": "RMB 43,680,000",
+        "lot_number": "6789",
+        "source_url": "https://www.cguardian.com/auction/2014-spring-6789"
+      }
+    },
+    {
+      "id": "org_001",
+      "label": "北京保利国际拍卖有限公司",
+      "type": "Organization",
+      "properties": {
+        "name": "北京保利国际拍卖有限公司",
+        "type": "拍卖行",
+        "location": "北京",
+        "website": "https://www.polyauction.com"
+      }
+    },
+    {
+      "id": "org_002",
+      "label": "中国嘉德国际拍卖有限公司",
+      "type": "Organization",
+      "properties": {
+        "name": "中国嘉德国际拍卖有限公司",
+        "type": "拍卖行",
+        "location": "北京",
+        "website": "https://www.cguardian.com"
+      }
+    },
+    {
+      "id": "org_003",
+      "label": "香港苏富比拍卖行",
+      "type": "Organization",
+      "properties": {
+        "name": "香港苏富比拍卖行",
+        "type": "拍卖行",
+        "location": "香港",
+        "website": "https://www.sothebys.com"
+      }
+    },
+    {
+      "id": "org_004",
+      "label": "香港佳士得拍卖行",
+      "type": "Organization",
+      "properties": {
+        "name": "香港佳士得拍卖行",
+        "type": "拍卖行",
+        "location": "香港",
+        "website": "https://www.christies.com"
+      }
+    },
+    {
+      "id": "org_cmg",
+      "label": "中国美术馆",
+      "type": "Organization",
+      "properties": {
+        "name": "中国美术馆",
+        "type": "博物馆",
+        "location": "北京",
+        "website": "https://www.namoc.cn",
+        "name_zh": "中国美术馆",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_beijingaa",
+      "label": "北京画院",
+      "type": "Organization",
+      "properties": {
+        "name": "北京画院",
+        "type": "美术机构",
+        "location": "北京",
+        "website": "https://www.bjaa.com.cn",
+        "name_zh": "北京画院",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_1",
+      "label": "故宫博物院",
+      "type": "Organization",
+      "properties": {
+        "name": "故宫博物院",
+        "type": "博物馆",
+        "location": "北京",
+        "website": "https://www.dpm.org.cn",
+        "name_zh": "故宫博物院",
+        "country": "中国",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_008",
+      "label": "上海博物馆",
+      "type": "Organization",
+      "properties": {
+        "name": "上海博物馆",
+        "type": "博物馆",
+        "location": "上海",
+        "website": "https://www.shanghaimuseum.cn"
+      }
+    },
+    {
+      "id": "org_009",
+      "label": "南京博物院",
+      "type": "Organization",
+      "properties": {
+        "name": "南京博物院",
+        "type": "博物馆",
+        "location": "南京",
+        "website": "https://www.njmuseum.cn"
+      }
+    },
+    {
+      "id": "org_010",
+      "label": "浙江省博物馆",
+      "type": "Organization",
+      "properties": {
+        "name": "浙江省博物馆",
+        "type": "博物馆",
+        "location": "杭州",
+        "website": "https://www.zjmuseum.cn"
+      }
+    },
+    {
+      "id": "artist_齐白石",
+      "label": "齐白石",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_齐白石",
+        "birth_year": "1864",
+        "death_year": "1957",
+        "style": "写意花鸟",
+        "name": "齐白石",
+        "specialty": "花鸟画、虫鱼画、书法、篆刻",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_虾_artist_齐白石",
+      "label": "虾",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_虾_artist_齐白石",
+        "creation_date": "1948",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_蛙声十里出山泉_artist_齐白石",
+      "label": "蛙声十里出山泉",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_蛙声十里出山泉_artist_齐白石",
+        "creation_date": "1951",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_荷花蜻蜓_artist_齐白石",
+      "label": "荷花蜻蜓",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_荷花蜻蜓_artist_齐白石",
+        "creation_date": "1950",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_张大千",
+      "label": "张大千",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_张大千",
+        "birth_year": "1899",
+        "death_year": "1983",
+        "style": "山水画",
+        "name": "张大千",
+        "specialty": "山水画、花鸟画、人物画",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_荷花_artist_张大千",
+      "label": "荷花",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_荷花_artist_张大千",
+        "creation_date": "1960",
+        "material": "工笔画，绢本"
+      }
+    },
+    {
+      "id": "artist_徐悲鸿",
+      "label": "徐悲鸿",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_徐悲鸿",
+        "birth_year": "1895",
+        "death_year": "1953",
+        "style": "写实主义",
+        "name": "徐悲鸿",
+        "specialty": "人物画、走兽画、油画",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_愚公移山_artist_徐悲鸿",
+      "label": "愚公移山",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_愚公移山_artist_徐悲鸿",
+        "creation_date": "1940",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "work_田横五百士_artist_徐悲鸿",
+      "label": "田横五百士",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_田横五百士_artist_徐悲鸿",
+        "creation_date": "1930",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "work_九方皋_artist_徐悲鸿",
+      "label": "九方皋",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_九方皋_artist_徐悲鸿",
+        "creation_date": "1931",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_黄宾虹",
+      "label": "黄宾虹",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_黄宾虹",
+        "birth_year": "1865",
+        "death_year": "1955",
+        "style": "山水画",
+        "name": "黄宾虹",
+        "school": "新安画派"
+      }
+    },
+    {
+      "id": "work_黄山汤口_artist_黄宾虹",
+      "label": "黄山汤口",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_黄山汤口_artist_黄宾虹",
+        "creation_date": "1954",
+        "material": "水墨画，纸本",
+        "name": "黄山汤口",
+        "name_zh": "黄山汤口",
+        "type": "绘画",
+        "dimensions": "约180cm × 90cm"
+      }
+    },
+    {
+      "id": "work_青城山中坐雨_artist_黄宾虹",
+      "label": "青城山中坐雨",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_青城山中坐雨_artist_黄宾虹",
+        "creation_date": "1933",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_潘天寿",
+      "label": "潘天寿",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_潘天寿",
+        "birth_year": "1897",
+        "death_year": "1971",
+        "style": "花鸟画",
+        "name": "潘天寿",
+        "specialty": "花鸟画、山水画、书法",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_雁荡山花_artist_潘天寿",
+      "label": "雁荡山花",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_雁荡山花_artist_潘天寿",
+        "creation_date": "1963",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_傅抱石",
+      "label": "傅抱石",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_傅抱石",
+        "birth_year": "1904",
+        "death_year": "1965",
+        "style": "山水画",
+        "name": "傅抱石",
+        "specialty": "山水画、人物画",
+        "school": "新金陵画派"
+      }
+    },
+    {
+      "id": "work_江山如此多娇_artist_傅抱石",
+      "label": "江山如此多娇",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_江山如此多娇_artist_傅抱石",
+        "creation_date": "1959",
+        "material": "水墨画，纸本",
+        "name": "江山如此多娇",
+        "name_zh": "江山如此多娇",
+        "type": "绘画",
+        "dimensions": "约550cm × 900cm",
+        "creator_note": "与关山月合作"
+      }
+    },
+    {
+      "id": "work_潇潇暮雨_artist_傅抱石",
+      "label": "潇潇暮雨",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_潇潇暮雨_artist_傅抱石",
+        "creation_date": "1945",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_李可染",
+      "label": "李可染",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_李可染",
+        "birth_year": "1907",
+        "death_year": "1989",
+        "style": "山水画",
+        "name": "李可染",
+        "specialty": "山水画、牛画",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_漓江_artist_李可染",
+      "label": "漓江",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_漓江_artist_李可染",
+        "creation_date": "1963",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_井冈山_artist_李可染",
+      "label": "井冈山",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_井冈山_artist_李可染",
+        "creation_date": "1976",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_林风眠",
+      "label": "林风眠",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_林风眠",
+        "birth_year": "1900",
+        "death_year": "1991",
+        "style": "现代派",
+        "name": "林风眠",
+        "specialty": "油画、水墨画",
+        "school": "现代中国画"
+      }
+    },
+    {
+      "id": "work_秋鹭_artist_林风眠",
+      "label": "秋鹭",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_秋鹭_artist_林风眠",
+        "creation_date": "1960",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_仕女_artist_林风眠",
+      "label": "仕女",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_仕女_artist_林风眠",
+        "creation_date": "1970",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_长江三峡_artist_吴冠中",
+      "label": "长江三峡",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_长江三峡_artist_吴冠中",
+        "creation_date": "1974",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "period_modern_chinese",
+      "label": "中国近现代",
+      "type": "Period",
+      "properties": {
+        "start_year": "1840",
+        "end_year": "2000",
+        "description": "从鸦片战争到20世纪末",
+        "source": "verified"
+      }
+    },
+    {
+      "id": "artist_ext2_001",
+      "label": "赵之谦",
+      "type": "Artist",
+      "properties": {
+        "name": "赵之谦",
+        "birth_year": "1829",
+        "death_year": "1884",
+        "specialty": "书法、篆刻、绘画",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_zhaozhiqian"
+      }
+    },
+    {
+      "id": "artist_ext2_002",
+      "label": "任伯年",
+      "type": "Artist",
+      "properties": {
+        "name": "任伯年",
+        "birth_year": "1840",
+        "death_year": "1896",
+        "specialty": "人物画、花鸟画",
+        "source": "上海博物馆",
+        "source_id": "shm_renbonian"
+      }
+    },
+    {
+      "id": "artist_ext2_003",
+      "label": "虚谷",
+      "type": "Artist",
+      "properties": {
+        "name": "虚谷",
+        "birth_year": "1823",
+        "death_year": "1896",
+        "specialty": "花鸟画、山水画",
+        "source": "上海博物馆",
+        "source_id": "shm_xugu"
+      }
+    },
+    {
+      "id": "artist_ext2_004",
+      "label": "蒲华",
+      "type": "Artist",
+      "properties": {
+        "name": "蒲华",
+        "birth_year": "1832",
+        "death_year": "1911",
+        "specialty": "竹画、书法",
+        "source": "浙江画院",
+        "source_id": "zjaa_puhua"
+      }
+    },
+    {
+      "id": "artist_ext2_005",
+      "label": "高剑父",
+      "type": "Artist",
+      "properties": {
+        "name": "高剑父",
+        "birth_year": "1879",
+        "death_year": "1951",
+        "specialty": "花鸟画、山水画",
+        "source": "广东美术馆",
+        "source_id": "gdmoa_gaojianfu"
+      }
+    },
+    {
+      "id": "artist_ext2_006",
+      "label": "高奇峰",
+      "type": "Artist",
+      "properties": {
+        "name": "高奇峰",
+        "birth_year": "1889",
+        "death_year": "1933",
+        "specialty": "花鸟画、走兽",
+        "source": "广东美术馆",
+        "source_id": "gdmoa_gaoqifeng"
+      }
+    },
+    {
+      "id": "artist_ext2_007",
+      "label": "陈树人",
+      "type": "Artist",
+      "properties": {
+        "name": "陈树人",
+        "birth_year": "1884",
+        "death_year": "1948",
+        "specialty": "花鸟画、山水画",
+        "source": "广州美术学院",
+        "source_id": "gafa_chenshuren"
+      }
+    },
+    {
+      "id": "artist_ext2_008",
+      "label": "居巢",
+      "type": "Artist",
+      "properties": {
+        "name": "居巢",
+        "birth_year": "1811",
+        "death_year": "1865",
+        "specialty": "花卉草虫画",
+        "source": "广东省博物馆",
+        "source_id": "gdm_juchao"
+      }
+    },
+    {
+      "id": "artist_ext2_009",
+      "label": "居廉",
+      "type": "Artist",
+      "properties": {
+        "name": "居廉",
+        "birth_year": "1828",
+        "death_year": "1904",
+        "specialty": "花卉草虫画",
+        "source": "广东省博物馆",
+        "source_id": "gdm_julian"
+      }
+    },
+    {
+      "id": "artist_ext2_010",
+      "label": "黎雄才",
+      "type": "Artist",
+      "properties": {
+        "name": "黎雄才",
+        "birth_year": "1910",
+        "death_year": "2001",
+        "specialty": "山水画",
+        "source": "广州美术学院",
+        "source_id": "gafa_lixiongcai"
+      }
+    },
+    {
+      "id": "artist_ext2_011",
+      "label": "赵少昂",
+      "type": "Artist",
+      "properties": {
+        "name": "赵少昂",
+        "birth_year": "1905",
+        "death_year": "1998",
+        "specialty": "花鸟画",
+        "source": "广东美术馆",
+        "source_id": "gdmoa_zhaoshaoang"
+      }
+    },
+    {
+      "id": "artist_ext2_012",
+      "label": "杨善深",
+      "type": "Artist",
+      "properties": {
+        "name": "杨善深",
+        "birth_year": "1913",
+        "death_year": "2004",
+        "specialty": "花鸟画、山水画",
+        "source": "香港艺术馆",
+        "source_id": "hkma_yangshanshan"
+      }
+    },
+    {
+      "id": "artist_ext2_013",
+      "label": "赖少其",
+      "type": "Artist",
+      "properties": {
+        "name": "赖少其",
+        "birth_year": "1915",
+        "death_year": "2000",
+        "specialty": "版画、书法",
+        "source": "安徽省美术馆",
+        "source_id": "aham_laishaoqi"
+      }
+    },
+    {
+      "id": "artist_ext2_021",
+      "label": "张仃",
+      "type": "Artist",
+      "properties": {
+        "name": "张仃",
+        "birth_year": "1917",
+        "death_year": "2010",
+        "specialty": "山水画、装饰画、壁画",
+        "source": "清华大学美术学院",
+        "source_id": "tsinghua_zhangding"
+      }
+    },
+    {
+      "id": "artist_ext2_022",
+      "label": "叶浅予",
+      "type": "Artist",
+      "properties": {
+        "name": "叶浅予",
+        "birth_year": "1907",
+        "death_year": "1995",
+        "specialty": "人物画、舞蹈人物",
+        "source": "中国美术馆",
+        "source_id": "namoc_yeqianyu"
+      }
+    },
+    {
+      "id": "artist_ext2_023",
+      "label": "蒋兆和",
+      "type": "Artist",
+      "properties": {
+        "name": "蒋兆和",
+        "birth_year": "1904",
+        "death_year": "1986",
+        "specialty": "人物画",
+        "source": "中央美术学院",
+        "source_id": "cafa_jiangzhaohe"
+      }
+    },
+    {
+      "id": "artist_ext2_026",
+      "label": "沈尹默",
+      "type": "Artist",
+      "properties": {
+        "name": "沈尹默",
+        "birth_year": "1883",
+        "death_year": "1971",
+        "specialty": "书法",
+        "source": "上海市书法家协会",
+        "source_id": "shca_shenyinmo"
+      }
+    },
+    {
+      "id": "artist_ext2_027",
+      "label": "沙孟海",
+      "type": "Artist",
+      "properties": {
+        "name": "沙孟海",
+        "birth_year": "1900",
+        "death_year": "1992",
+        "specialty": "书法、篆刻",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_shamenghai"
+      }
+    },
+    {
+      "id": "artist_ext2_028",
+      "label": "林散之",
+      "type": "Artist",
+      "properties": {
+        "name": "林散之",
+        "birth_year": "1898",
+        "death_year": "1989",
+        "specialty": "书法、诗词",
+        "source": "江苏省美术馆",
+        "source_id": "jsam_linsanzhi"
+      }
+    },
+    {
+      "id": "artist_ext2_029",
+      "label": "于右任",
+      "type": "Artist",
+      "properties": {
+        "name": "于右任",
+        "birth_year": "1879",
+        "death_year": "1964",
+        "specialty": "书法",
+        "source": "中国书法家协会",
+        "source_id": "cca_yuyouren"
+      }
+    },
+    {
+      "id": "artist_ext2_030",
+      "label": "吴镜汀",
+      "type": "Artist",
+      "properties": {
+        "name": "吴镜汀",
+        "birth_year": "1904",
+        "death_year": "1972",
+        "specialty": "山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_wujingting"
+      }
+    },
+    {
+      "id": "artist_ext2_031",
+      "label": "惠孝同",
+      "type": "Artist",
+      "properties": {
+        "name": "惠孝同",
+        "birth_year": "1902",
+        "death_year": "1979",
+        "specialty": "花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_huixiaotong"
+      }
+    },
+    {
+      "id": "artist_ext2_032",
+      "label": "胡佩衡",
+      "type": "Artist",
+      "properties": {
+        "name": "胡佩衡",
+        "birth_year": "1892",
+        "death_year": "1962",
+        "specialty": "山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_hupéiheng"
+      }
+    },
+    {
+      "id": "artist_ext2_033",
+      "label": "陈师曾",
+      "type": "Artist",
+      "properties": {
+        "name": "陈师曾",
+        "birth_year": "1876",
+        "death_year": "1923",
+        "specialty": "花鸟画、山水画、书法",
+        "source": "故宫博物院",
+        "source_id": "dpm_chenshizeng"
+      }
+    },
+    {
+      "id": "artist_ext2_034",
+      "label": "金城",
+      "type": "Artist",
+      "properties": {
+        "name": "金城",
+        "birth_year": "1878",
+        "death_year": "1926",
+        "specialty": "山水画、花鸟画",
+        "source": "故宫博物院",
+        "source_id": "dpm_jincheng"
+      }
+    },
+    {
+      "id": "artist_ext2_035",
+      "label": "周肇祥",
+      "type": "Artist",
+      "properties": {
+        "name": "周肇祥",
+        "birth_year": "1880",
+        "death_year": "1954",
+        "specialty": "山水画",
+        "source": "北京画院",
+        "source_id": "bjaa_zhouzhaoxiang"
+      }
+    },
+    {
+      "id": "artist_ext2_036",
+      "label": "姚华",
+      "type": "Artist",
+      "properties": {
+        "name": "姚华",
+        "birth_year": "1876",
+        "death_year": "1930",
+        "specialty": "书法、金石学",
+        "source": "故宫博物院",
+        "source_id": "dpm_yaohua"
+      }
+    },
+    {
+      "id": "artist_ext2_037",
+      "label": "萧俊贤",
+      "type": "Artist",
+      "properties": {
+        "name": "萧俊贤",
+        "birth_year": "1865",
+        "death_year": "1949",
+        "specialty": "山水画",
+        "source": "故宫博物院",
+        "source_id": "dpm_xiaojunxian"
+      }
+    },
+    {
+      "id": "artist_ext2_038",
+      "label": "冯超然",
+      "type": "Artist",
+      "properties": {
+        "name": "冯超然",
+        "birth_year": "1882",
+        "death_year": "1954",
+        "specialty": "山水画、人物画",
+        "source": "上海博物馆",
+        "source_id": "shm_fengchaoran"
+      }
+    },
+    {
+      "id": "artist_ext2_039",
+      "label": "吴待秋",
+      "type": "Artist",
+      "properties": {
+        "name": "吴待秋",
+        "birth_year": "1878",
+        "death_year": "1949",
+        "specialty": "花鸟画",
+        "source": "上海博物馆",
+        "source_id": "shm_wudaiqiu"
+      }
+    },
+    {
+      "id": "artist_ext2_040",
+      "label": "张善孖",
+      "type": "Artist",
+      "properties": {
+        "name": "张善孖",
+        "birth_year": "1882",
+        "death_year": "1940",
+        "specialty": "虎画",
+        "source": "四川博物院",
+        "source_id": "scm_zhangshanzi"
+      }
+    },
+    {
+      "id": "artist_ext2_042",
+      "label": "郑午昌",
+      "type": "Artist",
+      "properties": {
+        "name": "郑午昌",
+        "birth_year": "1894",
+        "death_year": "1952",
+        "specialty": "山水画、美术史论",
+        "source": "上海博物馆",
+        "source_id": "shm_zhengwuchang"
+      }
+    },
+    {
+      "id": "artist_ext2_044",
+      "label": "张书旂",
+      "type": "Artist",
+      "properties": {
+        "name": "张书旂",
+        "birth_year": "1900",
+        "death_year": "1957",
+        "specialty": "花鸟画",
+        "source": "浙江美术馆",
+        "source_id": "zjam_zhangshuqi"
+      }
+    },
+    {
+      "id": "artist_ext2_045",
+      "label": "柳子谷",
+      "type": "Artist",
+      "properties": {
+        "name": "柳子谷",
+        "birth_year": "1901",
+        "death_year": "1986",
+        "specialty": "花鸟画、山水画",
+        "source": "江苏省美术馆",
+        "source_id": "jsam_liuzigu"
+      }
+    },
+    {
+      "id": "artist_ext2_046",
+      "label": "黄君璧",
+      "type": "Artist",
+      "properties": {
+        "name": "黄君璧",
+        "birth_year": "1898",
+        "death_year": "1991",
+        "specialty": "山水画",
+        "source": "广州美术学院",
+        "source_id": "gafa_huangjunbi"
+      }
+    },
+    {
+      "id": "artist_ext2_047",
+      "label": "方人定",
+      "type": "Artist",
+      "properties": {
+        "name": "方人定",
+        "birth_year": "1901",
+        "death_year": "1975",
+        "specialty": "人物画",
+        "source": "广东美术馆",
+        "source_id": "gdmoa_fangrending"
+      }
+    },
+    {
+      "id": "artist_ext2_048",
+      "label": "黄少强",
+      "type": "Artist",
+      "properties": {
+        "name": "黄少强",
+        "birth_year": "1901",
+        "death_year": "1942",
+        "specialty": "花鸟画",
+        "source": "广东美术馆",
+        "source_id": "gdmoa_huangshaoqiang"
+      }
+    },
+    {
+      "id": "artist_ext2_049",
+      "label": "苏葆桢",
+      "type": "Artist",
+      "properties": {
+        "name": "苏葆桢",
+        "birth_year": "1916",
+        "death_year": "1990",
+        "specialty": "工笔花鸟画",
+        "source": "南京艺术学院",
+        "source_id": "nua_subaozhen"
+      }
+    },
+    {
+      "id": "artist_ext2_050",
+      "label": "喻继高",
+      "type": "Artist",
+      "properties": {
+        "name": "喻继高",
+        "birth_year": "1932",
+        "death_year": "2023",
+        "specialty": "工笔花鸟画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_yujigao"
+      }
+    },
+    {
+      "id": "artist_ext2_051",
+      "label": "王个簃",
+      "type": "Artist",
+      "properties": {
+        "name": "王个簃",
+        "birth_year": "1897",
+        "death_year": "1988",
+        "specialty": "花鸟画、书法、篆刻",
+        "source": "上海中国画院",
+        "source_id": "shcia_wanggeyi"
+      }
+    },
+    {
+      "id": "artist_ext2_052",
+      "label": "朱复戡",
+      "type": "Artist",
+      "properties": {
+        "name": "朱复戡",
+        "birth_year": "1900",
+        "death_year": "1989",
+        "specialty": "书法、篆刻",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_zhufukan"
+      }
+    },
+    {
+      "id": "artist_ext2_053",
+      "label": "诸乐三",
+      "type": "Artist",
+      "properties": {
+        "name": "诸乐三",
+        "birth_year": "1902",
+        "death_year": "1984",
+        "specialty": "书法、篆刻",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_zhulesan"
+      }
+    },
+    {
+      "id": "artist_ext2_054",
+      "label": "方介堪",
+      "type": "Artist",
+      "properties": {
+        "name": "方介堪",
+        "birth_year": "1901",
+        "death_year": "1987",
+        "specialty": "篆刻、书法",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_fangjiekan"
+      }
+    },
+    {
+      "id": "artist_ext2_055",
+      "label": "来楚生",
+      "type": "Artist",
+      "properties": {
+        "name": "来楚生",
+        "birth_year": "1903",
+        "death_year": "1975",
+        "specialty": "书法、篆刻、花鸟画",
+        "source": "上海博物馆",
+        "source_id": "shm_laichusheng"
+      }
+    },
+    {
+      "id": "artist_ext2_056",
+      "label": "韩天衡",
+      "type": "Artist",
+      "properties": {
+        "name": "韩天衡",
+        "birth_year": "1940",
+        "death_year": null,
+        "specialty": "书法、篆刻、国画",
+        "source": "韩天衡美术馆",
+        "source_id": "hth_museum"
+      }
+    },
+    {
+      "id": "artist_ext2_057",
+      "label": "陈大羽",
+      "type": "Artist",
+      "properties": {
+        "name": "陈大羽",
+        "birth_year": "1912",
+        "death_year": "2001",
+        "specialty": "花鸟画、书法",
+        "source": "南京艺术学院",
+        "source_id": "nua_chendayu"
+      }
+    },
+    {
+      "id": "artist_ext2_059",
+      "label": "郭传璋",
+      "type": "Artist",
+      "properties": {
+        "name": "郭传璋",
+        "birth_year": "1908",
+        "death_year": "1970",
+        "specialty": "工笔花鸟画",
+        "source": "北京画院",
+        "source_id": "bjaa_guochuanzhang"
+      }
+    },
+    {
+      "id": "artist_ext2_060",
+      "label": "秦仲文",
+      "type": "Artist",
+      "properties": {
+        "name": "秦仲文",
+        "birth_year": "1896",
+        "death_year": "1974",
+        "specialty": "山水画、人物画",
+        "source": "北京画院",
+        "source_id": "bjaa_qinzhongwen"
+      }
+    },
+    {
+      "id": "artist_ext2_061",
+      "label": "吴光宇",
+      "type": "Artist",
+      "properties": {
+        "name": "吴光宇",
+        "birth_year": "1908",
+        "death_year": "1970",
+        "specialty": "仕女画",
+        "source": "北京画院",
+        "source_id": "bjaa_wuguangyu"
+      }
+    },
+    {
+      "id": "artist_ext2_062",
+      "label": "溥雪斋",
+      "type": "Artist",
+      "properties": {
+        "name": "溥雪斋",
+        "birth_year": "1893",
+        "death_year": "1966",
+        "specialty": "花鸟画",
+        "source": "故宫博物院",
+        "source_id": "dpm_puxuezhai"
+      }
+    },
+    {
+      "id": "artist_ext2_063",
+      "label": "溥松窗",
+      "type": "Artist",
+      "properties": {
+        "name": "溥松窗",
+        "birth_year": "1896",
+        "death_year": "1963",
+        "specialty": "山水画、花鸟画",
+        "source": "故宫博物院",
+        "source_id": "dpm_pusongchuang"
+      }
+    },
+    {
+      "id": "artist_ext2_064",
+      "label": "娄师白",
+      "type": "Artist",
+      "properties": {
+        "name": "娄师白",
+        "birth_year": "1918",
+        "death_year": "2010",
+        "specialty": "花鸟画、书法",
+        "source": "北京画院",
+        "source_id": "bjaa_loushibai"
+      }
+    },
+    {
+      "id": "artist_ext2_066",
+      "label": "王朝闻",
+      "type": "Artist",
+      "properties": {
+        "name": "王朝闻",
+        "birth_year": "1909",
+        "death_year": "2004",
+        "specialty": "雕塑、美术理论",
+        "source": "中国美术馆",
+        "source_id": "namoc_wangchaowen"
+      }
+    },
+    {
+      "id": "artist_ext2_067",
+      "label": "华君武",
+      "type": "Artist",
+      "properties": {
+        "name": "华君武",
+        "birth_year": "1915",
+        "death_year": "2010",
+        "specialty": "漫画",
+        "source": "中国美术家协会",
+        "source_id": "caa_huajunwu"
+      }
+    },
+    {
+      "id": "artist_ext2_068",
+      "label": "蔡若虹",
+      "type": "Artist",
+      "properties": {
+        "name": "蔡若虹",
+        "birth_year": "1910",
+        "death_year": "2002",
+        "specialty": "漫画、美术理论",
+        "source": "中国美术家协会",
+        "source_id": "caa_cairuohong"
+      }
+    },
+    {
+      "id": "artist_ext2_069",
+      "label": "张乐平",
+      "type": "Artist",
+      "properties": {
+        "name": "张乐平",
+        "birth_year": "1910",
+        "death_year": "1992",
+        "specialty": "漫画",
+        "source": "中国美术馆",
+        "source_id": "namoc_zhangleping"
+      }
+    },
+    {
+      "id": "artist_ext2_070",
+      "label": "丰子恺",
+      "type": "Artist",
+      "properties": {
+        "name": "丰子恺",
+        "birth_year": "1898",
+        "death_year": "1975",
+        "specialty": "漫画、散文",
+        "source": "浙江省博物馆",
+        "source_id": "zjm_fengzikai"
+      }
+    },
+    {
+      "id": "artist_ext2_071",
+      "label": "古元",
+      "type": "Artist",
+      "properties": {
+        "name": "古元",
+        "birth_year": "1919",
+        "death_year": "1996",
+        "specialty": "版画、水彩画",
+        "source": "中央美术学院",
+        "source_id": "cafa_guyuan"
+      }
+    },
+    {
+      "id": "artist_ext2_072",
+      "label": "李桦",
+      "type": "Artist",
+      "properties": {
+        "name": "李桦",
+        "birth_year": "1907",
+        "death_year": "1994",
+        "specialty": "版画",
+        "source": "中央美术学院",
+        "source_id": "cafa_lihua"
+      }
+    },
+    {
+      "id": "artist_ext2_074",
+      "label": "力群",
+      "type": "Artist",
+      "properties": {
+        "name": "力群",
+        "birth_year": "1912",
+        "death_year": "2012",
+        "specialty": "版画",
+        "source": "中国美术家协会",
+        "source_id": "caa_liqun"
+      }
+    },
+    {
+      "id": "artist_ext2_075",
+      "label": "罗工柳",
+      "type": "Artist",
+      "properties": {
+        "name": "罗工柳",
+        "birth_year": "1916",
+        "death_year": "2004",
+        "specialty": "油画",
+        "source": "中央美术学院",
+        "source_id": "cafa_luogongliu"
+      }
+    },
+    {
+      "id": "artist_ext2_076",
+      "label": "董希文",
+      "type": "Artist",
+      "properties": {
+        "name": "董希文",
+        "birth_year": "1914",
+        "death_year": "1973",
+        "specialty": "油画",
+        "source": "中央美术学院",
+        "source_id": "cafa_dongxiwen"
+      }
+    },
+    {
+      "id": "artist_ext2_077",
+      "label": "吴作人",
+      "type": "Artist",
+      "properties": {
+        "name": "吴作人",
+        "birth_year": "1908",
+        "death_year": "1997",
+        "specialty": "油画、国画",
+        "source": "中国美术家协会",
+        "source_id": "caa_wuzuoren"
+      }
+    },
+    {
+      "id": "artist_ext2_078",
+      "label": "关良",
+      "type": "Artist",
+      "properties": {
+        "name": "关良",
+        "birth_year": "1900",
+        "death_year": "1986",
+        "specialty": "油画、水墨戏曲人物画",
+        "source": "浙江美术馆",
+        "source_id": "zjam_guanliang"
+      }
+    },
+    {
+      "id": "artist_ext2_079",
+      "label": "颜文樑",
+      "type": "Artist",
+      "properties": {
+        "name": "颜文樑",
+        "birth_year": "1893",
+        "death_year": "1988",
+        "specialty": "油画",
+        "source": "苏州美术馆",
+        "source_id": "szam_yanwenliang"
+      }
+    },
+    {
+      "id": "artist_ext2_080",
+      "label": "庞薰琹",
+      "type": "Artist",
+      "properties": {
+        "name": "庞薰琹",
+        "birth_year": "1906",
+        "death_year": "1985",
+        "specialty": "油画、工艺美术",
+        "source": "中央工艺美术学院",
+        "source_id": "cafa_pangxunqin"
+      }
+    },
+    {
+      "id": "artist_ext2_081",
+      "label": "常书鸿",
+      "type": "Artist",
+      "properties": {
+        "name": "常书鸿",
+        "birth_year": "1904",
+        "death_year": "1994",
+        "specialty": "油画、敦煌艺术研究",
+        "source": "敦煌研究院",
+        "source_id": "dri_changshuhong"
+      }
+    },
+    {
+      "id": "artist_ext2_082",
+      "label": "王式廓",
+      "type": "Artist",
+      "properties": {
+        "name": "王式廓",
+        "birth_year": "1911",
+        "death_year": "1973",
+        "specialty": "油画、素描",
+        "source": "中央美术学院",
+        "source_id": "cafa_wangshikuo"
+      }
+    },
+    {
+      "id": "artist_ext2_085",
+      "label": "康师尧",
+      "type": "Artist",
+      "properties": {
+        "name": "康师尧",
+        "birth_year": "1921",
+        "death_year": "1985",
+        "specialty": "人物画",
+        "source": "陕西省美术博物馆",
+        "source_id": "sxam_kangshiyao"
+      }
+    },
+    {
+      "id": "artist_ext2_086",
+      "label": "方济众",
+      "type": "Artist",
+      "properties": {
+        "name": "方济众",
+        "birth_year": "1923",
+        "death_year": "1987",
+        "specialty": "山水画",
+        "source": "陕西省美术博物馆",
+        "source_id": "sxam_fangjizhong"
+      }
+    },
+    {
+      "id": "artist_ext2_088",
+      "label": "崔振宽",
+      "type": "Artist",
+      "properties": {
+        "name": "崔振宽",
+        "birth_year": "1935",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "陕西省美术博物馆",
+        "source_id": "sxam_cuizhenkuan"
+      }
+    },
+    {
+      "id": "artist_ext2_090",
+      "label": "陈子庄",
+      "type": "Artist",
+      "properties": {
+        "name": "陈子庄",
+        "birth_year": "1913",
+        "death_year": "1976",
+        "specialty": "山水画、花鸟画",
+        "source": "四川博物院",
+        "source_id": "scm_chenzizhuang"
+      }
+    },
+    {
+      "id": "artist_ext2_096",
+      "label": "华拓",
+      "type": "Artist",
+      "properties": {
+        "name": "华拓",
+        "birth_year": "1942",
+        "death_year": "1999",
+        "specialty": "人物画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_huatuo"
+      }
+    },
+    {
+      "id": "artist_ext2_097",
+      "label": "范曾",
+      "type": "Artist",
+      "properties": {
+        "name": "范曾",
+        "birth_year": "1938",
+        "death_year": null,
+        "specialty": "人物画、书法、诗词",
+        "source": "南开大学",
+        "source_id": "nku_fanzeng"
+      }
+    },
+    {
+      "id": "artist_ext2_098",
+      "label": "何家英",
+      "type": "Artist",
+      "properties": {
+        "name": "何家英",
+        "birth_year": "1957",
+        "death_year": null,
+        "specialty": "工笔人物画",
+        "source": "天津美术学院",
+        "source_id": "tjafa_hejiaying"
+      }
+    },
+    {
+      "id": "artist_ext2_099",
+      "label": "冯大中",
+      "type": "Artist",
+      "properties": {
+        "name": "冯大中",
+        "birth_year": "1949",
+        "death_year": null,
+        "specialty": "工笔虎画",
+        "source": "辽宁画院",
+        "source_id": "lnaa_fengdazhong"
+      }
+    },
+    {
+      "id": "artist_ext2_100",
+      "label": "贾又福",
+      "type": "Artist",
+      "properties": {
+        "name": "贾又福",
+        "birth_year": "1942",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "中央美术学院",
+        "source_id": "cafa_jiayoufu"
+      }
+    },
+    {
+      "id": "artist_ext2_101",
+      "label": "卢禹舜",
+      "type": "Artist",
+      "properties": {
+        "name": "卢禹舜",
+        "birth_year": "1962",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_luyushun"
+      }
+    },
+    {
+      "id": "artist_ext2_102",
+      "label": "田黎明",
+      "type": "Artist",
+      "properties": {
+        "name": "田黎明",
+        "birth_year": "1955",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中央美术学院",
+        "source_id": "cafa_tianliming"
+      }
+    },
+    {
+      "id": "artist_ext2_103",
+      "label": "吴山明",
+      "type": "Artist",
+      "properties": {
+        "name": "吴山明",
+        "birth_year": "1941",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国美术学院",
+        "source_id": "caa_wushanming"
+      }
+    },
+    {
+      "id": "artist_ext2_104",
+      "label": "刘国松",
+      "type": "Artist",
+      "properties": {
+        "name": "刘国松",
+        "birth_year": "1932",
+        "death_year": null,
+        "specialty": "现代水墨画",
+        "source": "台湾师范大学",
+        "source_id": "ntnu_liuguosong"
+      }
+    },
+    {
+      "id": "artist_ext2_105",
+      "label": "周韶华",
+      "type": "Artist",
+      "properties": {
+        "name": "周韶华",
+        "birth_year": "1929",
+        "death_year": "2023",
+        "specialty": "山水画",
+        "source": "湖北美术学院",
+        "source_id": "hifa_zhoushaohua"
+      }
+    },
+    {
+      "id": "artist_ext2_106",
+      "label": "唐小禾",
+      "type": "Artist",
+      "properties": {
+        "name": "唐小禾",
+        "birth_year": "1941",
+        "death_year": null,
+        "specialty": "壁画、油画",
+        "source": "湖北美术学院",
+        "source_id": "hifa_tangxiaohei"
+      }
+    },
+    {
+      "id": "artist_ext2_107",
+      "label": "卢坤峰",
+      "type": "Artist",
+      "properties": {
+        "name": "卢坤峰",
+        "birth_year": "1934",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "广西艺术学院",
+        "source_id": "gxau_lukunfeng"
+      }
+    },
+    {
+      "id": "artist_ext2_108",
+      "label": "黄格胜",
+      "type": "Artist",
+      "properties": {
+        "name": "黄格胜",
+        "birth_year": "1950",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "广西艺术学院",
+        "source_id": "gxau_huanggesheng"
+      }
+    },
+    {
+      "id": "artist_ext2_109",
+      "label": "尼玛泽仁",
+      "type": "Artist",
+      "properties": {
+        "name": "尼玛泽仁",
+        "birth_year": "1944",
+        "death_year": null,
+        "specialty": "藏族题材绘画",
+        "source": "中央民族大学",
+        "source_id": "muc_nimazeren"
+      }
+    },
+    {
+      "id": "artist_ext2_110",
+      "label": "马书林",
+      "type": "Artist",
+      "properties": {
+        "name": "马书林",
+        "birth_year": "1956",
+        "death_year": null,
+        "specialty": "花鸟画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_mashulin"
+      }
+    },
+    {
+      "id": "artist_ext2_111",
+      "label": "霍春阳",
+      "type": "Artist",
+      "properties": {
+        "name": "霍春阳",
+        "birth_year": "1946",
+        "death_year": null,
+        "specialty": "花鸟画",
+        "source": "天津美术学院",
+        "source_id": "tjafa_huochunyang"
+      }
+    },
+    {
+      "id": "artist_ext2_112",
+      "label": "孙其峰",
+      "type": "Artist",
+      "properties": {
+        "name": "孙其峰",
+        "birth_year": "1920",
+        "death_year": "2022",
+        "specialty": "花鸟画",
+        "source": "天津美术学院",
+        "source_id": "tjafa_sunqifeng"
+      }
+    },
+    {
+      "id": "artist_ext2_114",
+      "label": "刘大为",
+      "type": "Artist",
+      "properties": {
+        "name": "刘大为",
+        "birth_year": "1945",
+        "death_year": null,
+        "specialty": "工笔人物画",
+        "source": "中国美术家协会",
+        "source_id": "caa_liudawei"
+      }
+    },
+    {
+      "id": "artist_ext2_115",
+      "label": "史国良",
+      "type": "Artist",
+      "properties": {
+        "name": "史国良",
+        "birth_year": "1956",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_shiguoliang"
+      }
+    },
+    {
+      "id": "artist_ext2_116",
+      "label": "王明明",
+      "type": "Artist",
+      "properties": {
+        "name": "王明明",
+        "birth_year": "1952",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "北京画院",
+        "source_id": "bjaa_wangmingming"
+      }
+    },
+    {
+      "id": "artist_ext2_117",
+      "label": "王西京",
+      "type": "Artist",
+      "properties": {
+        "name": "王西京",
+        "birth_year": "1946",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "陕西省美术家协会",
+        "source_id": "sxaa_wangxijing"
+      }
+    },
+    {
+      "id": "artist_ext2_118",
+      "label": "杨力舟",
+      "type": "Artist",
+      "properties": {
+        "name": "杨力舟",
+        "birth_year": "1942",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国美术馆",
+        "source_id": "namoc_yanglizhou"
+      }
+    },
+    {
+      "id": "artist_ext2_119",
+      "label": "王迎春",
+      "type": "Artist",
+      "properties": {
+        "name": "王迎春",
+        "birth_year": "1942",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国美术馆",
+        "source_id": "namoc_wangyingchun"
+      }
+    },
+    {
+      "id": "artist_ext2_120",
+      "label": "萧淑芳",
+      "type": "Artist",
+      "properties": {
+        "name": "萧淑芳",
+        "birth_year": "1911",
+        "death_year": "2005",
+        "specialty": "花鸟画、油画",
+        "source": "中央美术学院",
+        "source_id": "cafa_xiaoshufang"
+      }
+    },
+    {
+      "id": "artist_ext2_122",
+      "label": "郑乃珖",
+      "type": "Artist",
+      "properties": {
+        "name": "郑乃珖",
+        "birth_year": "1911",
+        "death_year": "2005",
+        "specialty": "花鸟画",
+        "source": "福建省美术馆",
+        "source_id": "fjam_zhengnailin"
+      }
+    },
+    {
+      "id": "artist_ext2_123",
+      "label": "宋雨桂",
+      "type": "Artist",
+      "properties": {
+        "name": "宋雨桂",
+        "birth_year": "1940",
+        "death_year": "2017",
+        "specialty": "山水画",
+        "source": "辽宁画院",
+        "source_id": "lnaa_songyugui"
+      }
+    },
+    {
+      "id": "artist_ext2_124",
+      "label": "冯远",
+      "type": "Artist",
+      "properties": {
+        "name": "冯远",
+        "birth_year": "1952",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国文联",
+        "source_id": "cflac_fengyuan"
+      }
+    },
+    {
+      "id": "artist_ext2_125",
+      "label": "吴长江",
+      "type": "Artist",
+      "properties": {
+        "name": "吴长江",
+        "birth_year": "1954",
+        "death_year": null,
+        "specialty": "版画",
+        "source": "中国美术家协会",
+        "source_id": "caa_wuchangjiang"
+      }
+    },
+    {
+      "id": "artist_ext2_126",
+      "label": "徐希",
+      "type": "Artist",
+      "properties": {
+        "name": "徐希",
+        "birth_year": "1940",
+        "death_year": "2015",
+        "specialty": "工笔花鸟画",
+        "source": "天津美术学院",
+        "source_id": "tjafa_xuxi"
+      }
+    },
+    {
+      "id": "artist_ext2_127",
+      "label": "贾平凹",
+      "type": "Artist",
+      "properties": {
+        "name": "贾平凹",
+        "birth_year": "1952",
+        "death_year": null,
+        "specialty": "书法、文学",
+        "source": "陕西省文联",
+        "source_id": "sxfl_jiapingwa"
+      }
+    },
+    {
+      "id": "artist_ext2_128",
+      "label": "林曦明",
+      "type": "Artist",
+      "properties": {
+        "name": "林曦明",
+        "birth_year": "1925",
+        "death_year": "2013",
+        "specialty": "版画",
+        "source": "上海美术家协会",
+        "source_id": "shaa_linximing"
+      }
+    },
+    {
+      "id": "artist_ext2_129",
+      "label": "杨晓阳",
+      "type": "Artist",
+      "properties": {
+        "name": "杨晓阳",
+        "birth_year": "1958",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_yangxiaoyang"
+      }
+    },
+    {
+      "id": "artist_ext2_130",
+      "label": "曾宓",
+      "type": "Artist",
+      "properties": {
+        "name": "曾宓",
+        "birth_year": "1935",
+        "death_year": "2022",
+        "specialty": "山水画、书法",
+        "source": "上海中国画院",
+        "source_id": "shcia_zengmi"
+      }
+    },
+    {
+      "id": "artist_ext2_131",
+      "label": "陈家泠",
+      "type": "Artist",
+      "properties": {
+        "name": "陈家泠",
+        "birth_year": "1937",
+        "death_year": null,
+        "specialty": "花鸟画、人物画",
+        "source": "上海中国画院",
+        "source_id": "shcia_chenjialing"
+      }
+    },
+    {
+      "id": "artist_ext2_132",
+      "label": "邱汉桥",
+      "type": "Artist",
+      "properties": {
+        "name": "邱汉桥",
+        "birth_year": "1958",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_qiuhanqiao"
+      }
+    },
+    {
+      "id": "artist_ext2_133",
+      "label": "李翔",
+      "type": "Artist",
+      "properties": {
+        "name": "李翔",
+        "birth_year": "1961",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_lixiang"
+      }
+    },
+    {
+      "id": "artist_ext2_134",
+      "label": "江宏伟",
+      "type": "Artist",
+      "properties": {
+        "name": "江宏伟",
+        "birth_year": "1957",
+        "death_year": null,
+        "specialty": "工笔花鸟画",
+        "source": "南京艺术学院",
+        "source_id": "nua_jianghongwei"
+      }
+    },
+    {
+      "id": "artist_ext2_135",
+      "label": "李魁正",
+      "type": "Artist",
+      "properties": {
+        "name": "李魁正",
+        "birth_year": "1942",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "黑龙江省画院",
+        "source_id": "hljaa_likuizheng"
+      }
+    },
+    {
+      "id": "artist_ext2_136",
+      "label": "韩美林",
+      "type": "Artist",
+      "properties": {
+        "name": "韩美林",
+        "birth_year": "1936",
+        "death_year": null,
+        "specialty": "雕塑、绘画、书法",
+        "source": "清华大学美术学院",
+        "source_id": "tsinghua_hanmeilin"
+      }
+    },
+    {
+      "id": "artist_ext2_137",
+      "label": "吴为山",
+      "type": "Artist",
+      "properties": {
+        "name": "吴为山",
+        "birth_year": "1962",
+        "death_year": null,
+        "specialty": "雕塑",
+        "source": "中国美术馆",
+        "source_id": "namoc_wuweishan"
+      }
+    },
+    {
+      "id": "artist_ext2_139",
+      "label": "薛亮",
+      "type": "Artist",
+      "properties": {
+        "name": "薛亮",
+        "birth_year": "1956",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_xueliang"
+      }
+    },
+    {
+      "id": "artist_ext2_140",
+      "label": "赵绪成",
+      "type": "Artist",
+      "properties": {
+        "name": "赵绪成",
+        "birth_year": "1944",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "山东画院",
+        "source_id": "sdaa_zhaoxucheng"
+      }
+    },
+    {
+      "id": "artist_ext2_141",
+      "label": "张志民",
+      "type": "Artist",
+      "properties": {
+        "name": "张志民",
+        "birth_year": "1956",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "山东艺术学院",
+        "source_id": "sdca_zhangzhimin"
+      }
+    },
+    {
+      "id": "artist_ext2_142",
+      "label": "孔维克",
+      "type": "Artist",
+      "properties": {
+        "name": "孔维克",
+        "birth_year": "1956",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "山东画院",
+        "source_id": "sdaa_kongweike"
+      }
+    },
+    {
+      "id": "artist_ext2_143",
+      "label": "张宜",
+      "type": "Artist",
+      "properties": {
+        "name": "张宜",
+        "birth_year": "1948",
+        "death_year": null,
+        "specialty": "花鸟画",
+        "source": "河南省美术家协会",
+        "source_id": "hnaa_zhangyi"
+      }
+    },
+    {
+      "id": "artist_ext2_144",
+      "label": "方土",
+      "type": "Artist",
+      "properties": {
+        "name": "方土",
+        "birth_year": "1963",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "安徽省美术家协会",
+        "source_id": "ahaa_fangtu"
+      }
+    },
+    {
+      "id": "artist_ext2_145",
+      "label": "徐累",
+      "type": "Artist",
+      "properties": {
+        "name": "徐累",
+        "birth_year": "1963",
+        "death_year": null,
+        "specialty": "工笔画",
+        "source": "中国国家画院",
+        "source_id": "cnaa_xulei"
+      }
+    },
+    {
+      "id": "artist_ext2_146",
+      "label": "李津",
+      "type": "Artist",
+      "properties": {
+        "name": "李津",
+        "birth_year": "1958",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "天津美术学院",
+        "source_id": "tjafa_lijin"
+      }
+    },
+    {
+      "id": "artist_ext2_147",
+      "label": "周京新",
+      "type": "Artist",
+      "properties": {
+        "name": "周京新",
+        "birth_year": "1959",
+        "death_year": null,
+        "specialty": "人物画、花鸟画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_zhoujingxin"
+      }
+    },
+    {
+      "id": "artist_ext2_148",
+      "label": "常进",
+      "type": "Artist",
+      "properties": {
+        "name": "常进",
+        "birth_year": "1954",
+        "death_year": null,
+        "specialty": "山水画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_changjin"
+      }
+    },
+    {
+      "id": "artist_ext2_149",
+      "label": "赵卫",
+      "type": "Artist",
+      "properties": {
+        "name": "赵卫",
+        "birth_year": "1953",
+        "death_year": null,
+        "specialty": "人物画",
+        "source": "江苏省国画院",
+        "source_id": "jscia_zhaowei"
+      }
+    },
+    {
+      "id": "artist_ext2_150",
+      "label": "聂危谷",
+      "type": "Artist",
+      "properties": {
+        "name": "聂危谷",
+        "birth_year": "1957",
+        "death_year": null,
+        "specialty": "书法",
+        "source": "中国书法家协会",
+        "source_id": "cca_nieweigu"
+      }
+    },
+    {
+      "id": "work_zhangdaqian_lotus",
+      "label": "荷花图",
+      "type": "Work",
+      "properties": {
+        "name": "荷花图",
+        "name_zh": "荷花图",
+        "type": "绘画",
+        "creation_date": "20世纪50年代",
+        "material": "纸本设色",
+        "dimensions": "约130cm × 65cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_linfengmian_lady",
+      "label": "仕女图",
+      "type": "Work",
+      "properties": {
+        "name": "仕女图",
+        "name_zh": "仕女图",
+        "type": "绘画",
+        "creation_date": "20世纪60年代",
+        "material": "纸本设色",
+        "dimensions": "约66cm × 66cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_likeren_guilin",
+      "label": "漓江山水",
+      "type": "Work",
+      "properties": {
+        "name": "漓江山水",
+        "name_zh": "漓江山水",
+        "type": "绘画",
+        "creation_date": "20世纪70年代",
+        "material": "纸本水墨",
+        "dimensions": "约120cm × 60cm",
+        "source": "中国美术馆藏",
+        "source_id": "cmg_work_003"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_modern",
+      "label": "近现代",
+      "type": "Period",
+      "properties": {
+        "label": "近现代",
+        "start_year": "1840",
+        "end_year": "2000",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "org_xbhmemorial",
+      "label": "徐悲鸿纪念馆",
+      "type": "Organization",
+      "properties": {
+        "name": "徐悲鸿纪念馆",
+        "name_zh": "徐悲鸿纪念馆",
+        "country": "中国",
+        "city": "北京",
+        "source": "官方"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_1",
+      "label": "清明上河图",
+      "type": "Work",
+      "properties": {
+        "name": "清明上河图",
+        "name_zh": "清明上河图",
+        "type": "绘画",
+        "creation_date": "北宋",
+        "dimensions": "24.8cm × 528.7cm",
+        "material": "绢本设色",
+        "source": "故宫博物院藏品总目",
+        "source_id": "dpm_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_1",
+      "label": "张择端",
+      "type": "Artist",
+      "properties": {
+        "name": "张择端",
+        "birth_year": "1085",
+        "death_year": "1145",
+        "source": "故宫博物院",
+        "source_id": "dpm_artist_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_1",
+      "label": "北宋",
+      "type": "Period",
+      "properties": {
+        "label": "北宋",
+        "start_year": "960",
+        "end_year": "1127",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "work_2",
+      "label": "兰亭序",
+      "type": "Work",
+      "properties": {
+        "name": "兰亭序",
+        "name_zh": "兰亭序",
+        "type": "书法",
+        "creation_date": "东晋永和九年",
+        "material": "纸本",
+        "source": "故宫博物院/著录",
+        "source_id": "dpm_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "artist_2",
+      "label": "王羲之",
+      "type": "Artist",
+      "properties": {
+        "name": "王羲之",
+        "birth_year": "303",
+        "death_year": "361",
+        "source": "故宫博物院/著录",
+        "source_id": "dpm_artist_002"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "period_2",
+      "label": "东晋",
+      "type": "Period",
+      "properties": {
+        "label": "东晋",
+        "start_year": "317",
+        "end_year": "420",
+        "source": "通用"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    },
+    {
+      "id": "exhibition_1",
+      "label": "故宫博物院藏历代人物画展",
+      "type": "Exhibition",
+      "properties": {
+        "name": "故宫博物院藏历代人物画展",
+        "venue": "故宫博物院",
+        "start_date": "2021-05-01",
+        "end_date": "2021-08-31",
+        "source": "故宫博物院官网",
+        "source_id": "dpm_exh_001"
+      },
+      "source_page": null,
+      "confidence": 1.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "work_001",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_002",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_松鹰图_artist_齐白石",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_奔马图_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_庐山图_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_006",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_双燕_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_008",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_010",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_011",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_012",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_013",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_014",
+      "target": "artist_ext_014",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_鹰石图_artist_潘天寿",
+      "target": "artist_潘天寿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_016",
+      "target": "artist_ext_014",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_017",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_018",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_019",
+      "target": "artist_ext_016",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_020",
+      "target": "artist_ext_016",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_021",
+      "target": "artist_ext_001",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_022",
+      "target": "artist_ext_001",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_023",
+      "target": "artist_ext_002",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_024",
+      "target": "artist_ext_002",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_025",
+      "target": "artist_ext2_040",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_026",
+      "target": "artist_ext2_040",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_027",
+      "target": "artist_ext_007",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_028",
+      "target": "artist_ext_007",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_029",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_030",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_长江万里图_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_032",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_033",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_034",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_狮子林_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_036",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_037",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_038",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_039",
+      "target": "artist_ext_004",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_040",
+      "target": "artist_ext_004",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_041",
+      "target": "artist_ext_019",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_042",
+      "target": "artist_ext_019",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_043",
+      "target": "artist_ext_020",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_044",
+      "target": "artist_ext_020",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_045",
+      "target": "artist_ext_023",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_046",
+      "target": "artist_ext_023",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_047",
+      "target": "artist_ext_006",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_048",
+      "target": "artist_ext_006",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_049",
+      "target": "artist_ext_024",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_050",
+      "target": "artist_ext_024",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_051",
+      "target": "artist_ext2_010",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_052",
+      "target": "artist_ext2_010",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_053",
+      "target": "artist_ext2_011",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_054",
+      "target": "artist_ext2_011",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_055",
+      "target": "artist_ext_015",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_056",
+      "target": "artist_ext_015",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_057",
+      "target": "artist_ext_028",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_058",
+      "target": "artist_ext_028",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_059",
+      "target": "artist_ext_027",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_060",
+      "target": "artist_ext_027",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_061",
+      "target": "artist_ext_030",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_062",
+      "target": "artist_ext_030",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_063",
+      "target": "artist_ext_034",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_064",
+      "target": "artist_ext_034",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_065",
+      "target": "artist_ext_035",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_066",
+      "target": "artist_ext_035",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_万山红遍_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_068",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_069",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_070",
+      "target": "artist_ext_011",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_071",
+      "target": "artist_ext_011",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_072",
+      "target": "artist_ext_012",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_073",
+      "target": "artist_ext_012",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_074",
+      "target": "artist_ext_021",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_075",
+      "target": "artist_ext_021",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_076",
+      "target": "artist_ext_022",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_077",
+      "target": "artist_ext_022",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_078",
+      "target": "artist_ext_048",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_079",
+      "target": "artist_ext_048",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_080",
+      "target": "artist_ext_050",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_081",
+      "target": "artist_ext_050",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_082",
+      "target": "artist_ext_006",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_083",
+      "target": "artist_ext_006",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_084",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_085",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_086",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_087",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_088",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_089",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_090",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_091",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_092",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_093",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_094",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_095",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_096",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_097",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_098",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_099",
+      "target": "artist_ext_030",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_100",
+      "target": "artist_潘天寿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_001",
+      "target": "org_beijingaa",
+      "relation": "HELD_BY"
+    },
+    {
+      "source": "work_002",
+      "target": "org_cmg",
+      "relation": "HELD_BY"
+    },
+    {
+      "source": "work_006",
+      "target": "auction_003",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_008",
+      "target": "auction_004",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_026",
+      "target": "auction_025",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_032",
+      "target": "auction_030",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_033",
+      "target": "auction_005",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_狮子林_artist_吴冠中",
+      "target": "auction_007",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_036",
+      "target": "auction_002",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_037",
+      "target": "auction_001",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_042",
+      "target": "auction_009",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_044",
+      "target": "auction_010",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_049",
+      "target": "auction_012",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_059",
+      "target": "auction_014",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_062",
+      "target": "auction_013",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_064",
+      "target": "auction_018",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_万山红遍_artist_李可染",
+      "target": "auction_010",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_069",
+      "target": "auction_008",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_071",
+      "target": "auction_024",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_073",
+      "target": "auction_015",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_076",
+      "target": "auction_021",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_079",
+      "target": "auction_016",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_081",
+      "target": "auction_033",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_084",
+      "target": "auction_031",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_088",
+      "target": "auction_007",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_094",
+      "target": "auction_022",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_095",
+      "target": "auction_001",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_096",
+      "target": "auction_023",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "work_098",
+      "target": "auction_006",
+      "relation": "SOLD_AT"
+    },
+    {
+      "source": "auction_001",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_002",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_003",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_004",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_005",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_006",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_007",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_008",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_009",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_010",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_011",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_012",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_013",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_014",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_015",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_016",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_017",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_018",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_019",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_020",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_021",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_022",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_023",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_024",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_025",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_026",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_027",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_028",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_029",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_030",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_031",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_032",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_033",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_034",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_035",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_036",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_037",
+      "target": "org_001",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_038",
+      "target": "org_003",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_039",
+      "target": "org_004",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "auction_040",
+      "target": "org_002",
+      "relation": "HOSTED_BY"
+    },
+    {
+      "source": "work_虾_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_蛙声十里出山泉_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_松鹰图_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_荷花蜻蜓_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_荷花_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_愚公移山_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_田横五百士_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_九方皋_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_黄山汤口_artist_黄宾虹",
+      "target": "artist_黄宾虹",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_青城山中坐雨_artist_黄宾虹",
+      "target": "artist_黄宾虹",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_雁荡山花_artist_潘天寿",
+      "target": "artist_潘天寿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_江山如此多娇_artist_傅抱石",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_潇潇暮雨_artist_傅抱石",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_漓江_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_井冈山_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_秋鹭_artist_林风眠",
+      "target": "artist_林风眠",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_仕女_artist_林风眠",
+      "target": "artist_林风眠",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_长江三峡_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "artist_齐白石",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_张大千",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_徐悲鸿",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_黄宾虹",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_潘天寿",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_傅抱石",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_李可染",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_林风眠",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_吴冠中",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "work_001",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_奔马图_artist_徐悲鸿",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_奔马图_artist_徐悲鸿",
+      "target": "org_xbhmemorial",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_zhangdaqian_lotus",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_zhangdaqian_lotus",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_zhangdaqian_lotus",
+      "target": "org_cmg",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_黄山汤口_artist_黄宾虹",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_鹰石图_artist_潘天寿",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_linfengmian_lady",
+      "target": "artist_林风眠",
+      "relation": "CREATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_linfengmian_lady",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_linfengmian_lady",
+      "target": "org_cmg",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_江山如此多娇_artist_傅抱石",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_likeren_guilin",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_likeren_guilin",
+      "target": "period_modern",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_likeren_guilin",
+      "target": "org_cmg",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_1",
+      "target": "artist_1",
+      "relation": "CREATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_1",
+      "target": "period_1",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_1",
+      "target": "org_1",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_1",
+      "target": "exhibition_1",
+      "relation": "EXHIBITED_AT",
+      "properties": {
+        "role": "参展"
+      }
+    },
+    {
+      "source": "work_2",
+      "target": "artist_2",
+      "relation": "CREATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "work_2",
+      "target": "period_2",
+      "relation": "CREATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "work_2",
+      "target": "org_1",
+      "relation": "HELD_BY",
+      "properties": {}
+    },
+    {
+      "source": "exhibition_1",
+      "target": "org_1",
+      "relation": "PART_OF",
+      "properties": {}
+    }
+  ],
+  "metadata": {
+    "description": "清洗和去重后的完整知识图谱数据",
+    "original_nodes": 413,
+    "cleaned_nodes": 362,
+    "original_edges": 231,
+    "cleaned_edges": 218
+  }
+}

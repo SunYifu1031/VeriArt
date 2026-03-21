@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "id": "artist_齐白石",
+      "label": "齐白石",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_齐白石",
+        "birth_year": "1864",
+        "death_year": "1957",
+        "style": "写意花鸟"
+      }
+    },
+    {
+      "id": "work_虾_artist_齐白石",
+      "label": "虾",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_虾_artist_齐白石",
+        "creation_date": "1948",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_蛙声十里出山泉_artist_齐白石",
+      "label": "蛙声十里出山泉",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_蛙声十里出山泉_artist_齐白石",
+        "creation_date": "1951",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_松鹰图_artist_齐白石",
+      "label": "松鹰图",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_松鹰图_artist_齐白石",
+        "creation_date": "1946",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_荷花蜻蜓_artist_齐白石",
+      "label": "荷花蜻蜓",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_荷花蜻蜓_artist_齐白石",
+        "creation_date": "1950",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_张大千",
+      "label": "张大千",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_张大千",
+        "birth_year": "1899",
+        "death_year": "1983",
+        "style": "山水画"
+      }
+    },
+    {
+      "id": "work_庐山图_artist_张大千",
+      "label": "庐山图",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_庐山图_artist_张大千",
+        "creation_date": "1981",
+        "material": "泼墨泼彩，纸本"
+      }
+    },
+    {
+      "id": "work_长江万里图_artist_张大千",
+      "label": "长江万里图",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_长江万里图_artist_张大千",
+        "creation_date": "1968",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_荷花_artist_张大千",
+      "label": "荷花",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_荷花_artist_张大千",
+        "creation_date": "1960",
+        "material": "工笔画，绢本"
+      }
+    },
+    {
+      "id": "artist_徐悲鸿",
+      "label": "徐悲鸿",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_徐悲鸿",
+        "birth_year": "1895",
+        "death_year": "1953",
+        "style": "写实主义"
+      }
+    },
+    {
+      "id": "work_奔马图_artist_徐悲鸿",
+      "label": "奔马图",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_奔马图_artist_徐悲鸿",
+        "creation_date": "1941",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_愚公移山_artist_徐悲鸿",
+      "label": "愚公移山",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_愚公移山_artist_徐悲鸿",
+        "creation_date": "1940",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "work_田横五百士_artist_徐悲鸿",
+      "label": "田横五百士",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_田横五百士_artist_徐悲鸿",
+        "creation_date": "1930",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "work_九方皋_artist_徐悲鸿",
+      "label": "九方皋",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_九方皋_artist_徐悲鸿",
+        "creation_date": "1931",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_黄宾虹",
+      "label": "黄宾虹",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_黄宾虹",
+        "birth_year": "1865",
+        "death_year": "1955",
+        "style": "山水画"
+      }
+    },
+    {
+      "id": "work_黄山汤口_artist_黄宾虹",
+      "label": "黄山汤口",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_黄山汤口_artist_黄宾虹",
+        "creation_date": "1954",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_青城山中坐雨_artist_黄宾虹",
+      "label": "青城山中坐雨",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_青城山中坐雨_artist_黄宾虹",
+        "creation_date": "1933",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_潘天寿",
+      "label": "潘天寿",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_潘天寿",
+        "birth_year": "1897",
+        "death_year": "1971",
+        "style": "花鸟画"
+      }
+    },
+    {
+      "id": "work_雁荡山花_artist_潘天寿",
+      "label": "雁荡山花",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_雁荡山花_artist_潘天寿",
+        "creation_date": "1963",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_鹰石图_artist_潘天寿",
+      "label": "鹰石图",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_鹰石图_artist_潘天寿",
+        "creation_date": "1960",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_傅抱石",
+      "label": "傅抱石",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_傅抱石",
+        "birth_year": "1904",
+        "death_year": "1965",
+        "style": "山水画"
+      }
+    },
+    {
+      "id": "work_江山如此多娇_artist_傅抱石",
+      "label": "江山如此多娇",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_江山如此多娇_artist_傅抱石",
+        "creation_date": "1959",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_潇潇暮雨_artist_傅抱石",
+      "label": "潇潇暮雨",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_潇潇暮雨_artist_傅抱石",
+        "creation_date": "1945",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_李可染",
+      "label": "李可染",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_李可染",
+        "birth_year": "1907",
+        "death_year": "1989",
+        "style": "山水画"
+      }
+    },
+    {
+      "id": "work_万山红遍_artist_李可染",
+      "label": "万山红遍",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_万山红遍_artist_李可染",
+        "creation_date": "1964",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_漓江_artist_李可染",
+      "label": "漓江",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_漓江_artist_李可染",
+        "creation_date": "1963",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_井冈山_artist_李可染",
+      "label": "井冈山",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_井冈山_artist_李可染",
+        "creation_date": "1976",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_林风眠",
+      "label": "林风眠",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_林风眠",
+        "birth_year": "1900",
+        "death_year": "1991",
+        "style": "现代派"
+      }
+    },
+    {
+      "id": "work_秋鹭_artist_林风眠",
+      "label": "秋鹭",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_秋鹭_artist_林风眠",
+        "creation_date": "1960",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_仕女_artist_林风眠",
+      "label": "仕女",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_仕女_artist_林风眠",
+        "creation_date": "1970",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "artist_吴冠中",
+      "label": "吴冠中",
+      "type": "Artist",
+      "properties": {
+        "source": "verified",
+        "source_id": "artist_吴冠中",
+        "birth_year": "1919",
+        "death_year": "2010",
+        "style": "油画、水墨"
+      }
+    },
+    {
+      "id": "work_长江三峡_artist_吴冠中",
+      "label": "长江三峡",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_长江三峡_artist_吴冠中",
+        "creation_date": "1974",
+        "material": "油画，布面"
+      }
+    },
+    {
+      "id": "work_双燕_artist_吴冠中",
+      "label": "双燕",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_双燕_artist_吴冠中",
+        "creation_date": "1988",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "work_狮子林_artist_吴冠中",
+      "label": "狮子林",
+      "type": "Work",
+      "properties": {
+        "source": "verified",
+        "source_id": "work_狮子林_artist_吴冠中",
+        "creation_date": "1983",
+        "material": "水墨画，纸本"
+      }
+    },
+    {
+      "id": "period_modern_chinese",
+      "label": "中国近现代",
+      "type": "Period",
+      "properties": {
+        "start_year": "1840",
+        "end_year": "2000",
+        "description": "从鸦片战争到20世纪末",
+        "source": "verified"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "work_虾_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_蛙声十里出山泉_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_松鹰图_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_荷花蜻蜓_artist_齐白石",
+      "target": "artist_齐白石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_庐山图_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_长江万里图_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_荷花_artist_张大千",
+      "target": "artist_张大千",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_奔马图_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_愚公移山_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_田横五百士_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_九方皋_artist_徐悲鸿",
+      "target": "artist_徐悲鸿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_黄山汤口_artist_黄宾虹",
+      "target": "artist_黄宾虹",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_青城山中坐雨_artist_黄宾虹",
+      "target": "artist_黄宾虹",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_雁荡山花_artist_潘天寿",
+      "target": "artist_潘天寿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_鹰石图_artist_潘天寿",
+      "target": "artist_潘天寿",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_江山如此多娇_artist_傅抱石",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_潇潇暮雨_artist_傅抱石",
+      "target": "artist_傅抱石",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_万山红遍_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_漓江_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_井冈山_artist_李可染",
+      "target": "artist_李可染",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_秋鹭_artist_林风眠",
+      "target": "artist_林风眠",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_仕女_artist_林风眠",
+      "target": "artist_林风眠",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_长江三峡_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_双燕_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "work_狮子林_artist_吴冠中",
+      "target": "artist_吴冠中",
+      "relation": "CREATED_BY"
+    },
+    {
+      "source": "artist_齐白石",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_张大千",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_徐悲鸿",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_黄宾虹",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_潘天寿",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_傅抱石",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_李可染",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_林风眠",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "artist_吴冠中",
+      "target": "period_modern_chinese",
+      "relation": "belongs_to"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-09T10:38:51.794542",
+    "source": "manual_verified",
+    "description": "中国近现代著名画家及代表作品"
+  }
+}
